@@ -1,0 +1,478 @@
+{
+  "as_of_toronto": "2026-11-15",
+  "division": "GTHL U10 A West",
+  "season": "2026–27",
+  "status": "verified_against_official_GTHL_standings",
+  "game_count": 34,
+  "team_count": 8,
+  "rankings": [
+    {
+      "rank": "1",
+      "team": "Vaughan Rangers",
+      "power_rating": "4.6871",
+      "momentum_rating": "3.8833",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "2",
+      "team": "Duffield Devils",
+      "power_rating": "1.184",
+      "momentum_rating": "2.8424",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "3",
+      "team": "The Attack",
+      "power_rating": "0.736",
+      "momentum_rating": "-0.5045",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "4",
+      "team": "Humber Valley Sharks",
+      "power_rating": "0.4151",
+      "momentum_rating": "1.2909",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "5",
+      "team": "Toronto Eagles",
+      "power_rating": "-0.0548",
+      "momentum_rating": "-0.2091",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "6",
+      "team": "Greater Toronto Capitals",
+      "power_rating": "-0.3153",
+      "momentum_rating": "-1.25",
+      "games_played": "10",
+      "rank_change": null
+    },
+    {
+      "rank": "7",
+      "team": "Vaughan Panthers",
+      "power_rating": "-1.2838",
+      "momentum_rating": "-1.1909",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "8",
+      "team": "George Bell Titans",
+      "power_rating": "-5.3684",
+      "momentum_rating": "-4.8621",
+      "games_played": "8",
+      "rank_change": null
+    }
+  ],
+  "standings": [
+    {
+      "team": "Vaughan Rangers",
+      "gp": "8",
+      "w": "8",
+      "l": "0",
+      "t": "0",
+      "gf": "67",
+      "ga": "11",
+      "pts": "16"
+    },
+    {
+      "team": "The Attack",
+      "gp": "9",
+      "w": "5",
+      "l": "4",
+      "t": "0",
+      "gf": "44",
+      "ga": "28",
+      "pts": "10"
+    },
+    {
+      "team": "Toronto Eagles",
+      "gp": "9",
+      "w": "5",
+      "l": "4",
+      "t": "0",
+      "gf": "32",
+      "ga": "29",
+      "pts": "10"
+    },
+    {
+      "team": "Greater Toronto Capitals",
+      "gp": "10",
+      "w": "4",
+      "l": "4",
+      "t": "2",
+      "gf": "41",
+      "ga": "28",
+      "pts": "10"
+    },
+    {
+      "team": "Duffield Devils",
+      "gp": "8",
+      "w": "4",
+      "l": "3",
+      "t": "1",
+      "gf": "36",
+      "ga": "25",
+      "pts": "9"
+    },
+    {
+      "team": "Humber Valley Sharks",
+      "gp": "8",
+      "w": "4",
+      "l": "4",
+      "t": "0",
+      "gf": "33",
+      "ga": "23",
+      "pts": "8"
+    },
+    {
+      "team": "Vaughan Panthers",
+      "gp": "8",
+      "w": "2",
+      "l": "5",
+      "t": "1",
+      "gf": "20",
+      "ga": "32",
+      "pts": "5"
+    },
+    {
+      "team": "George Bell Titans",
+      "gp": "8",
+      "w": "0",
+      "l": "8",
+      "t": "0",
+      "gf": "4",
+      "ga": "101",
+      "pts": "0"
+    }
+  ],
+  "games": [
+    {
+      "date": "2026-10-15",
+      "away": "George Bell Titans",
+      "away_score": "0",
+      "home": "The Attack",
+      "home_score": "15",
+      "arena": "Amesbury",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-15",
+      "away": "Toronto Eagles",
+      "away_score": "4",
+      "home": "Humber Valley Sharks",
+      "home_score": "3",
+      "arena": "Pinepoint",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-16",
+      "away": "Duffield Devils",
+      "away_score": "2",
+      "home": "Vaughan Rangers",
+      "home_score": "7",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-17",
+      "away": "Greater Toronto Capitals",
+      "away_score": "14",
+      "home": "George Bell Titans",
+      "home_score": "1",
+      "arena": "George Bell Arena",
+      "source": "gthl_team_detail"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "Greater Toronto Capitals",
+      "away_score": "1",
+      "home": "Duffield Devils",
+      "home_score": "3",
+      "arena": "Scotiabank Pond 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "The Attack",
+      "away_score": "6",
+      "home": "Toronto Eagles",
+      "home_score": "2",
+      "arena": "Lambton",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "Vaughan Rangers",
+      "away_score": "11",
+      "home": "Vaughan Panthers",
+      "home_score": "1",
+      "arena": "Vaughan Sports Village B",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-19",
+      "away": "The Attack",
+      "away_score": "6",
+      "home": "Duffield Devils",
+      "home_score": "3",
+      "arena": "Scotiabank Pond 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "Humber Valley Sharks",
+      "away_score": "1",
+      "home": "Vaughan Rangers",
+      "home_score": "7",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "Humber Valley Sharks",
+      "away_score": "14",
+      "home": "George Bell Titans",
+      "home_score": "1",
+      "arena": "George Bell Arena",
+      "source": "gthl_team_detail"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "Vaughan Panthers",
+      "away_score": "0",
+      "home": "Toronto Eagles",
+      "home_score": "4",
+      "arena": "NFP Athletic Centre - Canlan York 5",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "Vaughan Rangers",
+      "away_score": "8",
+      "home": "Greater Toronto Capitals",
+      "home_score": "1",
+      "arena": "NFP Athletic Centre - Canlan York 6",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "George Bell Titans",
+      "away_score": "1",
+      "home": "Toronto Eagles",
+      "home_score": "11",
+      "arena": "Lambton",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "Greater Toronto Capitals",
+      "away_score": "4",
+      "home": "Vaughan Panthers",
+      "home_score": "3",
+      "arena": "Vaughan Sports Village B",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-29",
+      "away": "Duffield Devils",
+      "away_score": "3",
+      "home": "Greater Toronto Capitals",
+      "home_score": "3",
+      "arena": "Pinepoint",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-29",
+      "away": "Vaughan Panthers",
+      "away_score": "5",
+      "home": "The Attack",
+      "home_score": "4",
+      "arena": "Amesbury",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "The Attack",
+      "away_score": "3",
+      "home": "Humber Valley Sharks",
+      "home_score": "2",
+      "arena": "Westwood 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "Toronto Eagles",
+      "away_score": "0",
+      "home": "Vaughan Rangers",
+      "home_score": "7",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-31",
+      "away": "Vaughan Rangers",
+      "away_score": "15",
+      "home": "George Bell Titans",
+      "home_score": "0",
+      "arena": "George Bell Arena",
+      "source": "gthl_team_detail"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "Duffield Devils",
+      "away_score": "3",
+      "home": "Humber Valley Sharks",
+      "home_score": "0",
+      "arena": "CWENCH Centre Etobicoke 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "George Bell Titans",
+      "away_score": "1",
+      "home": "Vaughan Panthers",
+      "home_score": "9",
+      "arena": "Vaughan Sports Village B",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "Greater Toronto Capitals",
+      "away_score": "5",
+      "home": "Toronto Eagles",
+      "home_score": "2",
+      "arena": "Lambton",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "Humber Valley Sharks",
+      "away_score": "3",
+      "home": "Greater Toronto Capitals",
+      "home_score": "1",
+      "arena": "Pinepoint",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "Vaughan Rangers",
+      "away_score": "7",
+      "home": "The Attack",
+      "home_score": "2",
+      "arena": "Pinepoint",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-05",
+      "away": "Greater Toronto Capitals",
+      "away_score": "0",
+      "home": "The Attack",
+      "home_score": "4",
+      "arena": "Amesbury",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "Toronto Eagles",
+      "away_score": "2",
+      "home": "Vaughan Panthers",
+      "home_score": "0",
+      "arena": "Vaughan Sports Village A",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-07",
+      "away": "Duffield Devils",
+      "away_score": "12",
+      "home": "George Bell Titans",
+      "home_score": "0",
+      "arena": "Westwood 5",
+      "source": "gthl_team_detail"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "Duffield Devils",
+      "away_score": "6",
+      "home": "Toronto Eagles",
+      "home_score": "3",
+      "arena": "Lambton",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "Humber Valley Sharks",
+      "away_score": "5",
+      "home": "Vaughan Panthers",
+      "home_score": "1",
+      "arena": "Vaughan Sports Village B",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "George Bell Titans",
+      "away_score": "0",
+      "home": "Greater Toronto Capitals",
+      "home_score": "11",
+      "arena": "Pinepoint",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "Humber Valley Sharks",
+      "away_score": "5",
+      "home": "The Attack",
+      "home_score": "3",
+      "arena": "Pinepoint",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-12",
+      "away": "Toronto Eagles",
+      "away_score": "4",
+      "home": "The Attack",
+      "home_score": "1",
+      "arena": "Amesbury",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-13",
+      "away": "Vaughan Panthers",
+      "away_score": "1",
+      "home": "Greater Toronto Capitals",
+      "home_score": "1",
+      "arena": "CWENCH Centre Etobicoke 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-14",
+      "away": "Vaughan Rangers",
+      "away_score": "5",
+      "home": "Duffield Devils",
+      "home_score": "4",
+      "arena": "Chesswood 2",
+      "source": "gthl_schedule"
+    }
+  ],
+  "changes": {
+    "added": 34,
+    "changed": 0,
+    "removed": 0
+  },
+  "quality": {
+    "rankings_published": true,
+    "matched_teams": 8,
+    "issues": []
+  },
+  "source": {
+    "schedule": "https://gthlcanada.com/schedule/",
+    "standings": "https://gthlcanada.com/standing/"
+  }
+}

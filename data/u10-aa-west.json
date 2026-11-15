@@ -12,7 +12,7 @@
       "power_rating": "2.9058",
       "momentum_rating": "3.0408",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "2",
@@ -20,7 +20,7 @@
       "power_rating": "2.7926",
       "momentum_rating": "2.7471",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "3",
@@ -28,7 +28,7 @@
       "power_rating": "1.9641",
       "momentum_rating": "0.9529",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "4",
@@ -36,7 +36,7 @@
       "power_rating": "1.1993",
       "momentum_rating": "0.5698",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "5",
@@ -44,7 +44,7 @@
       "power_rating": "0.8555",
       "momentum_rating": "0.9423",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "6",
@@ -52,7 +52,7 @@
       "power_rating": "0.8424",
       "momentum_rating": "2.2127",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "7",
@@ -60,7 +60,7 @@
       "power_rating": "0.6296",
       "momentum_rating": "0.7053",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "8",
@@ -68,7 +68,7 @@
       "power_rating": "0.2865",
       "momentum_rating": "0.4893",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "9",
@@ -76,7 +76,7 @@
       "power_rating": "0.0654",
       "momentum_rating": "-0.7939",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "10",
@@ -84,7 +84,7 @@
       "power_rating": "-0.0141",
       "momentum_rating": "0.7639",
       "games_played": "7",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "11",
@@ -92,7 +92,7 @@
       "power_rating": "-0.994",
       "momentum_rating": "-0.14",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "12",
@@ -100,7 +100,7 @@
       "power_rating": "-1.3232",
       "momentum_rating": "-1.2087",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "13",
@@ -108,7 +108,7 @@
       "power_rating": "-1.6753",
       "momentum_rating": "-2.2131",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "14",
@@ -116,7 +116,7 @@
       "power_rating": "-2.8603",
       "momentum_rating": "-3.943",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "15",
@@ -124,7 +124,7 @@
       "power_rating": "-4.6743",
       "momentum_rating": "-4.1255",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     }
   ],
   "standings": [
@@ -287,7 +287,7 @@
       "home": "Mississauga Beast",
       "home_score": "4",
       "arena": "Mississauga Sports and Entertainment Centre 3",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-13",
@@ -296,7 +296,7 @@
       "home": "Mississauga North Stars",
       "home_score": "3",
       "arena": "Tomken 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-14",
@@ -305,7 +305,7 @@
       "home": "Greater Toronto Capitals",
       "home_score": "3",
       "arena": "Pinepoint",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-15",
@@ -314,7 +314,7 @@
       "home": "Mississauga Jets",
       "home_score": "2",
       "arena": "Iceland 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-15",
@@ -323,7 +323,7 @@
       "home": "Mississauga Terriers",
       "home_score": "3",
       "arena": "Iceland 3",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-16",
@@ -332,7 +332,7 @@
       "home": "Faustina Toros",
       "home_score": "1",
       "arena": "Westwood 3",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-16",
@@ -341,7 +341,7 @@
       "home": "Vaughan Rangers",
       "home_score": "4",
       "arena": "Al Palladini West",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-18",
@@ -350,7 +350,7 @@
       "home": "West Mall Lightning",
       "home_score": "5",
       "arena": "NFP Athletic Centre - Canlan York 5",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-18",
@@ -359,7 +359,7 @@
       "home": "Toronto Eagles",
       "home_score": "0",
       "arena": "Lambton",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-18",
@@ -368,7 +368,7 @@
       "home": "Duffield Devils",
       "home_score": "0",
       "arena": "Scotiabank Pond 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-18",
@@ -377,7 +377,7 @@
       "home": "Mississauga Rattlers",
       "home_score": "1",
       "arena": "Mississauga Sports and Entertainment Centre 4",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-18",
@@ -386,7 +386,7 @@
       "home": "Streetsville Tigers",
       "home_score": "1",
       "arena": "Vic Johnston",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-19",
@@ -395,7 +395,7 @@
       "home": "Toronto Eagles",
       "home_score": "3",
       "arena": "Pinepoint",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-19",
@@ -404,7 +404,7 @@
       "home": "Mississauga Terriers",
       "home_score": "11",
       "arena": "Erin Mills 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-19",
@@ -413,7 +413,7 @@
       "home": "Vaughan Panthers",
       "home_score": "2",
       "arena": "Vaughan Sports Village B",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-20",
@@ -422,7 +422,7 @@
       "home": "Mississauga North Stars",
       "home_score": "3",
       "arena": "Tomken 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-21",
@@ -431,7 +431,7 @@
       "home": "Greater Toronto Capitals",
       "home_score": "1",
       "arena": "Pinepoint",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-22",
@@ -440,7 +440,7 @@
       "home": "Mississauga Jets",
       "home_score": "6",
       "arena": "Iceland 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-23",
@@ -449,7 +449,7 @@
       "home": "Toronto Wolverines",
       "home_score": "2",
       "arena": "CWENCH Centre Etobicoke 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-23",
@@ -458,7 +458,7 @@
       "home": "Faustina Toros",
       "home_score": "4",
       "arena": "Westwood 3",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-23",
@@ -467,7 +467,7 @@
       "home": "West Mall Lightning",
       "home_score": "2",
       "arena": "Etobicoke Centennial East",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-25",
@@ -476,7 +476,7 @@
       "home": "Faustina Toros",
       "home_score": "2",
       "arena": "NFP Athletic Centre - Canlan York 4",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-25",
@@ -485,7 +485,7 @@
       "home": "Humber Valley Sharks",
       "home_score": "4",
       "arena": "CWENCH Centre Etobicoke 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-25",
@@ -494,7 +494,7 @@
       "home": "Mississauga Rattlers",
       "home_score": "4",
       "arena": "Mississauga Sports and Entertainment Centre 4",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-25",
@@ -503,7 +503,7 @@
       "home": "Toronto Eagles",
       "home_score": "2",
       "arena": "Lambton",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-25",
@@ -512,7 +512,7 @@
       "home": "Duffield Devils",
       "home_score": "3",
       "arena": "NFP Athletic Centre - Canlan York 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-25",
@@ -521,7 +521,7 @@
       "home": "Streetsville Tigers",
       "home_score": "1",
       "arena": "Vic Johnston",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-26",
@@ -530,7 +530,7 @@
       "home": "Mississauga Terriers",
       "home_score": "3",
       "arena": "Erin Mills 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-26",
@@ -539,7 +539,7 @@
       "home": "Vaughan Panthers",
       "home_score": "2",
       "arena": "Vaughan Sports Village B",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-27",
@@ -548,7 +548,7 @@
       "home": "Mississauga North Stars",
       "home_score": "6",
       "arena": "Tomken 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-27",
@@ -557,7 +557,7 @@
       "home": "Mississauga Beast",
       "home_score": "2",
       "arena": "Mississauga Sports and Entertainment Centre 3",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-28",
@@ -566,7 +566,7 @@
       "home": "Greater Toronto Capitals",
       "home_score": "4",
       "arena": "Pinepoint",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-29",
@@ -575,7 +575,7 @@
       "home": "Mississauga Jets",
       "home_score": "6",
       "arena": "Iceland 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-29",
@@ -584,7 +584,7 @@
       "home": "Humber Valley Sharks",
       "home_score": "2",
       "arena": "Pinepoint",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-30",
@@ -593,7 +593,7 @@
       "home": "Toronto Wolverines",
       "home_score": "3",
       "arena": "CWENCH Centre Etobicoke 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-30",
@@ -602,7 +602,7 @@
       "home": "West Mall Lightning",
       "home_score": "6",
       "arena": "Etobicoke Centennial West",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-30",
@@ -611,7 +611,7 @@
       "home": "Vaughan Rangers",
       "home_score": "5",
       "arena": "Al Palladini West",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-30",
@@ -620,7 +620,7 @@
       "home": "Faustina Toros",
       "home_score": "3",
       "arena": "Westwood 3",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-01",
@@ -629,7 +629,7 @@
       "home": "Duffield Devils",
       "home_score": "2",
       "arena": "Scotiabank Pond 3",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-01",
@@ -638,7 +638,7 @@
       "home": "Mississauga Rattlers",
       "home_score": "2",
       "arena": "Mississauga Sports and Entertainment Centre 4",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-01",
@@ -647,7 +647,7 @@
       "home": "Streetsville Tigers",
       "home_score": "0",
       "arena": "Vic Johnston",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-01",
@@ -656,7 +656,7 @@
       "home": "Toronto Eagles",
       "home_score": "3",
       "arena": "Lambton",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-02",
@@ -665,7 +665,7 @@
       "home": "Vaughan Rangers",
       "home_score": "6",
       "arena": "Vaughan Sports Village A",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-02",
@@ -674,7 +674,7 @@
       "home": "Vaughan Panthers",
       "home_score": "1",
       "arena": "Vaughan Sports Village B",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-02",
@@ -683,7 +683,7 @@
       "home": "Mississauga Terriers",
       "home_score": "3",
       "arena": "Erin Mills 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-03",
@@ -692,7 +692,7 @@
       "home": "Mississauga Beast",
       "home_score": "11",
       "arena": "Mississauga Sports and Entertainment Centre 3",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-03",
@@ -701,7 +701,7 @@
       "home": "Mississauga North Stars",
       "home_score": "6",
       "arena": "Tomken 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-04",
@@ -710,7 +710,7 @@
       "home": "Greater Toronto Capitals",
       "home_score": "8",
       "arena": "Pinepoint",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-05",
@@ -719,7 +719,7 @@
       "home": "Mississauga Jets",
       "home_score": "10",
       "arena": "Iceland 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-06",
@@ -728,7 +728,7 @@
       "home": "West Mall Lightning",
       "home_score": "1",
       "arena": "Etobicoke Centennial West",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-06",
@@ -737,7 +737,7 @@
       "home": "Mississauga Beast",
       "home_score": "5",
       "arena": "Westwood 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-06",
@@ -746,7 +746,7 @@
       "home": "Vaughan Rangers",
       "home_score": "5",
       "arena": "Al Palladini West",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-06",
@@ -755,7 +755,7 @@
       "home": "Toronto Wolverines",
       "home_score": "2",
       "arena": "CWENCH Centre Etobicoke 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-08",
@@ -764,7 +764,7 @@
       "home": "Streetsville Tigers",
       "home_score": "0",
       "arena": "Vic Johnston",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-08",
@@ -773,7 +773,7 @@
       "home": "Mississauga Rattlers",
       "home_score": "1",
       "arena": "Mississauga Sports and Entertainment Centre 4",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-08",
@@ -782,7 +782,7 @@
       "home": "Toronto Eagles",
       "home_score": "3",
       "arena": "Lambton",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-08",
@@ -791,7 +791,7 @@
       "home": "West Mall Lightning",
       "home_score": "2",
       "arena": "Westwood 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-09",
@@ -800,7 +800,7 @@
       "home": "Vaughan Panthers",
       "home_score": "2",
       "arena": "Vaughan Sports Village B",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-09",
@@ -809,7 +809,7 @@
       "home": "Vaughan Rangers",
       "home_score": "5",
       "arena": "Vaughan Sports Village A",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-09",
@@ -818,7 +818,7 @@
       "home": "Mississauga Terriers",
       "home_score": "3",
       "arena": "Erin Mills 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-10",
@@ -827,7 +827,7 @@
       "home": "Mississauga North Stars",
       "home_score": "13",
       "arena": "Tomken 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-10",
@@ -836,7 +836,7 @@
       "home": "Mississauga Beast",
       "home_score": "5",
       "arena": "Mississauga Sports and Entertainment Centre 4",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-11",
@@ -845,7 +845,7 @@
       "home": "Greater Toronto Capitals",
       "home_score": "5",
       "arena": "Pinepoint",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-12",
@@ -854,7 +854,7 @@
       "home": "Mississauga Jets",
       "home_score": "2",
       "arena": "Iceland 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-13",
@@ -863,7 +863,7 @@
       "home": "Faustina Toros",
       "home_score": "1",
       "arena": "Westwood 3",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-13",
@@ -872,7 +872,7 @@
       "home": "Mississauga North Stars",
       "home_score": "2",
       "arena": "Westwood 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-14",
@@ -881,11 +881,11 @@
       "home": "Mississauga Jets",
       "home_score": "3",
       "arena": "Westwood 5",
-      "source": null
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 67,
+    "added": 0,
     "changed": 0,
     "removed": 0
   },

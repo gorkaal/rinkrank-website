@@ -12,7 +12,7 @@
       "power_rating": "4.3333",
       "momentum_rating": "4.3842",
       "games_played": "11",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "2",
@@ -20,7 +20,7 @@
       "power_rating": "1.9091",
       "momentum_rating": "1.0513",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "3",
@@ -28,7 +28,7 @@
       "power_rating": "1.4287",
       "momentum_rating": "2.3704",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "4",
@@ -36,7 +36,7 @@
       "power_rating": "1.3581",
       "momentum_rating": "0.9386",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "5",
@@ -44,7 +44,7 @@
       "power_rating": "0.0924",
       "momentum_rating": "0.8016",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "6",
@@ -52,7 +52,7 @@
       "power_rating": "-0.0916",
       "momentum_rating": "-0.6396",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "7",
@@ -60,7 +60,7 @@
       "power_rating": "-0.1308",
       "momentum_rating": "0.8211",
       "games_played": "7",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "8",
@@ -68,7 +68,7 @@
       "power_rating": "-0.1699",
       "momentum_rating": "-0.6574",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "9",
@@ -76,7 +76,7 @@
       "power_rating": "-0.5778",
       "momentum_rating": "-0.9947",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "10",
@@ -84,7 +84,7 @@
       "power_rating": "-1.7162",
       "momentum_rating": "-1.617",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "11",
@@ -92,7 +92,7 @@
       "power_rating": "-2.4353",
       "momentum_rating": "-3.0238",
       "games_played": "11",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "12",
@@ -100,7 +100,7 @@
       "power_rating": "-4.0002",
       "momentum_rating": "-3.4348",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     }
   ],
   "standings": [
@@ -233,7 +233,7 @@
       "home": "Don Mills Flyers",
       "home_score": "7",
       "arena": "Scotiabank Pond 3",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-05",
@@ -242,7 +242,7 @@
       "home": "Mississauga Rebels",
       "home_score": "1",
       "arena": "Scotiabank Pond 3",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-06",
@@ -251,7 +251,7 @@
       "home": "Toronto Young Nationals",
       "home_score": "6",
       "arena": "Scotiabank Pond 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-07",
@@ -260,7 +260,7 @@
       "home": "Reps Hockey Club",
       "home_score": "1",
       "arena": "Westwood 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-09",
@@ -269,7 +269,7 @@
       "home": "Toronto Marlboros",
       "home_score": "3",
       "arena": "CWENCH Centre Etobicoke 3",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-09",
@@ -278,7 +278,7 @@
       "home": "North York Rangers",
       "home_score": "4",
       "arena": "Scotiabank Pond 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-10",
@@ -287,7 +287,7 @@
       "home": "Toronto Titans",
       "home_score": "3",
       "arena": "Scotiabank Pond 4",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-10",
@@ -296,7 +296,7 @@
       "home": "Vaughan Kings",
       "home_score": "1",
       "arena": "Westwood 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-11",
@@ -305,7 +305,7 @@
       "home": "Jr. Canadiens",
       "home_score": "0",
       "arena": "Scotiabank Pond 4",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-11",
@@ -314,7 +314,7 @@
       "home": "Markham Majors",
       "home_score": "0",
       "arena": "Thornhill Centre West",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-11",
@@ -323,7 +323,7 @@
       "home": "Toronto Marlboros",
       "home_score": "4",
       "arena": "CWENCH Centre Etobicoke 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-11",
@@ -332,7 +332,7 @@
       "home": "Toronto Young Nationals",
       "home_score": "5",
       "arena": "Scotiabank Pond 3",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-12",
@@ -341,7 +341,7 @@
       "home": "Toronto Young Nationals",
       "home_score": "5",
       "arena": "Westwood 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-12",
@@ -350,7 +350,7 @@
       "home": "Mississauga Senators",
       "home_score": "3",
       "arena": "Scotiabank Pond 4",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-13",
@@ -359,7 +359,7 @@
       "home": "Mississauga Rebels",
       "home_score": "2",
       "arena": "Mississauga Sports and Entertainment Centre 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-16",
@@ -368,7 +368,7 @@
       "home": "Toronto Red Wings",
       "home_score": "5",
       "arena": "Chesswood 4",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-17",
@@ -377,7 +377,7 @@
       "home": "Toronto Titans",
       "home_score": "1",
       "arena": "Scotiabank Pond 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-17",
@@ -386,7 +386,7 @@
       "home": "North York Rangers",
       "home_score": "0",
       "arena": "Herbert Carnegie",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-18",
@@ -395,7 +395,7 @@
       "home": "Markham Majors",
       "home_score": "0",
       "arena": "Thornhill Centre West",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-18",
@@ -404,7 +404,7 @@
       "home": "Don Mills Flyers",
       "home_score": "0",
       "arena": "Victoria Village",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-19",
@@ -413,7 +413,7 @@
       "home": "Toronto Young Nationals",
       "home_score": "1",
       "arena": "Westwood 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-20",
@@ -422,7 +422,7 @@
       "home": "Jr. Canadiens",
       "home_score": "2",
       "arena": "Scotiabank Pond 3",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-21",
@@ -431,7 +431,7 @@
       "home": "Reps Hockey Club",
       "home_score": "2",
       "arena": "Westwood 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-22",
@@ -440,7 +440,7 @@
       "home": "Mississauga Rebels",
       "home_score": "0",
       "arena": "Iceland 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-23",
@@ -449,7 +449,7 @@
       "home": "Toronto Marlboros",
       "home_score": "9",
       "arena": "CWENCH Centre Etobicoke 3",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-24",
@@ -458,7 +458,7 @@
       "home": "North York Rangers",
       "home_score": "2",
       "arena": "Herbert Carnegie",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-24",
@@ -467,7 +467,7 @@
       "home": "Vaughan Kings",
       "home_score": "3",
       "arena": "Westwood 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-25",
@@ -476,7 +476,7 @@
       "home": "Markham Majors",
       "home_score": "2",
       "arena": "Thornhill Centre West",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-25",
@@ -485,7 +485,7 @@
       "home": "Mississauga Senators",
       "home_score": "3",
       "arena": "NFP Athletic Centre - Canlan York 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-25",
@@ -494,7 +494,7 @@
       "home": "Toronto Red Wings",
       "home_score": "3",
       "arena": "NFP Athletic Centre - Canlan York 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-26",
@@ -503,7 +503,7 @@
       "home": "Mississauga Senators",
       "home_score": "5",
       "arena": "Mississauga Sports and Entertainment Centre 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-29",
@@ -512,7 +512,7 @@
       "home": "Mississauga Rebels",
       "home_score": "5",
       "arena": "Iceland 3",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-30",
@@ -521,7 +521,7 @@
       "home": "Toronto Red Wings",
       "home_score": "3",
       "arena": "Chesswood 4",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-30",
@@ -530,7 +530,7 @@
       "home": "Toronto Marlboros",
       "home_score": "7",
       "arena": "CWENCH Centre Etobicoke 4",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-31",
@@ -539,7 +539,7 @@
       "home": "Toronto Titans",
       "home_score": "1",
       "arena": "Scotiabank Pond 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-31",
@@ -548,7 +548,7 @@
       "home": "Vaughan Kings",
       "home_score": "1",
       "arena": "Westwood 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-31",
@@ -557,7 +557,7 @@
       "home": "North York Rangers",
       "home_score": "1",
       "arena": "Herbert Carnegie",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-01",
@@ -566,7 +566,7 @@
       "home": "Markham Majors",
       "home_score": "1",
       "arena": "Thornhill Centre West",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-01",
@@ -575,7 +575,7 @@
       "home": "Don Mills Flyers",
       "home_score": "7",
       "arena": "Victoria Village",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-01",
@@ -584,7 +584,7 @@
       "home": "Jr. Canadiens",
       "home_score": "3",
       "arena": "Scotiabank Pond 4",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-01",
@@ -593,7 +593,7 @@
       "home": "Reps Hockey Club",
       "home_score": "0",
       "arena": "Westwood 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-02",
@@ -602,7 +602,7 @@
       "home": "Toronto Young Nationals",
       "home_score": "2",
       "arena": "Westwood 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-02",
@@ -611,7 +611,7 @@
       "home": "Mississauga Senators",
       "home_score": "1",
       "arena": "Mississauga Sports and Entertainment Centre 3",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-02",
@@ -620,7 +620,7 @@
       "home": "Don Mills Flyers",
       "home_score": "4",
       "arena": "Scotiabank Pond 4",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-04",
@@ -629,7 +629,7 @@
       "home": "Reps Hockey Club",
       "home_score": "2",
       "arena": "Westwood 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-05",
@@ -638,7 +638,7 @@
       "home": "Mississauga Rebels",
       "home_score": "1",
       "arena": "Iceland 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-06",
@@ -647,7 +647,7 @@
       "home": "Toronto Red Wings",
       "home_score": "1",
       "arena": "Chesswood 4",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-07",
@@ -656,7 +656,7 @@
       "home": "North York Rangers",
       "home_score": "0",
       "arena": "Herbert Carnegie",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-08",
@@ -665,7 +665,7 @@
       "home": "Mississauga Senators",
       "home_score": "0",
       "arena": "Mississauga Sports and Entertainment Centre 4",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-09",
@@ -674,7 +674,7 @@
       "home": "Toronto Young Nationals",
       "home_score": "3",
       "arena": "Westwood 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-11",
@@ -683,7 +683,7 @@
       "home": "Reps Hockey Club",
       "home_score": "3",
       "arena": "Westwood 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-12",
@@ -692,7 +692,7 @@
       "home": "Markham Majors",
       "home_score": "0",
       "arena": "Thornhill Centre West",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-13",
@@ -701,7 +701,7 @@
       "home": "Toronto Marlboros",
       "home_score": "9",
       "arena": "CWENCH Centre Etobicoke 3",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-13",
@@ -710,7 +710,7 @@
       "home": "Toronto Red Wings",
       "home_score": "4",
       "arena": "Chesswood 4",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-14",
@@ -719,7 +719,7 @@
       "home": "Vaughan Kings",
       "home_score": "2",
       "arena": "Westwood 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-14",
@@ -728,7 +728,7 @@
       "home": "Toronto Marlboros",
       "home_score": "5",
       "arena": "CWENCH Centre Etobicoke 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-14",
@@ -737,7 +737,7 @@
       "home": "North York Rangers",
       "home_score": "4",
       "arena": "Herbert Carnegie",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-15",
@@ -746,11 +746,11 @@
       "home": "Markham Majors",
       "home_score": "1",
       "arena": "Thornhill Centre West",
-      "source": null
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 58,
+    "added": 0,
     "changed": 0,
     "removed": 0
   },

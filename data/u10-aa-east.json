@@ -12,7 +12,7 @@
       "power_rating": "4.252",
       "momentum_rating": "2.5543",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "2",
@@ -20,7 +20,7 @@
       "power_rating": "3.3255",
       "momentum_rating": "3.4649",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "3",
@@ -28,7 +28,7 @@
       "power_rating": "1.9805",
       "momentum_rating": "1.6013",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "4",
@@ -36,7 +36,7 @@
       "power_rating": "1.5454",
       "momentum_rating": "1.6052",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "5",
@@ -44,7 +44,7 @@
       "power_rating": "1.3544",
       "momentum_rating": "1.8525",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "6",
@@ -52,7 +52,7 @@
       "power_rating": "0.6483",
       "momentum_rating": "1.7762",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "7",
@@ -60,7 +60,7 @@
       "power_rating": "-1.0892",
       "momentum_rating": "-1.4931",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "8",
@@ -68,7 +68,7 @@
       "power_rating": "-1.8082",
       "momentum_rating": "-2.4918",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "9",
@@ -76,7 +76,7 @@
       "power_rating": "-1.8233",
       "momentum_rating": "-1.593",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "10",
@@ -84,7 +84,7 @@
       "power_rating": "-2.4625",
       "momentum_rating": "-2.174",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "11",
@@ -92,7 +92,7 @@
       "power_rating": "-2.6366",
       "momentum_rating": "-2.4568",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "12",
@@ -100,7 +100,7 @@
       "power_rating": "-3.2863",
       "momentum_rating": "-2.6457",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     }
   ],
   "standings": [
@@ -233,7 +233,7 @@
       "home": "Scarborough Ice Raiders",
       "home_score": "2",
       "arena": "Cummer Park",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-13",
@@ -242,7 +242,7 @@
       "home": "Forest Hill",
       "home_score": "2",
       "arena": "Forest Hill/Larry Grossman",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-13",
@@ -251,7 +251,7 @@
       "home": "Ted Reeve Thunder",
       "home_score": "9",
       "arena": "Ted Reeve",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-14",
@@ -260,7 +260,7 @@
       "home": "Markham Islanders",
       "home_score": "3",
       "arena": "Thornhill Centre West",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-15",
@@ -269,7 +269,7 @@
       "home": "Leaside Flames",
       "home_score": "4",
       "arena": "Leaside Memorial A",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-16",
@@ -278,7 +278,7 @@
       "home": "North York Knights",
       "home_score": "9",
       "arena": "Victoria Village",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-17",
@@ -287,7 +287,7 @@
       "home": "West Hill Golden Hawks",
       "home_score": "6",
       "arena": "Scarborough Gardens",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-18",
@@ -296,7 +296,7 @@
       "home": "North Toronto",
       "home_score": "7",
       "arena": "North Toronto",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-18",
@@ -305,7 +305,7 @@
       "home": "Goulding Park Rangers",
       "home_score": "2",
       "arena": "Herbert Carnegie",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-19",
@@ -314,7 +314,7 @@
       "home": "Avenue Road Ducks",
       "home_score": "2",
       "arena": "Amesbury",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-19",
@@ -323,7 +323,7 @@
       "home": "Scarborough Young Bruins",
       "home_score": "1",
       "arena": "Scarborough Gardens",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-20",
@@ -332,7 +332,7 @@
       "home": "Ted Reeve Thunder",
       "home_score": "2",
       "arena": "Ted Reeve",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-20",
@@ -341,7 +341,7 @@
       "home": "West Hill Golden Hawks",
       "home_score": "2",
       "arena": "Cummer Park",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-20",
@@ -350,7 +350,7 @@
       "home": "Forest Hill",
       "home_score": "2",
       "arena": "Forest Hill/Larry Grossman",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-21",
@@ -359,7 +359,7 @@
       "home": "Markham Islanders",
       "home_score": "5",
       "arena": "Thornhill Centre West",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-22",
@@ -368,7 +368,7 @@
       "home": "Leaside Flames",
       "home_score": "1",
       "arena": "Leaside Memorial A",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-24",
@@ -377,7 +377,7 @@
       "home": "Goulding Park Rangers",
       "home_score": "3",
       "arena": "NFP Athletic Centre - Canlan York 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-25",
@@ -386,7 +386,7 @@
       "home": "Forest Hill",
       "home_score": "1",
       "arena": "NFP Athletic Centre - Canlan York 2",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-25",
@@ -395,7 +395,7 @@
       "home": "Goulding Park Rangers",
       "home_score": "4",
       "arena": "Herbert Carnegie",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-25",
@@ -404,7 +404,7 @@
       "home": "Scarborough Ice Raiders",
       "home_score": "5",
       "arena": "NFP Athletic Centre - Canlan York 5",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-26",
@@ -413,7 +413,7 @@
       "home": "Scarborough Ice Raiders",
       "home_score": "1",
       "arena": "Don Montgomery 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-26",
@@ -422,7 +422,7 @@
       "home": "Scarborough Young Bruins",
       "home_score": "1",
       "arena": "Scarborough Gardens",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-26",
@@ -431,7 +431,7 @@
       "home": "Avenue Road Ducks",
       "home_score": "6",
       "arena": "Amesbury",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-27",
@@ -440,7 +440,7 @@
       "home": "Forest Hill",
       "home_score": "2",
       "arena": "Forest Hill/Larry Grossman",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-27",
@@ -449,7 +449,7 @@
       "home": "Ted Reeve Thunder",
       "home_score": "8",
       "arena": "Ted Reeve",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-27",
@@ -458,7 +458,7 @@
       "home": "Leaside Flames",
       "home_score": "2",
       "arena": "St. Michaels",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-28",
@@ -467,7 +467,7 @@
       "home": "Markham Islanders",
       "home_score": "2",
       "arena": "Thornhill Centre West",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-30",
@@ -476,7 +476,7 @@
       "home": "North York Knights",
       "home_score": "2",
       "arena": "Victoria Village",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-31",
@@ -485,7 +485,7 @@
       "home": "West Hill Golden Hawks",
       "home_score": "1",
       "arena": "Scarborough Gardens",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-10-31",
@@ -494,7 +494,7 @@
       "home": "Leaside Flames",
       "home_score": "8",
       "arena": "Chesswood 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-01",
@@ -503,7 +503,7 @@
       "home": "Toronto Aeros",
       "home_score": "0",
       "arena": "Chesswood 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-01",
@@ -512,7 +512,7 @@
       "home": "North Toronto",
       "home_score": "6",
       "arena": "North Toronto",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-01",
@@ -521,7 +521,7 @@
       "home": "Goulding Park Rangers",
       "home_score": "7",
       "arena": "Herbert Carnegie",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-02",
@@ -530,7 +530,7 @@
       "home": "Scarborough Young Bruins",
       "home_score": "0",
       "arena": "Scarborough Gardens",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-02",
@@ -539,7 +539,7 @@
       "home": "Avenue Road Ducks",
       "home_score": "5",
       "arena": "Amesbury",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-03",
@@ -548,7 +548,7 @@
       "home": "Ted Reeve Thunder",
       "home_score": "7",
       "arena": "Ted Reeve",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-03",
@@ -557,7 +557,7 @@
       "home": "Toronto Aeros",
       "home_score": "0",
       "arena": "Cummer Park",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-03",
@@ -566,7 +566,7 @@
       "home": "Forest Hill",
       "home_score": "2",
       "arena": "Forest Hill/Larry Grossman",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-04",
@@ -575,7 +575,7 @@
       "home": "Markham Islanders",
       "home_score": "1",
       "arena": "Thornhill Centre West",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-05",
@@ -584,7 +584,7 @@
       "home": "Leaside Flames",
       "home_score": "7",
       "arena": "Leaside Memorial A",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-06",
@@ -593,7 +593,7 @@
       "home": "North York Knights",
       "home_score": "1",
       "arena": "Victoria Village",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-07",
@@ -602,7 +602,7 @@
       "home": "West Hill Golden Hawks",
       "home_score": "0",
       "arena": "Scarborough Gardens",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-07",
@@ -611,7 +611,7 @@
       "home": "Scarborough Ice Raiders",
       "home_score": "0",
       "arena": "Chesswood 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-08",
@@ -620,7 +620,7 @@
       "home": "Goulding Park Rangers",
       "home_score": "4",
       "arena": "Herbert Carnegie",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-09",
@@ -629,7 +629,7 @@
       "home": "Avenue Road Ducks",
       "home_score": "2",
       "arena": "Amesbury",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-09",
@@ -638,7 +638,7 @@
       "home": "Scarborough Ice Raiders",
       "home_score": "2",
       "arena": "Don Montgomery 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-10",
@@ -647,7 +647,7 @@
       "home": "Ted Reeve Thunder",
       "home_score": "3",
       "arena": "Ted Reeve",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-10",
@@ -656,7 +656,7 @@
       "home": "Forest Hill",
       "home_score": "4",
       "arena": "Forest Hill/Larry Grossman",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-10",
@@ -665,7 +665,7 @@
       "home": "Leaside Flames",
       "home_score": "2",
       "arena": "St. Michaels",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-11",
@@ -674,7 +674,7 @@
       "home": "Markham Islanders",
       "home_score": "1",
       "arena": "Thornhill Centre West",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-13",
@@ -683,7 +683,7 @@
       "home": "North York Knights",
       "home_score": "1",
       "arena": "Victoria Village",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-14",
@@ -692,7 +692,7 @@
       "home": "Scarborough Ice Raiders",
       "home_score": "1",
       "arena": "Chesswood 1",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-14",
@@ -701,7 +701,7 @@
       "home": "West Hill Golden Hawks",
       "home_score": "3",
       "arena": "Scarborough Gardens",
-      "source": null
+      "source": "gthl_schedule"
     },
     {
       "date": "2026-11-15",
@@ -710,11 +710,11 @@
       "home": "Toronto Aeros",
       "home_score": "0",
       "arena": "Chesswood 1",
-      "source": null
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 54,
+    "added": 0,
     "changed": 0,
     "removed": 0
   },
