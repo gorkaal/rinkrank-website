@@ -31,8 +31,9 @@
 <tbody id="games"><tr><td colspan="6" class="loading">Loading games...</td></tr></tbody>
 </table>
 </div>
+<p id="teamDetailNote" class="helpText" hidden>† This dated result comes from the GTHL team schedule linked from league standings, rather than the division-wide schedule.</p>
 </section>
-<footer class="footer">Independent project; not affiliated with the GTHL. Game results come from the <a href="https://gthlcanada.com/schedule/">GTHL schedule</a> and are reconciled with <a href="https://gthlcanada.com/standing/">GTHL standings</a>. Only completed league games that pass the data checks are shown.</footer>
+<footer class="footer">Independent project; not affiliated with the GTHL. Game results come from the <a href="https://gthlcanada.com/schedule/">GTHL schedule</a> or team-specific schedules linked from <a href="https://gthlcanada.com/standing/">GTHL standings</a>. Only completed league games that pass the data checks are shown.</footer>
 </main>
 <script>
 const $=id=>document.getElementById(id);
@@ -80,7 +81,7 @@ async function showTeam(){
       const outcome=forGoals>againstGoals?'W':forGoals<againstGoals?'L':'T';
       if(outcome==='W')wins++;else if(outcome==='L')losses++;else ties++;
       const row=document.createElement('tr');
-      addCell(row,game.date);
+      addCell(row,game.date+(game.source==='gthl_team_detail'?' †':''));
       addCell(row,opponent,'team');
       addCell(row,home?'Home':'Away');
       addCell(row,outcome,'result '+(outcome==='W'?'win':outcome==='L'?'loss':'tie'));
@@ -93,6 +94,7 @@ async function showTeam(){
       cell.colSpan=6;cell.className='loading';cell.textContent='No completed games yet';
       row.appendChild(cell);body.appendChild(row);
     }
+    $('teamDetailNote').hidden=!games.some(g=>g.source==='gthl_team_detail');
     $('summary').textContent=games.length+' completed games · '+wins+' wins · '+losses+' losses · '+ties+' ties';
     const state=$('status');state.className='status';
     state.textContent='Verified GTHL league games · updated '+data.as_of_toronto;

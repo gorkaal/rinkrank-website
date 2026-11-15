@@ -232,7 +232,8 @@
       "away_score": "1",
       "home": "Don Mills Flyers",
       "home_score": "7",
-      "arena": "Scotiabank Pond 3"
+      "arena": "Scotiabank Pond 3",
+      "source": null
     },
     {
       "date": "2026-10-05",
@@ -240,7 +241,8 @@
       "away_score": "1",
       "home": "Mississauga Rebels",
       "home_score": "1",
-      "arena": "Scotiabank Pond 3"
+      "arena": "Scotiabank Pond 3",
+      "source": null
     },
     {
       "date": "2026-10-06",
@@ -248,7 +250,8 @@
       "away_score": "1",
       "home": "Toronto Young Nationals",
       "home_score": "6",
-      "arena": "Scotiabank Pond 2"
+      "arena": "Scotiabank Pond 2",
+      "source": null
     },
     {
       "date": "2026-10-07",
@@ -256,7 +259,8 @@
       "away_score": "4",
       "home": "Reps Hockey Club",
       "home_score": "1",
-      "arena": "Westwood 2"
+      "arena": "Westwood 2",
+      "source": null
     },
     {
       "date": "2026-10-09",
@@ -264,7 +268,8 @@
       "away_score": "0",
       "home": "Toronto Marlboros",
       "home_score": "3",
-      "arena": "CWENCH Centre Etobicoke 3"
+      "arena": "CWENCH Centre Etobicoke 3",
+      "source": null
     },
     {
       "date": "2026-10-09",
@@ -272,7 +277,8 @@
       "away_score": "0",
       "home": "North York Rangers",
       "home_score": "4",
-      "arena": "Scotiabank Pond 2"
+      "arena": "Scotiabank Pond 2",
+      "source": null
     },
     {
       "date": "2026-10-10",
@@ -280,7 +286,8 @@
       "away_score": "2",
       "home": "Toronto Titans",
       "home_score": "3",
-      "arena": "Scotiabank Pond 4"
+      "arena": "Scotiabank Pond 4",
+      "source": null
     },
     {
       "date": "2026-10-10",
@@ -288,7 +295,8 @@
       "away_score": "0",
       "home": "Vaughan Kings",
       "home_score": "1",
-      "arena": "Westwood 1"
+      "arena": "Westwood 1",
+      "source": null
     },
     {
       "date": "2026-10-11",
@@ -296,7 +304,8 @@
       "away_score": "2",
       "home": "Jr. Canadiens",
       "home_score": "0",
-      "arena": "Scotiabank Pond 4"
+      "arena": "Scotiabank Pond 4",
+      "source": null
     },
     {
       "date": "2026-10-11",
@@ -304,7 +313,8 @@
       "away_score": "5",
       "home": "Markham Majors",
       "home_score": "0",
-      "arena": "Thornhill Centre West"
+      "arena": "Thornhill Centre West",
+      "source": null
     },
     {
       "date": "2026-10-11",
@@ -312,7 +322,8 @@
       "away_score": "1",
       "home": "Toronto Marlboros",
       "home_score": "4",
-      "arena": "CWENCH Centre Etobicoke 2"
+      "arena": "CWENCH Centre Etobicoke 2",
+      "source": null
     },
     {
       "date": "2026-10-11",
@@ -320,7 +331,8 @@
       "away_score": "1",
       "home": "Toronto Young Nationals",
       "home_score": "5",
-      "arena": "Scotiabank Pond 3"
+      "arena": "Scotiabank Pond 3",
+      "source": null
     },
     {
       "date": "2026-10-12",
@@ -328,7 +340,8 @@
       "away_score": "0",
       "home": "Toronto Young Nationals",
       "home_score": "5",
-      "arena": "Westwood 2"
+      "arena": "Westwood 2",
+      "source": null
     },
     {
       "date": "2026-10-12",
@@ -336,7 +349,8 @@
       "away_score": "7",
       "home": "Mississauga Senators",
       "home_score": "3",
-      "arena": "Scotiabank Pond 4"
+      "arena": "Scotiabank Pond 4",
+      "source": null
     },
     {
       "date": "2026-10-13",
@@ -344,7 +358,8 @@
       "away_score": "1",
       "home": "Mississauga Rebels",
       "home_score": "2",
-      "arena": "Mississauga Sports and Entertainment Centre 2"
+      "arena": "Mississauga Sports and Entertainment Centre 2",
+      "source": null
     },
     {
       "date": "2026-10-16",
@@ -352,7 +367,8 @@
       "away_score": "1",
       "home": "Toronto Red Wings",
       "home_score": "5",
-      "arena": "Chesswood 4"
+      "arena": "Chesswood 4",
+      "source": null
     },
     {
       "date": "2026-10-17",
@@ -360,7 +376,8 @@
       "away_score": "8",
       "home": "Toronto Titans",
       "home_score": "1",
-      "arena": "Scotiabank Pond 2"
+      "arena": "Scotiabank Pond 2",
+      "source": null
     },
     {
       "date": "2026-10-17",
@@ -368,7 +385,8 @@
       "away_score": "10",
       "home": "North York Rangers",
       "home_score": "0",
-      "arena": "Herbert Carnegie"
+      "arena": "Herbert Carnegie",
+      "source": null
     },
     {
       "date": "2026-10-18",
@@ -376,7 +394,8 @@
       "away_score": "11",
       "home": "Markham Majors",
       "home_score": "0",
-      "arena": "Thornhill Centre West"
+      "arena": "Thornhill Centre West",
+      "source": null
     },
     {
       "date": "2026-10-18",
@@ -384,7 +403,8 @@
       "away_score": "5",
       "home": "Don Mills Flyers",
       "home_score": "0",
-      "arena": "Victoria Village"
+      "arena": "Victoria Village",
+      "source": null
     },
     {
       "date": "2026-10-19",
@@ -392,7 +412,8 @@
       "away_score": "1",
       "home": "Toronto Young Nationals",
       "home_score": "1",
-      "arena": "Westwood 2"
+      "arena": "Westwood 2",
+      "source": null
     },
     {
       "date": "2026-10-20",
@@ -400,7 +421,8 @@
       "away_score": "2",
       "home": "Jr. Canadiens",
       "home_score": "2",
-      "arena": "Scotiabank Pond 3"
+      "arena": "Scotiabank Pond 3",
+      "source": null
     },
     {
       "date": "2026-10-21",
@@ -408,7 +430,8 @@
       "away_score": "5",
       "home": "Reps Hockey Club",
       "home_score": "2",
-      "arena": "Westwood 2"
+      "arena": "Westwood 2",
+      "source": null
     },
     {
       "date": "2026-10-22",
@@ -416,7 +439,8 @@
       "away_score": "5",
       "home": "Mississauga Rebels",
       "home_score": "0",
-      "arena": "Iceland 1"
+      "arena": "Iceland 1",
+      "source": null
     },
     {
       "date": "2026-10-23",
@@ -424,7 +448,8 @@
       "away_score": "3",
       "home": "Toronto Marlboros",
       "home_score": "9",
-      "arena": "CWENCH Centre Etobicoke 3"
+      "arena": "CWENCH Centre Etobicoke 3",
+      "source": null
     },
     {
       "date": "2026-10-24",
@@ -432,7 +457,8 @@
       "away_score": "3",
       "home": "North York Rangers",
       "home_score": "2",
-      "arena": "Herbert Carnegie"
+      "arena": "Herbert Carnegie",
+      "source": null
     },
     {
       "date": "2026-10-24",
@@ -440,7 +466,8 @@
       "away_score": "3",
       "home": "Vaughan Kings",
       "home_score": "3",
-      "arena": "Westwood 1"
+      "arena": "Westwood 1",
+      "source": null
     },
     {
       "date": "2026-10-25",
@@ -448,7 +475,8 @@
       "away_score": "11",
       "home": "Markham Majors",
       "home_score": "2",
-      "arena": "Thornhill Centre West"
+      "arena": "Thornhill Centre West",
+      "source": null
     },
     {
       "date": "2026-10-25",
@@ -456,7 +484,8 @@
       "away_score": "3",
       "home": "Mississauga Senators",
       "home_score": "3",
-      "arena": "NFP Athletic Centre - Canlan York 1"
+      "arena": "NFP Athletic Centre - Canlan York 1",
+      "source": null
     },
     {
       "date": "2026-10-25",
@@ -464,7 +493,8 @@
       "away_score": "4",
       "home": "Toronto Red Wings",
       "home_score": "3",
-      "arena": "NFP Athletic Centre - Canlan York 1"
+      "arena": "NFP Athletic Centre - Canlan York 1",
+      "source": null
     },
     {
       "date": "2026-10-26",
@@ -472,7 +502,8 @@
       "away_score": "4",
       "home": "Mississauga Senators",
       "home_score": "5",
-      "arena": "Mississauga Sports and Entertainment Centre 2"
+      "arena": "Mississauga Sports and Entertainment Centre 2",
+      "source": null
     },
     {
       "date": "2026-10-29",
@@ -480,7 +511,8 @@
       "away_score": "2",
       "home": "Mississauga Rebels",
       "home_score": "5",
-      "arena": "Iceland 3"
+      "arena": "Iceland 3",
+      "source": null
     },
     {
       "date": "2026-10-30",
@@ -488,7 +520,8 @@
       "away_score": "2",
       "home": "Toronto Red Wings",
       "home_score": "3",
-      "arena": "Chesswood 4"
+      "arena": "Chesswood 4",
+      "source": null
     },
     {
       "date": "2026-10-30",
@@ -496,7 +529,8 @@
       "away_score": "1",
       "home": "Toronto Marlboros",
       "home_score": "7",
-      "arena": "CWENCH Centre Etobicoke 4"
+      "arena": "CWENCH Centre Etobicoke 4",
+      "source": null
     },
     {
       "date": "2026-10-31",
@@ -504,7 +538,8 @@
       "away_score": "1",
       "home": "Toronto Titans",
       "home_score": "1",
-      "arena": "Scotiabank Pond 2"
+      "arena": "Scotiabank Pond 2",
+      "source": null
     },
     {
       "date": "2026-10-31",
@@ -512,7 +547,8 @@
       "away_score": "5",
       "home": "Vaughan Kings",
       "home_score": "1",
-      "arena": "Westwood 1"
+      "arena": "Westwood 1",
+      "source": null
     },
     {
       "date": "2026-10-31",
@@ -520,7 +556,8 @@
       "away_score": "4",
       "home": "North York Rangers",
       "home_score": "1",
-      "arena": "Herbert Carnegie"
+      "arena": "Herbert Carnegie",
+      "source": null
     },
     {
       "date": "2026-11-01",
@@ -528,7 +565,8 @@
       "away_score": "3",
       "home": "Markham Majors",
       "home_score": "1",
-      "arena": "Thornhill Centre West"
+      "arena": "Thornhill Centre West",
+      "source": null
     },
     {
       "date": "2026-11-01",
@@ -536,7 +574,8 @@
       "away_score": "2",
       "home": "Don Mills Flyers",
       "home_score": "7",
-      "arena": "Victoria Village"
+      "arena": "Victoria Village",
+      "source": null
     },
     {
       "date": "2026-11-01",
@@ -544,7 +583,8 @@
       "away_score": "2",
       "home": "Jr. Canadiens",
       "home_score": "3",
-      "arena": "Scotiabank Pond 4"
+      "arena": "Scotiabank Pond 4",
+      "source": null
     },
     {
       "date": "2026-11-01",
@@ -552,7 +592,8 @@
       "away_score": "4",
       "home": "Reps Hockey Club",
       "home_score": "0",
-      "arena": "Westwood 1"
+      "arena": "Westwood 1",
+      "source": null
     },
     {
       "date": "2026-11-02",
@@ -560,7 +601,8 @@
       "away_score": "5",
       "home": "Toronto Young Nationals",
       "home_score": "2",
-      "arena": "Westwood 2"
+      "arena": "Westwood 2",
+      "source": null
     },
     {
       "date": "2026-11-02",
@@ -568,7 +610,8 @@
       "away_score": "5",
       "home": "Mississauga Senators",
       "home_score": "1",
-      "arena": "Mississauga Sports and Entertainment Centre 3"
+      "arena": "Mississauga Sports and Entertainment Centre 3",
+      "source": null
     },
     {
       "date": "2026-11-02",
@@ -576,7 +619,8 @@
       "away_score": "1",
       "home": "Don Mills Flyers",
       "home_score": "4",
-      "arena": "Scotiabank Pond 4"
+      "arena": "Scotiabank Pond 4",
+      "source": null
     },
     {
       "date": "2026-11-04",
@@ -584,7 +628,8 @@
       "away_score": "5",
       "home": "Reps Hockey Club",
       "home_score": "2",
-      "arena": "Westwood 2"
+      "arena": "Westwood 2",
+      "source": null
     },
     {
       "date": "2026-11-05",
@@ -592,7 +637,8 @@
       "away_score": "1",
       "home": "Mississauga Rebels",
       "home_score": "1",
-      "arena": "Iceland 1"
+      "arena": "Iceland 1",
+      "source": null
     },
     {
       "date": "2026-11-06",
@@ -600,7 +646,8 @@
       "away_score": "5",
       "home": "Toronto Red Wings",
       "home_score": "1",
-      "arena": "Chesswood 4"
+      "arena": "Chesswood 4",
+      "source": null
     },
     {
       "date": "2026-11-07",
@@ -608,7 +655,8 @@
       "away_score": "2",
       "home": "North York Rangers",
       "home_score": "0",
-      "arena": "Herbert Carnegie"
+      "arena": "Herbert Carnegie",
+      "source": null
     },
     {
       "date": "2026-11-08",
@@ -616,7 +664,8 @@
       "away_score": "1",
       "home": "Mississauga Senators",
       "home_score": "0",
-      "arena": "Mississauga Sports and Entertainment Centre 4"
+      "arena": "Mississauga Sports and Entertainment Centre 4",
+      "source": null
     },
     {
       "date": "2026-11-09",
@@ -624,7 +673,8 @@
       "away_score": "3",
       "home": "Toronto Young Nationals",
       "home_score": "3",
-      "arena": "Westwood 2"
+      "arena": "Westwood 2",
+      "source": null
     },
     {
       "date": "2026-11-11",
@@ -632,7 +682,8 @@
       "away_score": "2",
       "home": "Reps Hockey Club",
       "home_score": "3",
-      "arena": "Westwood 2"
+      "arena": "Westwood 2",
+      "source": null
     },
     {
       "date": "2026-11-12",
@@ -640,7 +691,8 @@
       "away_score": "2",
       "home": "Markham Majors",
       "home_score": "0",
-      "arena": "Thornhill Centre West"
+      "arena": "Thornhill Centre West",
+      "source": null
     },
     {
       "date": "2026-11-13",
@@ -648,7 +700,8 @@
       "away_score": "2",
       "home": "Toronto Marlboros",
       "home_score": "9",
-      "arena": "CWENCH Centre Etobicoke 3"
+      "arena": "CWENCH Centre Etobicoke 3",
+      "source": null
     },
     {
       "date": "2026-11-13",
@@ -656,7 +709,8 @@
       "away_score": "0",
       "home": "Toronto Red Wings",
       "home_score": "4",
-      "arena": "Chesswood 4"
+      "arena": "Chesswood 4",
+      "source": null
     },
     {
       "date": "2026-11-14",
@@ -664,7 +718,8 @@
       "away_score": "3",
       "home": "Vaughan Kings",
       "home_score": "2",
-      "arena": "Westwood 1"
+      "arena": "Westwood 1",
+      "source": null
     },
     {
       "date": "2026-11-14",
@@ -672,7 +727,8 @@
       "away_score": "0",
       "home": "Toronto Marlboros",
       "home_score": "5",
-      "arena": "CWENCH Centre Etobicoke 1"
+      "arena": "CWENCH Centre Etobicoke 1",
+      "source": null
     },
     {
       "date": "2026-11-14",
@@ -680,7 +736,8 @@
       "away_score": "1",
       "home": "North York Rangers",
       "home_score": "4",
-      "arena": "Herbert Carnegie"
+      "arena": "Herbert Carnegie",
+      "source": null
     },
     {
       "date": "2026-11-15",
@@ -688,7 +745,8 @@
       "away_score": "11",
       "home": "Markham Majors",
       "home_score": "1",
-      "arena": "Thornhill Centre West"
+      "arena": "Thornhill Centre West",
+      "source": null
     }
   ],
   "changes": {

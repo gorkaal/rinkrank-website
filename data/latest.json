@@ -286,7 +286,8 @@
       "away_score": "9",
       "home": "Leaside Flames Gold",
       "home_score": "1",
-      "arena": "St. Michaels"
+      "arena": "St. Michaels",
+      "source": null
     },
     {
       "date": "2026-10-13",
@@ -294,7 +295,8 @@
       "away_score": "3",
       "home": "Avenue Road Ducks",
       "home_score": "9",
-      "arena": "Bayview"
+      "arena": "Bayview",
+      "source": null
     },
     {
       "date": "2026-10-14",
@@ -302,7 +304,8 @@
       "away_score": "1",
       "home": "East Enders Ticats",
       "home_score": "0",
-      "arena": "Scarborough Gardens"
+      "arena": "Scarborough Gardens",
+      "source": null
     },
     {
       "date": "2026-10-14",
@@ -310,7 +313,8 @@
       "away_score": "0",
       "home": "Forest Hill",
       "home_score": "7",
-      "arena": "Forest Hill/Larry Grossman"
+      "arena": "Forest Hill/Larry Grossman",
+      "source": null
     },
     {
       "date": "2026-10-14",
@@ -318,7 +322,8 @@
       "away_score": "2",
       "home": "Scarborough Ice Raiders",
       "home_score": "5",
-      "arena": "Scarborough Centennial Arena"
+      "arena": "Scarborough Centennial Arena",
+      "source": null
     },
     {
       "date": "2026-10-14",
@@ -326,7 +331,8 @@
       "away_score": "0",
       "home": "Ted Reeve Thunder",
       "home_score": "6",
-      "arena": "Ted Reeve"
+      "arena": "Ted Reeve",
+      "source": null
     },
     {
       "date": "2026-10-14",
@@ -334,7 +340,8 @@
       "away_score": "5",
       "home": "Vaughan Rangers East",
       "home_score": "6",
-      "arena": "Garnet A Williams Arena"
+      "arena": "Garnet A Williams Arena",
+      "source": null
     },
     {
       "date": "2026-10-15",
@@ -342,7 +349,8 @@
       "away_score": "21",
       "home": "Victoria Village Mustangs",
       "home_score": "0",
-      "arena": "Don Mills Arena"
+      "arena": "Don Mills Arena",
+      "source": null
     },
     {
       "date": "2026-10-16",
@@ -350,7 +358,8 @@
       "away_score": "0",
       "home": "Leaside Flames",
       "home_score": "5",
-      "arena": "Leaside Memorial A"
+      "arena": "Leaside Memorial A",
+      "source": null
     },
     {
       "date": "2026-10-17",
@@ -358,7 +367,8 @@
       "away_score": "1",
       "home": "West Hill Golden Hawks",
       "home_score": "7",
-      "arena": "Scarborough Gardens"
+      "arena": "Scarborough Gardens",
+      "source": null
     },
     {
       "date": "2026-10-18",
@@ -366,7 +376,8 @@
       "away_score": "1",
       "home": "North Toronto Green",
       "home_score": "8",
-      "arena": "North Toronto"
+      "arena": "North Toronto",
+      "source": null
     },
     {
       "date": "2026-10-18",
@@ -374,7 +385,8 @@
       "away_score": "1",
       "home": "North York Knights",
       "home_score": "6",
-      "arena": "St. Michaels"
+      "arena": "St. Michaels",
+      "source": null
     },
     {
       "date": "2026-10-19",
@@ -382,7 +394,8 @@
       "away_score": "10",
       "home": "Markham Islanders",
       "home_score": "0",
-      "arena": "Thornhill Centre West"
+      "arena": "Thornhill Centre West",
+      "source": null
     },
     {
       "date": "2026-10-20",
@@ -390,7 +403,8 @@
       "away_score": "3",
       "home": "Avenue Road Ducks",
       "home_score": "5",
-      "arena": "Bayview"
+      "arena": "Bayview",
+      "source": null
     },
     {
       "date": "2026-10-21",
@@ -398,7 +412,8 @@
       "away_score": "5",
       "home": "Vaughan Rangers East",
       "home_score": "2",
-      "arena": "Garnet A Williams Arena"
+      "arena": "Garnet A Williams Arena",
+      "source": null
     },
     {
       "date": "2026-10-21",
@@ -406,7 +421,8 @@
       "away_score": "1",
       "home": "Forest Hill",
       "home_score": "9",
-      "arena": "Forest Hill/Larry Grossman"
+      "arena": "Forest Hill/Larry Grossman",
+      "source": null
     },
     {
       "date": "2026-10-21",
@@ -414,7 +430,8 @@
       "away_score": "2",
       "home": "East Enders Ticats",
       "home_score": "3",
-      "arena": "Scarborough Gardens"
+      "arena": "Scarborough Gardens",
+      "source": null
     },
     {
       "date": "2026-10-21",
@@ -422,7 +439,8 @@
       "away_score": "0",
       "home": "Ted Reeve Thunder",
       "home_score": "14",
-      "arena": "Ted Reeve"
+      "arena": "Ted Reeve",
+      "source": null
     },
     {
       "date": "2026-10-22",
@@ -430,7 +448,8 @@
       "away_score": "7",
       "home": "Scarborough Ice Raiders",
       "home_score": "4",
-      "arena": "Don Montgomery 1"
+      "arena": "Don Montgomery 1",
+      "source": null
     },
     {
       "date": "2026-10-22",
@@ -438,7 +457,8 @@
       "away_score": "10",
       "home": "Victoria Village Mustangs",
       "home_score": "0",
-      "arena": "Don Mills Arena"
+      "arena": "Don Mills Arena",
+      "source": null
     },
     {
       "date": "2026-10-23",
@@ -446,7 +466,8 @@
       "away_score": "4",
       "home": "Toronto Aeros",
       "home_score": "3",
-      "arena": "Oriole"
+      "arena": "Oriole",
+      "source": null
     },
     {
       "date": "2026-10-24",
@@ -454,7 +475,8 @@
       "away_score": "8",
       "home": "West Hill Golden Hawks",
       "home_score": "3",
-      "arena": "Scarborough Gardens"
+      "arena": "Scarborough Gardens",
+      "source": null
     },
     {
       "date": "2026-10-24",
@@ -462,7 +484,8 @@
       "away_score": "5",
       "home": "Ted Reeve Thunder",
       "home_score": "0",
-      "arena": "NFP Athletic Centre - Canlan York 4"
+      "arena": "NFP Athletic Centre - Canlan York 4",
+      "source": null
     },
     {
       "date": "2026-10-24",
@@ -470,7 +493,8 @@
       "away_score": "4",
       "home": "Forest Hill",
       "home_score": "3",
-      "arena": "NFP Athletic Centre - Canlan York 3"
+      "arena": "NFP Athletic Centre - Canlan York 3",
+      "source": null
     },
     {
       "date": "2026-10-25",
@@ -478,7 +502,8 @@
       "away_score": "2",
       "home": "North Toronto Green",
       "home_score": "8",
-      "arena": "North Toronto"
+      "arena": "North Toronto",
+      "source": null
     },
     {
       "date": "2026-10-25",
@@ -486,7 +511,8 @@
       "away_score": "0",
       "home": "West Hill Golden Hawks",
       "home_score": "6",
-      "arena": "NFP Athletic Centre - Canlan York 3"
+      "arena": "NFP Athletic Centre - Canlan York 3",
+      "source": null
     },
     {
       "date": "2026-10-25",
@@ -494,7 +520,8 @@
       "away_score": "6",
       "home": "North Toronto",
       "home_score": "1",
-      "arena": "North Toronto"
+      "arena": "North Toronto",
+      "source": null
     },
     {
       "date": "2026-10-25",
@@ -502,7 +529,8 @@
       "away_score": "2",
       "home": "Toronto Aeros",
       "home_score": "3",
-      "arena": "NFP Athletic Centre - Canlan York 3"
+      "arena": "NFP Athletic Centre - Canlan York 3",
+      "source": null
     },
     {
       "date": "2026-10-26",
@@ -510,7 +538,8 @@
       "away_score": "6",
       "home": "Markham Islanders",
       "home_score": "2",
-      "arena": "Thornhill Centre West"
+      "arena": "Thornhill Centre West",
+      "source": null
     },
     {
       "date": "2026-10-27",
@@ -518,7 +547,8 @@
       "away_score": "6",
       "home": "Avenue Road Ducks",
       "home_score": "5",
-      "arena": "Bayview"
+      "arena": "Bayview",
+      "source": null
     },
     {
       "date": "2026-10-28",
@@ -526,7 +556,8 @@
       "away_score": "7",
       "home": "Vaughan Rangers East",
       "home_score": "0",
-      "arena": "Garnet A Williams Arena"
+      "arena": "Garnet A Williams Arena",
+      "source": null
     },
     {
       "date": "2026-10-28",
@@ -534,7 +565,8 @@
       "away_score": "0",
       "home": "East Enders Ticats",
       "home_score": "9",
-      "arena": "Scarborough Gardens"
+      "arena": "Scarborough Gardens",
+      "source": null
     },
     {
       "date": "2026-10-28",
@@ -542,7 +574,8 @@
       "away_score": "0",
       "home": "Ted Reeve Thunder",
       "home_score": "5",
-      "arena": "Ted Reeve"
+      "arena": "Ted Reeve",
+      "source": null
     },
     {
       "date": "2026-10-28",
@@ -550,7 +583,8 @@
       "away_score": "0",
       "home": "Forest Hill",
       "home_score": "12",
-      "arena": "Forest Hill/Larry Grossman"
+      "arena": "Forest Hill/Larry Grossman",
+      "source": null
     },
     {
       "date": "2026-10-29",
@@ -558,7 +592,8 @@
       "away_score": "11",
       "home": "Scarborough Ice Raiders",
       "home_score": "1",
-      "arena": "Don Montgomery 1"
+      "arena": "Don Montgomery 1",
+      "source": null
     },
     {
       "date": "2026-10-29",
@@ -566,7 +601,8 @@
       "away_score": "2",
       "home": "Leaside Flames Gold",
       "home_score": "2",
-      "arena": "Leaside Memorial A"
+      "arena": "Leaside Memorial A",
+      "source": null
     },
     {
       "date": "2026-10-29",
@@ -574,7 +610,8 @@
       "away_score": "15",
       "home": "Victoria Village Mustangs",
       "home_score": "0",
-      "arena": "Don Mills Arena"
+      "arena": "Don Mills Arena",
+      "source": null
     },
     {
       "date": "2026-10-30",
@@ -582,7 +619,8 @@
       "away_score": "0",
       "home": "Leaside Flames",
       "home_score": "8",
-      "arena": "Leaside Memorial A"
+      "arena": "Leaside Memorial A",
+      "source": null
     },
     {
       "date": "2026-10-31",
@@ -590,7 +628,8 @@
       "away_score": "8",
       "home": "West Hill Golden Hawks",
       "home_score": "0",
-      "arena": "Scarborough Gardens"
+      "arena": "Scarborough Gardens",
+      "source": null
     },
     {
       "date": "2026-11-01",
@@ -598,7 +637,8 @@
       "away_score": "1",
       "home": "North York Knights",
       "home_score": "9",
-      "arena": "Fenside"
+      "arena": "Fenside",
+      "source": null
     },
     {
       "date": "2026-11-01",
@@ -606,7 +646,8 @@
       "away_score": "2",
       "home": "Vaughan Rangers East",
       "home_score": "1",
-      "arena": "Scotiabank Pond 3"
+      "arena": "Scotiabank Pond 3",
+      "source": null
     },
     {
       "date": "2026-11-01",
@@ -614,7 +655,8 @@
       "away_score": "0",
       "home": "Toronto Aeros",
       "home_score": "8",
-      "arena": "Scotiabank Pond 3"
+      "arena": "Scotiabank Pond 3",
+      "source": null
     },
     {
       "date": "2026-11-01",
@@ -622,7 +664,8 @@
       "away_score": "0",
       "home": "North Toronto Green",
       "home_score": "8",
-      "arena": "North Toronto"
+      "arena": "North Toronto",
+      "source": null
     },
     {
       "date": "2026-11-02",
@@ -630,7 +673,8 @@
       "away_score": "6",
       "home": "Markham Islanders",
       "home_score": "2",
-      "arena": "Thornhill Centre West"
+      "arena": "Thornhill Centre West",
+      "source": null
     },
     {
       "date": "2026-11-03",
@@ -638,7 +682,8 @@
       "away_score": "8",
       "home": "Avenue Road Ducks",
       "home_score": "2",
-      "arena": "Bayview"
+      "arena": "Bayview",
+      "source": null
     },
     {
       "date": "2026-11-03",
@@ -646,7 +691,8 @@
       "away_score": "2",
       "home": "East Enders Ticats",
       "home_score": "5",
-      "arena": "Scarborough Centennial Arena"
+      "arena": "Scarborough Centennial Arena",
+      "source": null
     },
     {
       "date": "2026-11-03",
@@ -654,7 +700,8 @@
       "away_score": "1",
       "home": "Leaside Flames Gold",
       "home_score": "11",
-      "arena": "St. Michaels"
+      "arena": "St. Michaels",
+      "source": null
     },
     {
       "date": "2026-11-04",
@@ -662,7 +709,8 @@
       "away_score": "3",
       "home": "Ted Reeve Thunder",
       "home_score": "8",
-      "arena": "Ted Reeve"
+      "arena": "Ted Reeve",
+      "source": null
     },
     {
       "date": "2026-11-04",
@@ -670,7 +718,8 @@
       "away_score": "1",
       "home": "Forest Hill",
       "home_score": "4",
-      "arena": "Forest Hill/Larry Grossman"
+      "arena": "Forest Hill/Larry Grossman",
+      "source": null
     },
     {
       "date": "2026-11-05",
@@ -678,7 +727,8 @@
       "away_score": "5",
       "home": "Scarborough Ice Raiders",
       "home_score": "0",
-      "arena": "Don Montgomery 1"
+      "arena": "Don Montgomery 1",
+      "source": null
     },
     {
       "date": "2026-11-05",
@@ -686,7 +736,8 @@
       "away_score": "9",
       "home": "Victoria Village Mustangs",
       "home_score": "0",
-      "arena": "Don Mills Arena"
+      "arena": "Don Mills Arena",
+      "source": null
     },
     {
       "date": "2026-11-06",
@@ -694,7 +745,8 @@
       "away_score": "0",
       "home": "North Toronto Green",
       "home_score": "13",
-      "arena": "Baycrest"
+      "arena": "Baycrest",
+      "source": null
     },
     {
       "date": "2026-11-06",
@@ -702,7 +754,8 @@
       "away_score": "0",
       "home": "Leaside Flames",
       "home_score": "13",
-      "arena": "Leaside Memorial A"
+      "arena": "Leaside Memorial A",
+      "source": null
     },
     {
       "date": "2026-11-07",
@@ -710,7 +763,8 @@
       "away_score": "5",
       "home": "Scarborough Ice Raiders",
       "home_score": "0",
-      "arena": "Chesswood 1"
+      "arena": "Chesswood 1",
+      "source": null
     },
     {
       "date": "2026-11-07",
@@ -718,7 +772,8 @@
       "away_score": "0",
       "home": "Leaside Flames",
       "home_score": "5",
-      "arena": "Chesswood 2"
+      "arena": "Chesswood 2",
+      "source": null
     },
     {
       "date": "2026-11-07",
@@ -726,7 +781,8 @@
       "away_score": "10",
       "home": "West Hill Golden Hawks",
       "home_score": "0",
-      "arena": "Scarborough Gardens"
+      "arena": "Scarborough Gardens",
+      "source": null
     },
     {
       "date": "2026-11-08",
@@ -734,7 +790,8 @@
       "away_score": "4",
       "home": "North Toronto Green",
       "home_score": "4",
-      "arena": "North Toronto"
+      "arena": "North Toronto",
+      "source": null
     },
     {
       "date": "2026-11-08",
@@ -742,7 +799,8 @@
       "away_score": "2",
       "home": "North Toronto",
       "home_score": "3",
-      "arena": "North Toronto"
+      "arena": "North Toronto",
+      "source": null
     },
     {
       "date": "2026-11-09",
@@ -750,7 +808,8 @@
       "away_score": "2",
       "home": "Markham Islanders",
       "home_score": "5",
-      "arena": "Thornhill Centre West"
+      "arena": "Thornhill Centre West",
+      "source": null
     },
     {
       "date": "2026-11-10",
@@ -758,7 +817,8 @@
       "away_score": "7",
       "home": "Avenue Road Ducks",
       "home_score": "2",
-      "arena": "Bayview"
+      "arena": "Bayview",
+      "source": null
     },
     {
       "date": "2026-11-11",
@@ -766,7 +826,8 @@
       "away_score": "5",
       "home": "Vaughan Rangers East",
       "home_score": "2",
-      "arena": "Garnet A Williams Arena"
+      "arena": "Garnet A Williams Arena",
+      "source": null
     },
     {
       "date": "2026-11-11",
@@ -774,7 +835,8 @@
       "away_score": "0",
       "home": "Forest Hill",
       "home_score": "5",
-      "arena": "Forest Hill/Larry Grossman"
+      "arena": "Forest Hill/Larry Grossman",
+      "source": null
     },
     {
       "date": "2026-11-11",
@@ -782,7 +844,8 @@
       "away_score": "3",
       "home": "East Enders Ticats",
       "home_score": "2",
-      "arena": "Scarborough Gardens"
+      "arena": "Scarborough Gardens",
+      "source": null
     },
     {
       "date": "2026-11-12",
@@ -790,7 +853,8 @@
       "away_score": "5",
       "home": "Victoria Village Mustangs",
       "home_score": "2",
-      "arena": "Don Mills Arena"
+      "arena": "Don Mills Arena",
+      "source": null
     },
     {
       "date": "2026-11-12",
@@ -798,7 +862,8 @@
       "away_score": "5",
       "home": "Leaside Flames Gold",
       "home_score": "0",
-      "arena": "Leaside Memorial A"
+      "arena": "Leaside Memorial A",
+      "source": null
     },
     {
       "date": "2026-11-12",
@@ -806,7 +871,8 @@
       "away_score": "3",
       "home": "Scarborough Ice Raiders",
       "home_score": "8",
-      "arena": "Don Montgomery 1"
+      "arena": "Don Montgomery 1",
+      "source": null
     },
     {
       "date": "2026-11-13",
@@ -814,7 +880,8 @@
       "away_score": "10",
       "home": "Toronto Aeros",
       "home_score": "0",
-      "arena": "Baycrest"
+      "arena": "Baycrest",
+      "source": null
     },
     {
       "date": "2026-11-14",
@@ -822,7 +889,8 @@
       "away_score": "13",
       "home": "West Hill Golden Hawks",
       "home_score": "1",
-      "arena": "Scarborough Gardens"
+      "arena": "Scarborough Gardens",
+      "source": null
     },
     {
       "date": "2026-11-14",
@@ -830,7 +898,8 @@
       "away_score": "3",
       "home": "Leaside Flames Gold",
       "home_score": "2",
-      "arena": "Leaside Memorial B"
+      "arena": "Leaside Memorial B",
+      "source": null
     }
   ],
   "changes": {
