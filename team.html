@@ -15,9 +15,9 @@
 <body>
 <main class="wrap">
 <nav><div class="brand"><a class="siteLink" href="./index.html">Puck<span>Ladder</span></a> <span class="label">PILOT</span></div><div class="navsmall">Youth Hockey Power Rankings</div></nav>
-<a class="backLink" href="./index.html">← All rankings &amp; standings</a>
+<a class="backLink" id="backLink" href="./index.html">← All rankings &amp; standings</a>
 <header class="hero">
-<div class="kicker">GTHL · 2026–27 season · U10 A East</div>
+<div class="kicker" id="divisionName">GTHL · 2026–27 season · U10 A East</div>
 <h1 id="teamName">Team results</h1>
 <p class="tagline">Youth Hockey Power Rankings - See where your team stands</p>
 <p class="intro" id="summary">Loading completed games...</p>
@@ -36,6 +36,13 @@
 </main>
 <script>
 const $=id=>document.getElementById(id);
+const DIVISIONS={
+  'u10-a-east':{label:'GTHL U10 A East',path:'./data/latest.json'},
+  'u10-a-west':{label:'GTHL U10 A West',path:'./data/u10-a-west.json'},
+  'u10-aa-east':{label:'GTHL U10 AA East',path:'./data/u10-aa-east.json'},
+  'u10-aa-west':{label:'GTHL U10 AA West',path:'./data/u10-aa-west.json'},
+  'u10-aaa':{label:'GTHL U10 AAA',path:'./data/u10-aaa.json'}
+};
 function addCell(row,value,cls){
   const cell=document.createElement('td');
   cell.textContent=String(value??'—');
@@ -44,11 +51,18 @@ function addCell(row,value,cls){
 }
 async function showTeam(){
   try{
-    const team=new URLSearchParams(window.location.search).get('team');
+    const query=new URLSearchParams(window.location.search);
+    const team=query.get('team');
+    const requested=query.get('division');
+    const slug=Object.prototype.hasOwnProperty.call(DIVISIONS,requested)?requested:'u10-a-east';
+    $('divisionName').textContent='GTHL · 2026–27 season · '+DIVISIONS[slug].label.replace('GTHL ','');
+    $('backLink').href='./index.html'+(slug==='u10-a-east'?'':'?division='+encodeURIComponent(slug));
     if(!team)throw new Error('No team selected. Choose a team from the rankings page.');
-    const response=await fetch('./data/latest.json',{cache:'no-store'});
+    const response=await fetch(DIVISIONS[slug].path,{cache:'no-store'});
+    if(response.status===404)throw new Error('No reconciled game results have been published for '+DIVISIONS[slug].label+'.');
     if(!response.ok)throw new Error('HTTP '+response.status);
     const data=await response.json();
+    if(data.division!==DIVISIONS[slug].label)throw new Error('Division mismatch — results are not displayed.');
     if(data.status!=='verified_against_official_GTHL_standings'||!data.quality?.rankings_published)
       throw new Error('The latest results have not passed verification.');
     if(!data.standings?.some(s=>s.team===team)||!Array.isArray(data.games))
