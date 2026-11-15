@@ -1,128 +1,128 @@
 {
-  "as_of_toronto": "2026-11-14",
+  "as_of_toronto": "2026-11-15",
   "division": "GTHL U10 A East",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 67,
+  "game_count": 69,
   "team_count": 15,
   "rankings": [
     {
       "rank": "1",
       "team": "Forest Hill",
-      "power_rating": "4.5347",
-      "momentum_rating": "4.6163",
+      "power_rating": "4.5392",
+      "momentum_rating": "4.6772",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "North Toronto Green",
-      "power_rating": "4.3571",
-      "momentum_rating": "1.9677",
+      "power_rating": "4.3585",
+      "momentum_rating": "2.1964",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Leaside Flames",
-      "power_rating": "4.244",
-      "momentum_rating": "4.339",
-      "games_played": "9",
+      "power_rating": "4.2004",
+      "momentum_rating": "3.6261",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "North York Knights",
-      "power_rating": "2.4328",
-      "momentum_rating": "0.4086",
-      "games_played": "9",
+      "power_rating": "2.3278",
+      "momentum_rating": "0.5641",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Ted Reeve Thunder",
-      "power_rating": "1.6784",
-      "momentum_rating": "2.0564",
+      "power_rating": "1.679",
+      "momentum_rating": "2.3172",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "East Enders Ticats",
-      "power_rating": "1.6339",
-      "momentum_rating": "1.4099",
+      "power_rating": "1.6205",
+      "momentum_rating": "1.4979",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "7",
-      "team": "North Toronto",
-      "power_rating": "0.3736",
-      "momentum_rating": "2.8432",
-      "games_played": "9",
-      "rank_change": 0
+      "team": "Leaside Flames Gold",
+      "power_rating": "0.3987",
+      "momentum_rating": "1.0402",
+      "games_played": "11",
+      "rank_change": 1
     },
     {
       "rank": "8",
-      "team": "Leaside Flames Gold",
-      "power_rating": "0.3061",
-      "momentum_rating": "1.8794",
-      "games_played": "10",
-      "rank_change": 0
+      "team": "North Toronto",
+      "power_rating": "0.3743",
+      "momentum_rating": "2.93",
+      "games_played": "9",
+      "rank_change": -1
     },
     {
       "rank": "9",
       "team": "Toronto Aeros",
-      "power_rating": "-1.4537",
-      "momentum_rating": "-1.643",
+      "power_rating": "-1.4701",
+      "momentum_rating": "-1.7509",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "10",
       "team": "Avenue Road Ducks",
-      "power_rating": "-1.5952",
-      "momentum_rating": "-2.1932",
+      "power_rating": "-1.5931",
+      "momentum_rating": "-2.0999",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "11",
       "team": "West Hill Golden Hawks",
-      "power_rating": "-2.3072",
-      "momentum_rating": "-4.5044",
-      "games_played": "9",
+      "power_rating": "-2.257",
+      "momentum_rating": "-3.7759",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "12",
       "team": "Vaughan Rangers East",
-      "power_rating": "-2.4014",
-      "momentum_rating": "-1.3302",
+      "power_rating": "-2.387",
+      "momentum_rating": "-1.2436",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "13",
       "team": "Scarborough Ice Raiders",
-      "power_rating": "-2.4965",
-      "momentum_rating": "-0.8303",
+      "power_rating": "-2.4841",
+      "momentum_rating": "-0.9699",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "14",
       "team": "Markham Islanders",
-      "power_rating": "-4.4145",
-      "momentum_rating": "-4.0604",
+      "power_rating": "-4.414",
+      "momentum_rating": "-3.9683",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "15",
       "team": "Victoria Village Mustangs",
-      "power_rating": "-4.8921",
-      "momentum_rating": "-4.959",
+      "power_rating": "-4.8931",
+      "momentum_rating": "-5.0404",
       "games_played": "11",
       "rank_change": 0
     }
@@ -130,13 +130,13 @@
   "standings": [
     {
       "team": "Leaside Flames",
-      "gp": "9",
-      "w": "9",
+      "gp": "10",
+      "w": "10",
       "l": "0",
       "t": "0",
-      "gf": "59",
-      "ga": "0",
-      "pts": "18"
+      "gf": "72",
+      "ga": "1",
+      "pts": "20"
     },
     {
       "team": "North Toronto Green",
@@ -170,13 +170,13 @@
     },
     {
       "team": "North York Knights",
-      "gp": "9",
-      "w": "5",
+      "gp": "10",
+      "w": "6",
       "l": "3",
       "t": "1",
-      "gf": "44",
-      "ga": "20",
-      "pts": "11"
+      "gf": "47",
+      "ga": "22",
+      "pts": "13"
     },
     {
       "team": "North Toronto",
@@ -190,12 +190,12 @@
     },
     {
       "team": "Leaside Flames Gold",
-      "gp": "10",
+      "gp": "11",
       "w": "5",
-      "l": "4",
+      "l": "5",
       "t": "1",
-      "gf": "40",
-      "ga": "36",
+      "gf": "42",
+      "ga": "39",
       "pts": "11"
     },
     {
@@ -250,12 +250,12 @@
     },
     {
       "team": "West Hill Golden Hawks",
-      "gp": "9",
+      "gp": "10",
       "w": "2",
-      "l": "7",
+      "l": "8",
       "t": "0",
-      "gf": "22",
-      "ga": "64",
+      "gf": "23",
+      "ga": "77",
       "pts": "4"
     },
     {
@@ -815,10 +815,26 @@
       "home": "Toronto Aeros",
       "home_score": "0",
       "arena": "Baycrest"
+    },
+    {
+      "date": "2026-11-14",
+      "away": "Leaside Flames",
+      "away_score": "13",
+      "home": "West Hill Golden Hawks",
+      "home_score": "1",
+      "arena": "Scarborough Gardens"
+    },
+    {
+      "date": "2026-11-14",
+      "away": "North York Knights",
+      "away_score": "3",
+      "home": "Leaside Flames Gold",
+      "home_score": "2",
+      "arena": "Leaside Memorial B"
     }
   ],
   "changes": {
-    "added": 1,
+    "added": 2,
     "changed": 0,
     "removed": 0
   },
