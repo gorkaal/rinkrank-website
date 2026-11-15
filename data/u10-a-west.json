@@ -3,84 +3,84 @@
   "division": "GTHL U10 A West",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 34,
+  "game_count": 35,
   "team_count": 8,
   "rankings": [
     {
       "rank": "1",
       "team": "Vaughan Rangers",
-      "power_rating": "4.6871",
-      "momentum_rating": "3.8833",
-      "games_played": "8",
-      "rank_change": null
+      "power_rating": "4.711",
+      "momentum_rating": "3.6815",
+      "games_played": "9",
+      "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Duffield Devils",
-      "power_rating": "1.184",
-      "momentum_rating": "2.8424",
+      "power_rating": "1.1869",
+      "momentum_rating": "2.8214",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "3",
       "team": "The Attack",
-      "power_rating": "0.736",
-      "momentum_rating": "-0.5045",
+      "power_rating": "0.7338",
+      "momentum_rating": "-0.5208",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "4",
       "team": "Humber Valley Sharks",
-      "power_rating": "0.4151",
-      "momentum_rating": "1.2909",
+      "power_rating": "0.4149",
+      "momentum_rating": "1.1786",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Toronto Eagles",
-      "power_rating": "-0.0548",
-      "momentum_rating": "-0.2091",
-      "games_played": "9",
-      "rank_change": null
+      "power_rating": "-0.0765",
+      "momentum_rating": "0.4464",
+      "games_played": "10",
+      "rank_change": 0
     },
     {
       "rank": "6",
       "team": "Greater Toronto Capitals",
       "power_rating": "-0.3153",
-      "momentum_rating": "-1.25",
+      "momentum_rating": "-1.3899",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Vaughan Panthers",
-      "power_rating": "-1.2838",
-      "momentum_rating": "-1.1909",
+      "power_rating": "-1.2865",
+      "momentum_rating": "-1.1964",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "8",
       "team": "George Bell Titans",
       "power_rating": "-5.3684",
-      "momentum_rating": "-4.8621",
+      "momentum_rating": "-5.0208",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     }
   ],
   "standings": [
     {
       "team": "Vaughan Rangers",
-      "gp": "8",
-      "w": "8",
+      "gp": "9",
+      "w": "9",
       "l": "0",
       "t": "0",
-      "gf": "67",
-      "ga": "11",
-      "pts": "16"
+      "gf": "73",
+      "ga": "12",
+      "pts": "18"
     },
     {
       "team": "The Attack",
@@ -93,16 +93,6 @@
       "pts": "10"
     },
     {
-      "team": "Toronto Eagles",
-      "gp": "9",
-      "w": "5",
-      "l": "4",
-      "t": "0",
-      "gf": "32",
-      "ga": "29",
-      "pts": "10"
-    },
-    {
       "team": "Greater Toronto Capitals",
       "gp": "10",
       "w": "4",
@@ -110,6 +100,16 @@
       "t": "2",
       "gf": "41",
       "ga": "28",
+      "pts": "10"
+    },
+    {
+      "team": "Toronto Eagles",
+      "gp": "10",
+      "w": "5",
+      "l": "5",
+      "t": "0",
+      "gf": "33",
+      "ga": "35",
       "pts": "10"
     },
     {
@@ -459,10 +459,19 @@
       "home_score": "4",
       "arena": "Chesswood 2",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "Vaughan Rangers",
+      "away_score": "6",
+      "home": "Toronto Eagles",
+      "home_score": "1",
+      "arena": "Lambton",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 34,
+    "added": 1,
     "changed": 0,
     "removed": 0
   },
