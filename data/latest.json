@@ -1,56 +1,56 @@
 {
-  "as_of_toronto": "2026-11-13",
+  "as_of_toronto": "2026-11-14",
   "division": "GTHL U10 A East",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 66,
+  "game_count": 67,
   "team_count": 15,
   "rankings": [
     {
       "rank": "1",
       "team": "Forest Hill",
-      "power_rating": "4.5316",
-      "momentum_rating": "4.6534",
+      "power_rating": "4.5347",
+      "momentum_rating": "4.6163",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "North Toronto Green",
-      "power_rating": "4.3323",
-      "momentum_rating": "0.986",
-      "games_played": "8",
+      "power_rating": "4.3571",
+      "momentum_rating": "1.9677",
+      "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Leaside Flames",
-      "power_rating": "4.2465",
-      "momentum_rating": "4.5708",
+      "power_rating": "4.244",
+      "momentum_rating": "4.339",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "North York Knights",
-      "power_rating": "2.4324",
-      "momentum_rating": "0.2358",
+      "power_rating": "2.4328",
+      "momentum_rating": "0.4086",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Ted Reeve Thunder",
-      "power_rating": "1.6814",
-      "momentum_rating": "2.0675",
+      "power_rating": "1.6784",
+      "momentum_rating": "2.0564",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "East Enders Ticats",
-      "power_rating": "1.6338",
-      "momentum_rating": "1.6527",
+      "power_rating": "1.6339",
+      "momentum_rating": "1.4099",
       "games_played": "8",
       "rank_change": 0
     },
@@ -58,71 +58,71 @@
       "rank": "7",
       "team": "North Toronto",
       "power_rating": "0.3736",
-      "momentum_rating": "2.8592",
+      "momentum_rating": "2.8432",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "Leaside Flames Gold",
-      "power_rating": "0.3038",
-      "momentum_rating": "1.887",
+      "power_rating": "0.3061",
+      "momentum_rating": "1.8794",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "9",
       "team": "Toronto Aeros",
-      "power_rating": "-1.429",
-      "momentum_rating": "-0.5724",
-      "games_played": "8",
+      "power_rating": "-1.4537",
+      "momentum_rating": "-1.643",
+      "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "10",
       "team": "Avenue Road Ducks",
       "power_rating": "-1.5952",
-      "momentum_rating": "-2.1718",
+      "momentum_rating": "-2.1932",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "11",
       "team": "West Hill Golden Hawks",
-      "power_rating": "-2.3102",
-      "momentum_rating": "-4.7788",
+      "power_rating": "-2.3072",
+      "momentum_rating": "-4.5044",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "12",
       "team": "Vaughan Rangers East",
-      "power_rating": "-2.401",
-      "momentum_rating": "-1.3557",
+      "power_rating": "-2.4014",
+      "momentum_rating": "-1.3302",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "13",
       "team": "Scarborough Ice Raiders",
-      "power_rating": "-2.4936",
-      "momentum_rating": "-0.8119",
+      "power_rating": "-2.4965",
+      "momentum_rating": "-0.8303",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "14",
       "team": "Markham Islanders",
-      "power_rating": "-4.4142",
-      "momentum_rating": "-4.246",
+      "power_rating": "-4.4145",
+      "momentum_rating": "-4.0604",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "15",
       "team": "Victoria Village Mustangs",
-      "power_rating": "-4.8923",
-      "momentum_rating": "-4.9757",
+      "power_rating": "-4.8921",
+      "momentum_rating": "-4.959",
       "games_played": "11",
       "rank_change": 0
     }
@@ -655,10 +655,18 @@
       "home": "Scarborough Ice Raiders",
       "home_score": "8",
       "arena": "Don Montgomery 1"
+    },
+    {
+      "date": "2026-11-13",
+      "away": "North Toronto Green",
+      "away_score": "10",
+      "home": "Toronto Aeros",
+      "home_score": "0",
+      "arena": "Baycrest"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 1,
     "changed": 0,
     "removed": 0
   },
