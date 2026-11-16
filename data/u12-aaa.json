@@ -1,0 +1,784 @@
+{
+  "as_of_toronto": "2026-11-15",
+  "division": "GTHL U12 AAA",
+  "season": "2026–27",
+  "status": "verified_against_official_GTHL_standings",
+  "game_count": 60,
+  "team_count": 12,
+  "rankings": [
+    {
+      "rank": "1",
+      "team": "Jr. Canadiens",
+      "power_rating": "3.9338",
+      "momentum_rating": "3.1074",
+      "games_played": "12",
+      "rank_change": null
+    },
+    {
+      "rank": "2",
+      "team": "Don Mills Flyers",
+      "power_rating": "3.4378",
+      "momentum_rating": "4.3329",
+      "games_played": "11",
+      "rank_change": null
+    },
+    {
+      "rank": "3",
+      "team": "Toronto Marlboros",
+      "power_rating": "2.75",
+      "momentum_rating": "3.7472",
+      "games_played": "11",
+      "rank_change": null
+    },
+    {
+      "rank": "4",
+      "team": "Vaughan Kings",
+      "power_rating": "1.0201",
+      "momentum_rating": "-0.2805",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "5",
+      "team": "Toronto Titans",
+      "power_rating": "0.0872",
+      "momentum_rating": "-0.0549",
+      "games_played": "10",
+      "rank_change": null
+    },
+    {
+      "rank": "6",
+      "team": "Mississauga Senators",
+      "power_rating": "-0.2439",
+      "momentum_rating": "-0.2703",
+      "games_played": "10",
+      "rank_change": null
+    },
+    {
+      "rank": "7",
+      "team": "Toronto Young Nationals",
+      "power_rating": "-0.7843",
+      "momentum_rating": "-1.1532",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "8",
+      "team": "Reps Hockey Club",
+      "power_rating": "-1.1667",
+      "momentum_rating": "-1.2703",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "9",
+      "team": "Toronto Red Wings",
+      "power_rating": "-1.402",
+      "momentum_rating": "-1.1248",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "10",
+      "team": "Mississauga Rebels",
+      "power_rating": "-1.7366",
+      "momentum_rating": "-0.9536",
+      "games_played": "10",
+      "rank_change": null
+    },
+    {
+      "rank": "11",
+      "team": "North York Rangers",
+      "power_rating": "-2.8608",
+      "momentum_rating": "-2.7102",
+      "games_played": "11",
+      "rank_change": null
+    },
+    {
+      "rank": "12",
+      "team": "Markham Majors",
+      "power_rating": "-3.0346",
+      "momentum_rating": "-3.3696",
+      "games_played": "9",
+      "rank_change": null
+    }
+  ],
+  "standings": [
+    {
+      "team": "Jr. Canadiens",
+      "gp": "12",
+      "w": "12",
+      "l": "0",
+      "t": "0",
+      "gf": "85",
+      "ga": "14",
+      "pts": "24"
+    },
+    {
+      "team": "Don Mills Flyers",
+      "gp": "11",
+      "w": "10",
+      "l": "1",
+      "t": "0",
+      "gf": "64",
+      "ga": "13",
+      "pts": "20"
+    },
+    {
+      "team": "Toronto Marlboros",
+      "gp": "11",
+      "w": "9",
+      "l": "2",
+      "t": "0",
+      "gf": "57",
+      "ga": "20",
+      "pts": "18"
+    },
+    {
+      "team": "Vaughan Kings",
+      "gp": "9",
+      "w": "6",
+      "l": "3",
+      "t": "0",
+      "gf": "29",
+      "ga": "22",
+      "pts": "12"
+    },
+    {
+      "team": "Toronto Titans",
+      "gp": "10",
+      "w": "5",
+      "l": "5",
+      "t": "0",
+      "gf": "24",
+      "ga": "29",
+      "pts": "10"
+    },
+    {
+      "team": "Mississauga Senators",
+      "gp": "10",
+      "w": "4",
+      "l": "5",
+      "t": "1",
+      "gf": "19",
+      "ga": "24",
+      "pts": "9"
+    },
+    {
+      "team": "Toronto Red Wings",
+      "gp": "9",
+      "w": "4",
+      "l": "5",
+      "t": "0",
+      "gf": "21",
+      "ga": "46",
+      "pts": "8"
+    },
+    {
+      "team": "Toronto Young Nationals",
+      "gp": "9",
+      "w": "3",
+      "l": "6",
+      "t": "0",
+      "gf": "24",
+      "ga": "34",
+      "pts": "6"
+    },
+    {
+      "team": "Mississauga Rebels",
+      "gp": "10",
+      "w": "2",
+      "l": "8",
+      "t": "0",
+      "gf": "11",
+      "ga": "31",
+      "pts": "4"
+    },
+    {
+      "team": "Reps Hockey Club",
+      "gp": "9",
+      "w": "1",
+      "l": "7",
+      "t": "1",
+      "gf": "19",
+      "ga": "29",
+      "pts": "3"
+    },
+    {
+      "team": "Markham Majors",
+      "gp": "9",
+      "w": "1",
+      "l": "7",
+      "t": "1",
+      "gf": "9",
+      "ga": "39",
+      "pts": "3"
+    },
+    {
+      "team": "North York Rangers",
+      "gp": "11",
+      "w": "1",
+      "l": "9",
+      "t": "1",
+      "gf": "16",
+      "ga": "77",
+      "pts": "-7"
+    }
+  ],
+  "games": [
+    {
+      "date": "2026-10-05",
+      "away": "Jr. Canadiens",
+      "away_score": "5",
+      "home": "Toronto Young Nationals",
+      "home_score": "1",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-05",
+      "away": "Markham Majors",
+      "away_score": "1",
+      "home": "Toronto Titans",
+      "home_score": "3",
+      "arena": "Scotiabank Pond 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-05",
+      "away": "Mississauga Senators",
+      "away_score": "1",
+      "home": "Reps Hockey Club",
+      "home_score": "1",
+      "arena": "Westwood 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-06",
+      "away": "North York Rangers",
+      "away_score": "3",
+      "home": "Don Mills Flyers",
+      "home_score": "14",
+      "arena": "Victoria Village",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-06",
+      "away": "Vaughan Kings",
+      "away_score": "7",
+      "home": "Toronto Red Wings",
+      "home_score": "1",
+      "arena": "Scotiabank Pond 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-09",
+      "away": "Mississauga Senators",
+      "away_score": "5",
+      "home": "Mississauga Rebels",
+      "home_score": "2",
+      "arena": "Westwood 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-09",
+      "away": "Toronto Red Wings",
+      "away_score": "0",
+      "home": "Toronto Marlboros",
+      "home_score": "8",
+      "arena": "CWENCH Centre Etobicoke 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-10",
+      "away": "Markham Majors",
+      "away_score": "1",
+      "home": "Don Mills Flyers",
+      "home_score": "6",
+      "arena": "Scotiabank Pond 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-10",
+      "away": "Mississauga Rebels",
+      "away_score": "1",
+      "home": "Vaughan Kings",
+      "home_score": "2",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-11",
+      "away": "Don Mills Flyers",
+      "away_score": "5",
+      "home": "Toronto Titans",
+      "home_score": "1",
+      "arena": "CWENCH Centre Etobicoke 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-11",
+      "away": "North York Rangers",
+      "away_score": "1",
+      "home": "Jr. Canadiens",
+      "home_score": "15",
+      "arena": "Scotiabank Pond 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-11",
+      "away": "Toronto Marlboros",
+      "away_score": "3",
+      "home": "Reps Hockey Club",
+      "home_score": "0",
+      "arena": "Scotiabank Pond 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-11",
+      "away": "Toronto Young Nationals",
+      "away_score": "7",
+      "home": "Markham Majors",
+      "home_score": "1",
+      "arena": "Thornhill Centre West",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-12",
+      "away": "Mississauga Senators",
+      "away_score": "0",
+      "home": "Toronto Titans",
+      "home_score": "4",
+      "arena": "Scotiabank Pond 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-13",
+      "away": "Jr. Canadiens",
+      "away_score": "4",
+      "home": "Don Mills Flyers",
+      "home_score": "1",
+      "arena": "Victoria Village",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-13",
+      "away": "Toronto Young Nationals",
+      "away_score": "2",
+      "home": "Mississauga Rebels",
+      "home_score": "3",
+      "arena": "Mississauga Sports and Entertainment Centre 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-14",
+      "away": "Toronto Marlboros",
+      "away_score": "4",
+      "home": "North York Rangers",
+      "home_score": "1",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-14",
+      "away": "Toronto Red Wings",
+      "away_score": "5",
+      "home": "Reps Hockey Club",
+      "home_score": "4",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-16",
+      "away": "Jr. Canadiens",
+      "away_score": "8",
+      "home": "Toronto Red Wings",
+      "home_score": "1",
+      "arena": "Chesswood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "Mississauga Rebels",
+      "away_score": "1",
+      "home": "Markham Majors",
+      "home_score": "3",
+      "arena": "Thornhill Centre West",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "Toronto Marlboros",
+      "away_score": "2",
+      "home": "Jr. Canadiens",
+      "home_score": "5",
+      "arena": "Scotiabank Pond 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-19",
+      "away": "Mississauga Rebels",
+      "away_score": "1",
+      "home": "Jr. Canadiens",
+      "home_score": "6",
+      "arena": "Scotiabank Pond 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-19",
+      "away": "Toronto Marlboros",
+      "away_score": "2",
+      "home": "Mississauga Senators",
+      "home_score": "1",
+      "arena": "Mississauga Sports and Entertainment Centre 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-20",
+      "away": "Toronto Young Nationals",
+      "away_score": "0",
+      "home": "Don Mills Flyers",
+      "home_score": "3",
+      "arena": "Victoria Village",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-21",
+      "away": "Toronto Red Wings",
+      "away_score": "6",
+      "home": "North York Rangers",
+      "home_score": "1",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "Toronto Titans",
+      "away_score": "3",
+      "home": "Toronto Marlboros",
+      "home_score": "8",
+      "arena": "CWENCH Centre Etobicoke 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "Mississauga Senators",
+      "away_score": "2",
+      "home": "Vaughan Kings",
+      "home_score": "4",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "Reps Hockey Club",
+      "away_score": "2",
+      "home": "Toronto Titans",
+      "home_score": "3",
+      "arena": "NFP Athletic Centre - Canlan York 5",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "North York Rangers",
+      "away_score": "2",
+      "home": "Markham Majors",
+      "home_score": "2",
+      "arena": "Thornhill Centre West",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-26",
+      "away": "North York Rangers",
+      "away_score": "1",
+      "home": "Toronto Titans",
+      "home_score": "4",
+      "arena": "Scotiabank Pond 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-26",
+      "away": "Vaughan Kings",
+      "away_score": "3",
+      "home": "Toronto Young Nationals",
+      "home_score": "0",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-27",
+      "away": "Markham Majors",
+      "away_score": "1",
+      "home": "Jr. Canadiens",
+      "home_score": "8",
+      "arena": "Scotiabank Pond 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-27",
+      "away": "Mississauga Senators",
+      "away_score": "0",
+      "home": "Don Mills Flyers",
+      "home_score": "2",
+      "arena": "Victoria Village",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-28",
+      "away": "Toronto Young Nationals",
+      "away_score": "3",
+      "home": "Reps Hockey Club",
+      "home_score": "2",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-28",
+      "away": "Vaughan Kings",
+      "away_score": "8",
+      "home": "North York Rangers",
+      "home_score": "0",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-29",
+      "away": "Reps Hockey Club",
+      "away_score": "2",
+      "home": "Mississauga Rebels",
+      "home_score": "0",
+      "arena": "Iceland 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "Don Mills Flyers",
+      "away_score": "5",
+      "home": "Toronto Marlboros",
+      "home_score": "2",
+      "arena": "CWENCH Centre Etobicoke 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "Toronto Titans",
+      "away_score": "4",
+      "home": "Toronto Red Wings",
+      "home_score": "1",
+      "arena": "Chesswood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-31",
+      "away": "Don Mills Flyers",
+      "away_score": "5",
+      "home": "Vaughan Kings",
+      "home_score": "1",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "Mississauga Senators",
+      "away_score": "1",
+      "home": "Jr. Canadiens",
+      "home_score": "5",
+      "arena": "Scotiabank Pond 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "North York Rangers",
+      "away_score": "2",
+      "home": "Mississauga Senators",
+      "home_score": "4",
+      "arena": "Mississauga Sports and Entertainment Centre 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "Toronto Marlboros",
+      "away_score": "12",
+      "home": "Toronto Young Nationals",
+      "home_score": "4",
+      "arena": "Westwood 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "Vaughan Kings",
+      "away_score": "3",
+      "home": "Toronto Titans",
+      "home_score": "1",
+      "arena": "Scotiabank Pond 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-03",
+      "away": "Mississauga Rebels",
+      "away_score": "0",
+      "home": "Don Mills Flyers",
+      "home_score": "5",
+      "arena": "Victoria Village",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-04",
+      "away": "Jr. Canadiens",
+      "away_score": "12",
+      "home": "North York Rangers",
+      "home_score": "0",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-04",
+      "away": "Markham Majors",
+      "away_score": "0",
+      "home": "Toronto Red Wings",
+      "home_score": "3",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "Mississauga Rebels",
+      "away_score": "0",
+      "home": "Toronto Marlboros",
+      "home_score": "5",
+      "arena": "CWENCH Centre Etobicoke 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "Reps Hockey Club",
+      "away_score": "2",
+      "home": "Mississauga Senators",
+      "home_score": "4",
+      "arena": "Chesswood 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "Toronto Young Nationals",
+      "away_score": "1",
+      "home": "Toronto Red Wings",
+      "home_score": "3",
+      "arena": "Chesswood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "Don Mills Flyers",
+      "away_score": "5",
+      "home": "Toronto Titans",
+      "home_score": "0",
+      "arena": "Scotiabank Pond 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "Reps Hockey Club",
+      "away_score": "4",
+      "home": "Jr. Canadiens",
+      "home_score": "7",
+      "arena": "Scotiabank Pond 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "Jr. Canadiens",
+      "away_score": "3",
+      "home": "Toronto Titans",
+      "home_score": "1",
+      "arena": "Scotiabank Pond 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "Mississauga Rebels",
+      "away_score": "0",
+      "home": "Mississauga Senators",
+      "home_score": "1",
+      "arena": "Mississauga Sports and Entertainment Centre 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "North York Rangers",
+      "away_score": "2",
+      "home": "Toronto Young Nationals",
+      "home_score": "6",
+      "arena": "Westwood 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-10",
+      "away": "Toronto Red Wings",
+      "away_score": "1",
+      "home": "Don Mills Flyers",
+      "home_score": "13",
+      "arena": "Victoria Village",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-11",
+      "away": "Reps Hockey Club",
+      "away_score": "2",
+      "home": "North York Rangers",
+      "home_score": "3",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-12",
+      "away": "Markham Majors",
+      "away_score": "0",
+      "home": "Mississauga Rebels",
+      "home_score": "3",
+      "arena": "Iceland 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-13",
+      "away": "Vaughan Kings",
+      "away_score": "1",
+      "home": "Toronto Marlboros",
+      "home_score": "5",
+      "arena": "CWENCH Centre Etobicoke 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-14",
+      "away": "Jr. Canadiens",
+      "away_score": "7",
+      "home": "Vaughan Kings",
+      "home_score": "0",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "Toronto Marlboros",
+      "away_score": "6",
+      "home": "Markham Majors",
+      "home_score": "0",
+      "arena": "Thornhill Centre West",
+      "source": "gthl_schedule"
+    }
+  ],
+  "changes": {
+    "added": 60,
+    "changed": 0,
+    "removed": 0
+  },
+  "quality": {
+    "rankings_published": true,
+    "matched_teams": 12,
+    "issues": []
+  },
+  "source": {
+    "schedule": "https://gthlcanada.com/schedule/",
+    "standings": "https://gthlcanada.com/standing/"
+  }
+}
