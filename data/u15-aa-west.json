@@ -1,0 +1,604 @@
+{
+  "as_of_toronto": "2026-11-16",
+  "division": "GTHL U15 AA West",
+  "season": "2026–27",
+  "status": "verified_against_official_GTHL_standings",
+  "game_count": 44,
+  "team_count": 10,
+  "rankings": [
+    {
+      "rank": "1",
+      "team": "Greater Toronto Capitals",
+      "power_rating": "3.2945",
+      "momentum_rating": "3.6635",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "2",
+      "team": "Mississauga Beast",
+      "power_rating": "2.3969",
+      "momentum_rating": "2.4444",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "3",
+      "team": "Mississauga Terriers",
+      "power_rating": "1.1635",
+      "momentum_rating": "1.2186",
+      "games_played": "10",
+      "rank_change": null
+    },
+    {
+      "rank": "4",
+      "team": "Vaughan Rangers",
+      "power_rating": "0.2973",
+      "momentum_rating": "-0.5811",
+      "games_played": "7",
+      "rank_change": null
+    },
+    {
+      "rank": "5",
+      "team": "Mississauga Rattlers",
+      "power_rating": "0.233",
+      "momentum_rating": "0.7239",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "6",
+      "team": "Faustina Toros",
+      "power_rating": "-0.1097",
+      "momentum_rating": "-0.402",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "7",
+      "team": "Toronto Eagles",
+      "power_rating": "-0.7251",
+      "momentum_rating": "-0.8833",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "8",
+      "team": "Humber Valley Sharks",
+      "power_rating": "-1.013",
+      "momentum_rating": "-0.9512",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "9",
+      "team": "Avalanche",
+      "power_rating": "-2.2817",
+      "momentum_rating": "-0.902",
+      "games_played": "11",
+      "rank_change": null
+    },
+    {
+      "rank": "10",
+      "team": "Streetsville Tigers",
+      "power_rating": "-3.2557",
+      "momentum_rating": "-4.3309",
+      "games_played": "9",
+      "rank_change": null
+    }
+  ],
+  "standings": [
+    {
+      "team": "Greater Toronto Capitals",
+      "gp": "8",
+      "w": "8",
+      "l": "0",
+      "t": "0",
+      "gf": "42",
+      "ga": "3",
+      "pts": "16"
+    },
+    {
+      "team": "Mississauga Terriers",
+      "gp": "10",
+      "w": "7",
+      "l": "2",
+      "t": "1",
+      "gf": "39",
+      "ga": "22",
+      "pts": "15"
+    },
+    {
+      "team": "Mississauga Beast",
+      "gp": "8",
+      "w": "6",
+      "l": "1",
+      "t": "1",
+      "gf": "42",
+      "ga": "13",
+      "pts": "13"
+    },
+    {
+      "team": "Vaughan Rangers",
+      "gp": "7",
+      "w": "4",
+      "l": "1",
+      "t": "2",
+      "gf": "26",
+      "ga": "17",
+      "pts": "10"
+    },
+    {
+      "team": "Mississauga Rattlers",
+      "gp": "9",
+      "w": "3",
+      "l": "3",
+      "t": "3",
+      "gf": "27",
+      "ga": "29",
+      "pts": "9"
+    },
+    {
+      "team": "Faustina Toros",
+      "gp": "8",
+      "w": "3",
+      "l": "4",
+      "t": "1",
+      "gf": "18",
+      "ga": "21",
+      "pts": "7"
+    },
+    {
+      "team": "Humber Valley Sharks",
+      "gp": "9",
+      "w": "2",
+      "l": "5",
+      "t": "2",
+      "gf": "23",
+      "ga": "33",
+      "pts": "6"
+    },
+    {
+      "team": "Avalanche",
+      "gp": "11",
+      "w": "2",
+      "l": "8",
+      "t": "1",
+      "gf": "18",
+      "ga": "44",
+      "pts": "5"
+    },
+    {
+      "team": "Toronto Eagles",
+      "gp": "9",
+      "w": "1",
+      "l": "6",
+      "t": "2",
+      "gf": "19",
+      "ga": "35",
+      "pts": "4"
+    },
+    {
+      "team": "Streetsville Tigers",
+      "gp": "9",
+      "w": "1",
+      "l": "7",
+      "t": "1",
+      "gf": "14",
+      "ga": "51",
+      "pts": "3"
+    }
+  ],
+  "games": [
+    {
+      "date": "2026-10-13",
+      "away": "Avalanche",
+      "away_score": "1",
+      "home": "Mississauga Beast",
+      "home_score": "6",
+      "arena": "Mississauga Sports and Entertainment Centre 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-13",
+      "away": "Streetsville Tigers",
+      "away_score": "0",
+      "home": "Mississauga Terriers",
+      "home_score": "5",
+      "arena": "Mississauga Sports and Entertainment Centre 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-16",
+      "away": "Humber Valley Sharks",
+      "away_score": "0",
+      "home": "Greater Toronto Capitals",
+      "home_score": "9",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "Faustina Toros",
+      "away_score": "3",
+      "home": "Toronto Eagles",
+      "home_score": "3",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "Humber Valley Sharks",
+      "away_score": "3",
+      "home": "Streetsville Tigers",
+      "home_score": "5",
+      "arena": "Vic Johnston",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "Mississauga Terriers",
+      "away_score": "4",
+      "home": "Mississauga Rattlers",
+      "home_score": "4",
+      "arena": "Mississauga Sports and Entertainment Centre 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-19",
+      "away": "Faustina Toros",
+      "away_score": "2",
+      "home": "Vaughan Rangers",
+      "home_score": "3",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-20",
+      "away": "Toronto Eagles",
+      "away_score": "2",
+      "home": "Mississauga Terriers",
+      "home_score": "7",
+      "arena": "Mississauga Sports and Entertainment Centre 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-22",
+      "away": "Humber Valley Sharks",
+      "away_score": "5",
+      "home": "Avalanche",
+      "home_score": "0",
+      "arena": "Etobicoke Centennial East",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "Mississauga Beast",
+      "away_score": "5",
+      "home": "Toronto Eagles",
+      "home_score": "2",
+      "arena": "Westwood 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "Mississauga Rattlers",
+      "away_score": "0",
+      "home": "Greater Toronto Capitals",
+      "home_score": "5",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "Streetsville Tigers",
+      "away_score": "1",
+      "home": "Avalanche",
+      "home_score": "2",
+      "arena": "NFP Athletic Centre - Canlan York 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "Greater Toronto Capitals",
+      "away_score": "4",
+      "home": "Streetsville Tigers",
+      "home_score": "0",
+      "arena": "Vic Johnston",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "Humber Valley Sharks",
+      "away_score": "3",
+      "home": "Toronto Eagles",
+      "home_score": "3",
+      "arena": "Westwood 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "Mississauga Beast",
+      "away_score": "4",
+      "home": "Mississauga Terriers",
+      "home_score": "5",
+      "arena": "Mississauga Sports and Entertainment Centre 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "Vaughan Rangers",
+      "away_score": "4",
+      "home": "Mississauga Rattlers",
+      "home_score": "4",
+      "arena": "Mississauga Sports and Entertainment Centre 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-26",
+      "away": "Avalanche",
+      "away_score": "0",
+      "home": "Vaughan Rangers",
+      "home_score": "4",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-26",
+      "away": "Greater Toronto Capitals",
+      "away_score": "3",
+      "home": "Toronto Eagles",
+      "home_score": "1",
+      "arena": "Pinepoint",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-27",
+      "away": "Faustina Toros",
+      "away_score": "2",
+      "home": "Mississauga Beast",
+      "home_score": "5",
+      "arena": "Mississauga Sports and Entertainment Centre 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-27",
+      "away": "Humber Valley Sharks",
+      "away_score": "2",
+      "home": "Mississauga Terriers",
+      "home_score": "3",
+      "arena": "Mississauga Sports and Entertainment Centre 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "Avalanche",
+      "away_score": "0",
+      "home": "Faustina Toros",
+      "home_score": "4",
+      "arena": "Ford Performance Centre 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "Streetsville Tigers",
+      "away_score": "3",
+      "home": "Mississauga Rattlers",
+      "home_score": "10",
+      "arena": "Westwood 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "Faustina Toros",
+      "away_score": "1",
+      "home": "Mississauga Terriers",
+      "home_score": "0",
+      "arena": "Mississauga Sports and Entertainment Centre 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "Humber Valley Sharks",
+      "away_score": "4",
+      "home": "Avalanche",
+      "home_score": "3",
+      "arena": "NFP Athletic Centre - Canlan York 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "Mississauga Beast",
+      "away_score": "6",
+      "home": "Mississauga Rattlers",
+      "home_score": "0",
+      "arena": "Mississauga Sports and Entertainment Centre 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "Vaughan Rangers",
+      "away_score": "5",
+      "home": "Streetsville Tigers",
+      "home_score": "5",
+      "arena": "Vic Johnston",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "Humber Valley Sharks",
+      "away_score": "1",
+      "home": "Vaughan Rangers",
+      "home_score": "4",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "Streetsville Tigers",
+      "away_score": "0",
+      "home": "Mississauga Beast",
+      "home_score": "11",
+      "arena": "Scotiabank Pond 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-05",
+      "away": "Avalanche",
+      "away_score": "2",
+      "home": "Mississauga Terriers",
+      "home_score": "5",
+      "arena": "Iceland 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "Mississauga Rattlers",
+      "away_score": "3",
+      "home": "Faustina Toros",
+      "home_score": "0",
+      "arena": "Ford Performance Centre 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "Toronto Eagles",
+      "away_score": "1",
+      "home": "Greater Toronto Capitals",
+      "home_score": "4",
+      "arena": "Westwood 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-07",
+      "away": "Mississauga Rattlers",
+      "away_score": "2",
+      "home": "Avalanche",
+      "home_score": "2",
+      "arena": "Scotiabank Pond 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "Greater Toronto Capitals",
+      "away_score": "8",
+      "home": "Avalanche",
+      "home_score": "1",
+      "arena": "NFP Athletic Centre - Canlan York 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "Mississauga Terriers",
+      "away_score": "4",
+      "home": "Toronto Eagles",
+      "home_score": "2",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-10",
+      "away": "Mississauga Terriers",
+      "away_score": "1",
+      "home": "Mississauga Beast",
+      "home_score": "3",
+      "arena": "Mississauga Sports and Entertainment Centre 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-13",
+      "away": "Greater Toronto Capitals",
+      "away_score": "7",
+      "home": "Faustina Toros",
+      "home_score": "0",
+      "arena": "Ford Performance Centre 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-13",
+      "away": "Mississauga Rattlers",
+      "away_score": "4",
+      "home": "Vaughan Rangers",
+      "home_score": "3",
+      "arena": "Westwood 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-14",
+      "away": "Avalanche",
+      "away_score": "5",
+      "home": "Streetsville Tigers",
+      "home_score": "0",
+      "arena": "Chesswood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-14",
+      "away": "Toronto Eagles",
+      "away_score": "4",
+      "home": "Humber Valley Sharks",
+      "home_score": "3",
+      "arena": "CWENCH Centre Etobicoke 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "Avalanche",
+      "away_score": "2",
+      "home": "Mississauga Terriers",
+      "home_score": "5",
+      "arena": "Mississauga Sports and Entertainment Centre 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "Faustina Toros",
+      "away_score": "6",
+      "home": "Streetsville Tigers",
+      "home_score": "0",
+      "arena": "Vic Johnston",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "Greater Toronto Capitals",
+      "away_score": "2",
+      "home": "Mississauga Rattlers",
+      "home_score": "0",
+      "arena": "Mississauga Sports and Entertainment Centre 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "Mississauga Beast",
+      "away_score": "2",
+      "home": "Humber Valley Sharks",
+      "home_score": "2",
+      "arena": "CWENCH Centre Etobicoke 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "Vaughan Rangers",
+      "away_score": "3",
+      "home": "Toronto Eagles",
+      "home_score": "1",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    }
+  ],
+  "changes": {
+    "added": 44,
+    "changed": 0,
+    "removed": 0
+  },
+  "quality": {
+    "rankings_published": true,
+    "matched_teams": 10,
+    "issues": []
+  },
+  "source": {
+    "schedule": "https://gthlcanada.com/schedule/",
+    "standings": "https://gthlcanada.com/standing/"
+  }
+}
