@@ -1,0 +1,685 @@
+{
+  "as_of_toronto": "2026-11-15",
+  "division": "GTHL U13 A West",
+  "season": "2026–27",
+  "status": "verified_against_official_GTHL_standings",
+  "game_count": 49,
+  "team_count": 12,
+  "rankings": [
+    {
+      "rank": "1",
+      "team": "MHL-Erindale Spitfires",
+      "power_rating": "2.9891",
+      "momentum_rating": "3.3297",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "2",
+      "team": "Vaughan Panthers",
+      "power_rating": "2.7575",
+      "momentum_rating": "1.0221",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "3",
+      "team": "Vaughan Rangers",
+      "power_rating": "1.455",
+      "momentum_rating": "2.0464",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "4",
+      "team": "Toronto Eagles",
+      "power_rating": "1.0303",
+      "momentum_rating": "1.0464",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "5",
+      "team": "The Attack",
+      "power_rating": "0.9405",
+      "momentum_rating": "0.4492",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "6",
+      "team": "Humber Valley Sharks",
+      "power_rating": "0.7075",
+      "momentum_rating": "1.4492",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "7",
+      "team": "MHL-Applewood Coyotes",
+      "power_rating": "0.0001",
+      "momentum_rating": "-1.0461",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "8",
+      "team": "MHL-Port Credit Storm",
+      "power_rating": "-1.0616",
+      "momentum_rating": "-1.6611",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "9",
+      "team": "Vaughan Rangers Blue",
+      "power_rating": "-1.079",
+      "momentum_rating": "-1.142",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "10",
+      "team": "Avalanche",
+      "power_rating": "-1.3953",
+      "momentum_rating": "0.0889",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "11",
+      "team": "West Mall Lightning",
+      "power_rating": "-3.0745",
+      "momentum_rating": "-3.2828",
+      "games_played": "7",
+      "rank_change": null
+    },
+    {
+      "rank": "12",
+      "team": "Greater Toronto Capitals",
+      "power_rating": "-3.2697",
+      "momentum_rating": "-2.2999",
+      "games_played": "9",
+      "rank_change": null
+    }
+  ],
+  "standings": [
+    {
+      "team": "Vaughan Panthers",
+      "gp": "8",
+      "w": "8",
+      "l": "0",
+      "t": "0",
+      "gf": "42",
+      "ga": "9",
+      "pts": "16"
+    },
+    {
+      "team": "MHL-Erindale Spitfires",
+      "gp": "8",
+      "w": "7",
+      "l": "1",
+      "t": "0",
+      "gf": "37",
+      "ga": "17",
+      "pts": "14"
+    },
+    {
+      "team": "Vaughan Rangers",
+      "gp": "8",
+      "w": "5",
+      "l": "2",
+      "t": "1",
+      "gf": "30",
+      "ga": "14",
+      "pts": "11"
+    },
+    {
+      "team": "Toronto Eagles",
+      "gp": "9",
+      "w": "5",
+      "l": "3",
+      "t": "1",
+      "gf": "36",
+      "ga": "22",
+      "pts": "11"
+    },
+    {
+      "team": "The Attack",
+      "gp": "8",
+      "w": "4",
+      "l": "3",
+      "t": "1",
+      "gf": "33",
+      "ga": "22",
+      "pts": "9"
+    },
+    {
+      "team": "Humber Valley Sharks",
+      "gp": "8",
+      "w": "4",
+      "l": "3",
+      "t": "1",
+      "gf": "31",
+      "ga": "23",
+      "pts": "9"
+    },
+    {
+      "team": "MHL-Applewood Coyotes",
+      "gp": "9",
+      "w": "4",
+      "l": "4",
+      "t": "1",
+      "gf": "32",
+      "ga": "32",
+      "pts": "9"
+    },
+    {
+      "team": "Avalanche",
+      "gp": "8",
+      "w": "4",
+      "l": "4",
+      "t": "0",
+      "gf": "22",
+      "ga": "33",
+      "pts": "8"
+    },
+    {
+      "team": "Vaughan Rangers Blue",
+      "gp": "8",
+      "w": "2",
+      "l": "6",
+      "t": "0",
+      "gf": "15",
+      "ga": "35",
+      "pts": "4"
+    },
+    {
+      "team": "MHL-Port Credit Storm",
+      "gp": "8",
+      "w": "2",
+      "l": "6",
+      "t": "0",
+      "gf": "14",
+      "ga": "27",
+      "pts": "4"
+    },
+    {
+      "team": "Greater Toronto Capitals",
+      "gp": "9",
+      "w": "1",
+      "l": "8",
+      "t": "0",
+      "gf": "17",
+      "ga": "48",
+      "pts": "2"
+    },
+    {
+      "team": "West Mall Lightning",
+      "gp": "7",
+      "w": "0",
+      "l": "6",
+      "t": "1",
+      "gf": "9",
+      "ga": "36",
+      "pts": "1"
+    }
+  ],
+  "games": [
+    {
+      "date": "2026-10-12",
+      "away": "Toronto Eagles",
+      "away_score": "7",
+      "home": "MHL-Applewood Coyotes",
+      "home_score": "4",
+      "arena": "Scotiabank Pond 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-15",
+      "away": "MHL-Erindale Spitfires",
+      "away_score": "4",
+      "home": "The Attack",
+      "home_score": "2",
+      "arena": "Amesbury",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-16",
+      "away": "MHL-Port Credit Storm",
+      "away_score": "0",
+      "home": "Vaughan Panthers",
+      "home_score": "3",
+      "arena": "Vaughan Sports Village A",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-17",
+      "away": "Vaughan Rangers Blue",
+      "away_score": "4",
+      "home": "Greater Toronto Capitals",
+      "home_score": "3",
+      "arena": "Scotiabank Pond 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "Humber Valley Sharks",
+      "away_score": "1",
+      "home": "Vaughan Rangers",
+      "home_score": "3",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "The Attack",
+      "away_score": "5",
+      "home": "West Mall Lightning",
+      "home_score": "1",
+      "arena": "Scotiabank Pond 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "Vaughan Panthers",
+      "away_score": "8",
+      "home": "Avalanche",
+      "home_score": "0",
+      "arena": "NFP Athletic Centre - Canlan York 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-19",
+      "away": "The Attack",
+      "away_score": "7",
+      "home": "Greater Toronto Capitals",
+      "home_score": "2",
+      "arena": "Pinepoint",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-19",
+      "away": "Vaughan Rangers",
+      "away_score": "5",
+      "home": "Vaughan Rangers Blue",
+      "home_score": "1",
+      "arena": "Vaughan Sports Village A",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "Avalanche",
+      "away_score": "2",
+      "home": "MHL-Applewood Coyotes",
+      "home_score": "3",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "Greater Toronto Capitals",
+      "away_score": "0",
+      "home": "Vaughan Panthers",
+      "home_score": "8",
+      "arena": "Vaughan Sports Village A",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "Toronto Eagles",
+      "away_score": "6",
+      "home": "West Mall Lightning",
+      "home_score": "0",
+      "arena": "Etobicoke Centennial West",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "Humber Valley Sharks",
+      "away_score": "1",
+      "home": "MHL-Erindale Spitfires",
+      "home_score": "4",
+      "arena": "Tomken 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "The Attack",
+      "away_score": "4",
+      "home": "MHL-Port Credit Storm",
+      "home_score": "2",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "MHL-Applewood Coyotes",
+      "away_score": "2",
+      "home": "Vaughan Rangers",
+      "home_score": "2",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "MHL-Port Credit Storm",
+      "away_score": "5",
+      "home": "Avalanche",
+      "home_score": "1",
+      "arena": "NFP Athletic Centre - Canlan York 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "Vaughan Panthers",
+      "away_score": "6",
+      "home": "MHL-Erindale Spitfires",
+      "home_score": "1",
+      "arena": "NFP Athletic Centre - Canlan York 5",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "Vaughan Rangers Blue",
+      "away_score": "3",
+      "home": "Toronto Eagles",
+      "home_score": "1",
+      "arena": "Lambton",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "West Mall Lightning",
+      "away_score": "3",
+      "home": "Humber Valley Sharks",
+      "home_score": "3",
+      "arena": "NFP Athletic Centre - Canlan York 6",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-26",
+      "away": "MHL-Applewood Coyotes",
+      "away_score": "9",
+      "home": "Greater Toronto Capitals",
+      "home_score": "3",
+      "arena": "Pinepoint",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-26",
+      "away": "The Attack",
+      "away_score": "9",
+      "home": "Vaughan Rangers Blue",
+      "home_score": "1",
+      "arena": "Vaughan Sports Village A",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-29",
+      "away": "MHL-Applewood Coyotes",
+      "away_score": "4",
+      "home": "The Attack",
+      "home_score": "1",
+      "arena": "Amesbury",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-29",
+      "away": "MHL-Erindale Spitfires",
+      "away_score": "8",
+      "home": "MHL-Port Credit Storm",
+      "home_score": "2",
+      "arena": "Iceland 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-29",
+      "away": "Vaughan Rangers",
+      "away_score": "1",
+      "home": "Toronto Eagles",
+      "home_score": "2",
+      "arena": "Pinepoint",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "Avalanche",
+      "away_score": "2",
+      "home": "West Mall Lightning",
+      "home_score": "1",
+      "arena": "Etobicoke Centennial East",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "Vaughan Rangers Blue",
+      "away_score": "2",
+      "home": "Vaughan Panthers",
+      "home_score": "5",
+      "arena": "Vaughan Sports Village A",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-31",
+      "away": "Humber Valley Sharks",
+      "away_score": "10",
+      "home": "West Mall Lightning",
+      "home_score": "0",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-31",
+      "away": "MHL-Applewood Coyotes",
+      "away_score": "2",
+      "home": "MHL-Erindale Spitfires",
+      "home_score": "6",
+      "arena": "Tomken 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-31",
+      "away": "Vaughan Rangers",
+      "away_score": "7",
+      "home": "Greater Toronto Capitals",
+      "home_score": "1",
+      "arena": "Scotiabank Pond 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "Greater Toronto Capitals",
+      "away_score": "2",
+      "home": "Avalanche",
+      "home_score": "4",
+      "arena": "NFP Athletic Centre - Canlan York 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "MHL-Port Credit Storm",
+      "away_score": "1",
+      "home": "Vaughan Rangers",
+      "home_score": "4",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "Vaughan Panthers",
+      "away_score": "3",
+      "home": "Toronto Eagles",
+      "home_score": "1",
+      "arena": "Lambton",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "Vaughan Rangers Blue",
+      "away_score": "2",
+      "home": "Humber Valley Sharks",
+      "home_score": "4",
+      "arena": "CWENCH Centre Etobicoke 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "MHL-Erindale Spitfires",
+      "away_score": "4",
+      "home": "Vaughan Rangers Blue",
+      "home_score": "0",
+      "arena": "Vaughan Sports Village A",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "Vaughan Panthers",
+      "away_score": "5",
+      "home": "West Mall Lightning",
+      "home_score": "3",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-05",
+      "away": "Avalanche",
+      "away_score": "6",
+      "home": "Toronto Eagles",
+      "home_score": "5",
+      "arena": "Etobicoke Centennial East",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-07",
+      "away": "Humber Valley Sharks",
+      "away_score": "4",
+      "home": "MHL-Applewood Coyotes",
+      "home_score": "3",
+      "arena": "Tomken 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "Humber Valley Sharks",
+      "away_score": "5",
+      "home": "Vaughan Rangers",
+      "home_score": "2",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "MHL-Applewood Coyotes",
+      "away_score": "3",
+      "home": "Avalanche",
+      "home_score": "6",
+      "arena": "NFP Athletic Centre - Canlan York 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "MHL-Port Credit Storm",
+      "away_score": "1",
+      "home": "Toronto Eagles",
+      "home_score": "4",
+      "arena": "Lambton",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "Avalanche",
+      "away_score": "1",
+      "home": "Vaughan Rangers",
+      "home_score": "6",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "MHL-Port Credit Storm",
+      "away_score": "2",
+      "home": "Greater Toronto Capitals",
+      "home_score": "1",
+      "arena": "Pinepoint",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-10",
+      "away": "MHL-Erindale Spitfires",
+      "away_score": "6",
+      "home": "Humber Valley Sharks",
+      "home_score": "3",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-12",
+      "away": "Toronto Eagles",
+      "away_score": "4",
+      "home": "The Attack",
+      "home_score": "4",
+      "arena": "Amesbury",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-13",
+      "away": "Greater Toronto Capitals",
+      "away_score": "5",
+      "home": "West Mall Lightning",
+      "home_score": "1",
+      "arena": "Etobicoke Centennial East",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-13",
+      "away": "The Attack",
+      "away_score": "1",
+      "home": "MHL-Erindale Spitfires",
+      "home_score": "4",
+      "arena": "Westwood 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-14",
+      "away": "MHL-Applewood Coyotes",
+      "away_score": "2",
+      "home": "MHL-Port Credit Storm",
+      "home_score": "1",
+      "arena": "Tomken 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-14",
+      "away": "Vaughan Panthers",
+      "away_score": "4",
+      "home": "Vaughan Rangers Blue",
+      "home_score": "2",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "Greater Toronto Capitals",
+      "away_score": "0",
+      "home": "Toronto Eagles",
+      "home_score": "6",
+      "arena": "Lambton",
+      "source": "gthl_schedule"
+    }
+  ],
+  "changes": {
+    "added": 49,
+    "changed": 0,
+    "removed": 0
+  },
+  "quality": {
+    "rankings_published": true,
+    "matched_teams": 12,
+    "issues": []
+  },
+  "source": {
+    "schedule": "https://gthlcanada.com/schedule/",
+    "standings": "https://gthlcanada.com/standing/"
+  }
+}
