@@ -1,72 +1,72 @@
 {
-  "as_of_toronto": "2026-11-15",
+  "as_of_toronto": "2026-11-16",
   "division": "GTHL U10 A West",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 35,
+  "game_count": 36,
   "team_count": 8,
   "rankings": [
     {
       "rank": "1",
       "team": "Vaughan Rangers",
-      "power_rating": "4.711",
-      "momentum_rating": "3.6815",
+      "power_rating": "4.7437",
+      "momentum_rating": "3.9493",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Duffield Devils",
-      "power_rating": "1.1869",
-      "momentum_rating": "2.8214",
-      "games_played": "8",
+      "power_rating": "1.5428",
+      "momentum_rating": "3.0019",
+      "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "The Attack",
-      "power_rating": "0.7338",
-      "momentum_rating": "-0.5208",
+      "power_rating": "0.7308",
+      "momentum_rating": "-0.2916",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "Humber Valley Sharks",
-      "power_rating": "0.4149",
-      "momentum_rating": "1.1786",
+      "power_rating": "0.4145",
+      "momentum_rating": "1.2051",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Toronto Eagles",
-      "power_rating": "-0.0765",
-      "momentum_rating": "0.4464",
+      "power_rating": "-0.1061",
+      "momentum_rating": "0.5405",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "Greater Toronto Capitals",
-      "power_rating": "-0.3153",
-      "momentum_rating": "-1.3899",
+      "power_rating": "-0.3152",
+      "momentum_rating": "-1.3922",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Vaughan Panthers",
-      "power_rating": "-1.2865",
-      "momentum_rating": "-1.1964",
-      "games_played": "8",
+      "power_rating": "-1.6421",
+      "momentum_rating": "-2.0284",
+      "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "George Bell Titans",
       "power_rating": "-5.3684",
-      "momentum_rating": "-5.0208",
+      "momentum_rating": "-4.9846",
       "games_played": "8",
       "rank_change": 0
     }
@@ -83,22 +83,22 @@
       "pts": "18"
     },
     {
+      "team": "Duffield Devils",
+      "gp": "9",
+      "w": "5",
+      "l": "3",
+      "t": "1",
+      "gf": "45",
+      "ga": "28",
+      "pts": "11"
+    },
+    {
       "team": "The Attack",
       "gp": "9",
       "w": "5",
       "l": "4",
       "t": "0",
       "gf": "44",
-      "ga": "28",
-      "pts": "10"
-    },
-    {
-      "team": "Greater Toronto Capitals",
-      "gp": "10",
-      "w": "4",
-      "l": "4",
-      "t": "2",
-      "gf": "41",
       "ga": "28",
       "pts": "10"
     },
@@ -113,14 +113,14 @@
       "pts": "10"
     },
     {
-      "team": "Duffield Devils",
-      "gp": "8",
+      "team": "Greater Toronto Capitals",
+      "gp": "10",
       "w": "4",
-      "l": "3",
-      "t": "1",
-      "gf": "36",
-      "ga": "25",
-      "pts": "9"
+      "l": "4",
+      "t": "2",
+      "gf": "41",
+      "ga": "28",
+      "pts": "10"
     },
     {
       "team": "Humber Valley Sharks",
@@ -134,12 +134,12 @@
     },
     {
       "team": "Vaughan Panthers",
-      "gp": "8",
+      "gp": "9",
       "w": "2",
-      "l": "5",
+      "l": "6",
       "t": "1",
-      "gf": "20",
-      "ga": "32",
+      "gf": "23",
+      "ga": "41",
       "pts": "5"
     },
     {
@@ -462,6 +462,15 @@
     },
     {
       "date": "2026-11-15",
+      "away": "Vaughan Panthers",
+      "away_score": "3",
+      "home": "Duffield Devils",
+      "home_score": "9",
+      "arena": "Scotiabank Pond 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
       "away": "Vaughan Rangers",
       "away_score": "6",
       "home": "Toronto Eagles",
@@ -471,7 +480,7 @@
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 1,
     "changed": 0,
     "removed": 0
   },
