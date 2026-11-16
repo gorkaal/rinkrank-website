@@ -1,5 +1,5 @@
 {
-  "as_of_toronto": "2026-11-15",
+  "as_of_toronto": "2026-11-16",
   "division": "GTHL U11 A West",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
@@ -12,7 +12,7 @@
       "power_rating": "3.2192",
       "momentum_rating": "3.8272",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "2",
@@ -20,7 +20,7 @@
       "power_rating": "1.3577",
       "momentum_rating": "1.8564",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "3",
@@ -28,7 +28,7 @@
       "power_rating": "0.5636",
       "momentum_rating": "0.005",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "4",
@@ -36,7 +36,7 @@
       "power_rating": "0.396",
       "momentum_rating": "-0.3233",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "5",
@@ -44,7 +44,7 @@
       "power_rating": "-0.561",
       "momentum_rating": "-0.7672",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "6",
@@ -52,7 +52,7 @@
       "power_rating": "-0.7602",
       "momentum_rating": "-0.5177",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "7",
@@ -60,7 +60,7 @@
       "power_rating": "-2.0494",
       "momentum_rating": "-1.967",
       "games_played": "7",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "8",
@@ -68,7 +68,7 @@
       "power_rating": "-2.1657",
       "momentum_rating": "-2.1133",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     }
   ],
   "standings": [
@@ -453,7 +453,7 @@
     }
   ],
   "changes": {
-    "added": 33,
+    "added": 0,
     "changed": 0,
     "removed": 0
   },

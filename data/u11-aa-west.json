@@ -1,114 +1,114 @@
 {
-  "as_of_toronto": "2026-11-15",
+  "as_of_toronto": "2026-11-16",
   "division": "GTHL U11 AA West",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 58,
+  "game_count": 60,
   "team_count": 13,
   "rankings": [
     {
       "rank": "1",
       "team": "Vaughan Panthers",
-      "power_rating": "2.2593",
-      "momentum_rating": "2.9279",
+      "power_rating": "2.2347",
+      "momentum_rating": "2.9516",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Humber Valley Sharks",
-      "power_rating": "1.9496",
-      "momentum_rating": "1.5545",
+      "power_rating": "1.9472",
+      "momentum_rating": "1.4823",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Mississauga North Stars",
       "power_rating": "1.7608",
-      "momentum_rating": "3.5769",
+      "momentum_rating": "3.4529",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "4",
       "team": "Vaughan Rangers",
-      "power_rating": "1.6509",
-      "momentum_rating": "1.9298",
+      "power_rating": "1.6483",
+      "momentum_rating": "1.8199",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Mississauga Beast",
-      "power_rating": "1.342",
-      "momentum_rating": "0.5532",
+      "power_rating": "1.3187",
+      "momentum_rating": "0.4031",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "6",
       "team": "Mississauga Rattlers",
-      "power_rating": "1.0006",
-      "momentum_rating": "0.6403",
-      "games_played": "7",
-      "rank_change": null
+      "power_rating": "1.2601",
+      "momentum_rating": "1.838",
+      "games_played": "8",
+      "rank_change": 0
     },
     {
       "rank": "7",
       "team": "The Attack",
-      "power_rating": "-0.548",
-      "momentum_rating": "0.4678",
+      "power_rating": "-0.5271",
+      "momentum_rating": "0.3961",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "8",
       "team": "West Mall Lightning",
-      "power_rating": "-0.7892",
-      "momentum_rating": "-1.0122",
+      "power_rating": "-0.7645",
+      "momentum_rating": "-1.2383",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "9",
       "team": "Duffield Devils",
-      "power_rating": "-0.8208",
-      "momentum_rating": "-2.3112",
-      "games_played": "8",
-      "rank_change": null
+      "power_rating": "-0.8417",
+      "momentum_rating": "-2.6618",
+      "games_played": "9",
+      "rank_change": 0
     },
     {
       "rank": "10",
       "team": "Toronto Eagles",
-      "power_rating": "-1.6116",
-      "momentum_rating": "-1.8392",
+      "power_rating": "-1.604",
+      "momentum_rating": "-1.6797",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "11",
-      "team": "Mississauga Terriers",
-      "power_rating": "-1.7348",
-      "momentum_rating": "-1.9927",
-      "games_played": "8",
-      "rank_change": null
+      "team": "Streetsville Tigers",
+      "power_rating": "-1.7662",
+      "momentum_rating": "-1.9254",
+      "games_played": "9",
+      "rank_change": 1
     },
     {
       "rank": "12",
-      "team": "Streetsville Tigers",
-      "power_rating": "-1.7621",
-      "momentum_rating": "-1.2473",
-      "games_played": "8",
-      "rank_change": null
+      "team": "Mississauga Terriers",
+      "power_rating": "-1.9656",
+      "momentum_rating": "-1.4357",
+      "games_played": "9",
+      "rank_change": -1
     },
     {
       "rank": "13",
       "team": "Mississauga Jets",
-      "power_rating": "-2.6966",
-      "momentum_rating": "-3.2478",
+      "power_rating": "-2.7008",
+      "momentum_rating": "-3.403",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     }
   ],
   "standings": [
@@ -143,6 +143,16 @@
       "pts": "14"
     },
     {
+      "team": "Mississauga Rattlers",
+      "gp": "8",
+      "w": "6",
+      "l": "2",
+      "t": "0",
+      "gf": "30",
+      "ga": "13",
+      "pts": "12"
+    },
+    {
       "team": "Mississauga Beast",
       "gp": "10",
       "w": "5",
@@ -163,24 +173,14 @@
       "pts": "11"
     },
     {
-      "team": "Mississauga Rattlers",
-      "gp": "7",
-      "w": "5",
-      "l": "2",
-      "t": "0",
-      "gf": "25",
-      "ga": "13",
-      "pts": "10"
-    },
-    {
       "team": "Duffield Devils",
-      "gp": "8",
-      "w": "3",
+      "gp": "9",
+      "w": "4",
       "l": "4",
       "t": "1",
-      "gf": "17",
-      "ga": "25",
-      "pts": "7"
+      "gf": "22",
+      "ga": "29",
+      "pts": "9"
     },
     {
       "team": "West Mall Lightning",
@@ -214,12 +214,12 @@
     },
     {
       "team": "Mississauga Terriers",
-      "gp": "8",
+      "gp": "9",
       "w": "2",
-      "l": "5",
+      "l": "6",
       "t": "1",
       "gf": "22",
-      "ga": "36",
+      "ga": "41",
       "pts": "5"
     },
     {
@@ -234,12 +234,12 @@
     },
     {
       "team": "Streetsville Tigers",
-      "gp": "8",
+      "gp": "9",
       "w": "0",
-      "l": "7",
+      "l": "8",
       "t": "1",
-      "gf": "11",
-      "ga": "27",
+      "gf": "15",
+      "ga": "32",
       "pts": "1"
     }
   ],
@@ -750,6 +750,15 @@
     },
     {
       "date": "2026-11-15",
+      "away": "Duffield Devils",
+      "away_score": "5",
+      "home": "Streetsville Tigers",
+      "home_score": "4",
+      "arena": "Vic Johnston",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
       "away": "Humber Valley Sharks",
       "away_score": "6",
       "home": "Toronto Eagles",
@@ -765,10 +774,19 @@
       "home_score": "2",
       "arena": "Westwood 2",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "Mississauga Terriers",
+      "away_score": "0",
+      "home": "Mississauga Rattlers",
+      "home_score": "5",
+      "arena": "Mississauga Sports and Entertainment Centre 2",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 58,
+    "added": 2,
     "changed": 0,
     "removed": 0
   },

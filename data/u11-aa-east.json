@@ -1,98 +1,98 @@
 {
-  "as_of_toronto": "2026-11-15",
+  "as_of_toronto": "2026-11-16",
   "division": "GTHL U11 AA East",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 50,
+  "game_count": 52,
   "team_count": 11,
   "rankings": [
     {
       "rank": "1",
       "team": "Forest Hill",
-      "power_rating": "3.2753",
-      "momentum_rating": "2.84",
+      "power_rating": "3.2776",
+      "momentum_rating": "2.6263",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "2",
       "team": "East Enders Ticats",
-      "power_rating": "2.9537",
-      "momentum_rating": "4.1264",
+      "power_rating": "2.9806",
+      "momentum_rating": "3.9402",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Goulding Park Rangers",
-      "power_rating": "1.3179",
-      "momentum_rating": "-0.6092",
+      "power_rating": "1.3175",
+      "momentum_rating": "-0.703",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "4",
       "team": "North York Knights",
-      "power_rating": "1.3169",
-      "momentum_rating": "2.239",
+      "power_rating": "1.291",
+      "momentum_rating": "1.8421",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "5",
       "team": "North Toronto",
-      "power_rating": "0.9761",
-      "momentum_rating": "0.7051",
-      "games_played": "7",
-      "rank_change": null
+      "power_rating": "0.9932",
+      "momentum_rating": "1.2668",
+      "games_played": "8",
+      "rank_change": 0
     },
     {
       "rank": "6",
       "team": "Ted Reeve Thunder",
-      "power_rating": "0.7719",
-      "momentum_rating": "0.2184",
+      "power_rating": "0.7701",
+      "momentum_rating": "0.1259",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Leaside Flames",
-      "power_rating": "-0.3772",
-      "momentum_rating": "0.1483",
+      "power_rating": "-0.377",
+      "momentum_rating": "-0.09",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "8",
       "team": "West Hill Golden Hawks",
-      "power_rating": "-1.8976",
-      "momentum_rating": "-2.5394",
-      "games_played": "9",
-      "rank_change": null
+      "power_rating": "-1.9091",
+      "momentum_rating": "-2.1392",
+      "games_played": "10",
+      "rank_change": 0
     },
     {
       "rank": "9",
-      "team": "Scarborough Young Bruins",
-      "power_rating": "-2.5375",
-      "momentum_rating": "-1.6623",
-      "games_played": "8",
-      "rank_change": null
+      "team": "Scarborough Ice Raiders",
+      "power_rating": "-2.6288",
+      "momentum_rating": "-2.4878",
+      "games_played": "10",
+      "rank_change": 1
     },
     {
       "rank": "10",
-      "team": "Scarborough Ice Raiders",
-      "power_rating": "-2.6534",
-      "momentum_rating": "-2.3196",
-      "games_played": "10",
-      "rank_change": null
+      "team": "Scarborough Young Bruins",
+      "power_rating": "-2.8061",
+      "momentum_rating": "-2.0077",
+      "games_played": "9",
+      "rank_change": -1
     },
     {
       "rank": "11",
       "team": "Markham Islanders",
-      "power_rating": "-3.1463",
-      "momentum_rating": "-3.1467",
-      "games_played": "9",
-      "rank_change": null
+      "power_rating": "-2.9091",
+      "momentum_rating": "-2.3737",
+      "games_played": "10",
+      "rank_change": 0
     }
   ],
   "standings": [
@@ -158,32 +158,32 @@
     },
     {
       "team": "North Toronto",
-      "gp": "7",
-      "w": "3",
+      "gp": "8",
+      "w": "4",
       "l": "3",
       "t": "1",
-      "gf": "27",
-      "ga": "19",
-      "pts": "7"
+      "gf": "32",
+      "ga": "21",
+      "pts": "9"
     },
     {
       "team": "Scarborough Young Bruins",
-      "gp": "8",
-      "w": "1",
-      "l": "6",
-      "t": "1",
-      "gf": "12",
-      "ga": "41",
-      "pts": "3"
-    },
-    {
-      "team": "West Hill Golden Hawks",
       "gp": "9",
       "w": "1",
       "l": "7",
       "t": "1",
-      "gf": "18",
-      "ga": "36",
+      "gf": "14",
+      "ga": "45",
+      "pts": "3"
+    },
+    {
+      "team": "West Hill Golden Hawks",
+      "gp": "10",
+      "w": "1",
+      "l": "8",
+      "t": "1",
+      "gf": "20",
+      "ga": "41",
       "pts": "3"
     },
     {
@@ -198,13 +198,13 @@
     },
     {
       "team": "Markham Islanders",
-      "gp": "9",
-      "w": "0",
+      "gp": "10",
+      "w": "1",
       "l": "9",
       "t": "0",
-      "gf": "12",
-      "ga": "46",
-      "pts": "0"
+      "gf": "16",
+      "ga": "48",
+      "pts": "2"
     }
   ],
   "games": [
@@ -657,10 +657,28 @@
       "home_score": "10",
       "arena": "Chesswood 1",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "Scarborough Young Bruins",
+      "away_score": "2",
+      "home": "Markham Islanders",
+      "home_score": "4",
+      "arena": "Thornhill Centre West",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "West Hill Golden Hawks",
+      "away_score": "2",
+      "home": "North Toronto",
+      "home_score": "5",
+      "arena": "North Toronto",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 50,
+    "added": 2,
     "changed": 0,
     "removed": 0
   },
