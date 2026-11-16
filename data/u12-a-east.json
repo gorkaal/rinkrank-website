@@ -1,5 +1,5 @@
 {
-  "as_of_toronto": "2026-11-15",
+  "as_of_toronto": "2026-11-16",
   "division": "GTHL U12 A East",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
@@ -12,7 +12,7 @@
       "power_rating": "4.3845",
       "momentum_rating": "4.3011",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "2",
@@ -20,7 +20,7 @@
       "power_rating": "2.3018",
       "momentum_rating": "3.3015",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "3",
@@ -28,7 +28,7 @@
       "power_rating": "2.0002",
       "momentum_rating": "1.1558",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "4",
@@ -36,7 +36,7 @@
       "power_rating": "1.5361",
       "momentum_rating": "0.0641",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "5",
@@ -44,7 +44,7 @@
       "power_rating": "0.9472",
       "momentum_rating": "1.0845",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "6",
@@ -52,7 +52,7 @@
       "power_rating": "0.4439",
       "momentum_rating": "-0.43",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "7",
@@ -60,7 +60,7 @@
       "power_rating": "0.372",
       "momentum_rating": "-0.1955",
       "games_played": "11",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "8",
@@ -68,7 +68,7 @@
       "power_rating": "-0.4536",
       "momentum_rating": "0.1015",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "9",
@@ -76,7 +76,7 @@
       "power_rating": "-0.9825",
       "momentum_rating": "-1.0412",
       "games_played": "11",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "10",
@@ -84,7 +84,7 @@
       "power_rating": "-1.0106",
       "momentum_rating": "0.2769",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "11",
@@ -92,7 +92,7 @@
       "power_rating": "-2.2297",
       "momentum_rating": "-1.8931",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "12",
@@ -100,7 +100,7 @@
       "power_rating": "-3.3867",
       "momentum_rating": "-3.658",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "13",
@@ -108,7 +108,7 @@
       "power_rating": "-3.9224",
       "momentum_rating": "-3.0675",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     }
   ],
   "standings": [
@@ -822,7 +822,7 @@
     }
   ],
   "changes": {
-    "added": 64,
+    "added": 0,
     "changed": 0,
     "removed": 0
   },

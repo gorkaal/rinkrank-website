@@ -1,106 +1,106 @@
 {
-  "as_of_toronto": "2026-11-15",
+  "as_of_toronto": "2026-11-16",
   "division": "GTHL U12 A West",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 49,
+  "game_count": 50,
   "team_count": 12,
   "rankings": [
     {
       "rank": "1",
       "team": "Humber Valley Sharks",
-      "power_rating": "3.9647",
-      "momentum_rating": "4.0558",
+      "power_rating": "3.9664",
+      "momentum_rating": "4.1472",
       "games_played": "7",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Vaughan Rangers",
-      "power_rating": "1.5352",
-      "momentum_rating": "1.1323",
-      "games_played": "7",
-      "rank_change": null
+      "power_rating": "1.5476",
+      "momentum_rating": "1.4636",
+      "games_played": "8",
+      "rank_change": 0
     },
     {
       "rank": "3",
       "team": "MHL-Applewood Coyotes",
-      "power_rating": "0.9295",
-      "momentum_rating": "0.8779",
+      "power_rating": "0.9278",
+      "momentum_rating": "0.8656",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "4",
       "team": "Toronto Eagles",
-      "power_rating": "0.7206",
-      "momentum_rating": "1.1551",
+      "power_rating": "0.7189",
+      "momentum_rating": "1.1054",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "5",
       "team": "The Attack",
-      "power_rating": "0.71",
-      "momentum_rating": "1.2553",
+      "power_rating": "0.7096",
+      "momentum_rating": "1.223",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "6",
       "team": "George Bell Titans",
-      "power_rating": "-0.4906",
-      "momentum_rating": "-0.7963",
+      "power_rating": "-0.4914",
+      "momentum_rating": "-0.8278",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Vaughan Rangers Blue",
-      "power_rating": "-0.5621",
-      "momentum_rating": "-0.4415",
+      "power_rating": "-0.5623",
+      "momentum_rating": "-0.5506",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "8",
       "team": "MHL-Erindale Spitfires",
-      "power_rating": "-0.5945",
-      "momentum_rating": "-0.8413",
+      "power_rating": "-0.5948",
+      "momentum_rating": "-0.933",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "9",
       "team": "Faustina Toros",
-      "power_rating": "-0.846",
-      "momentum_rating": "-0.1153",
+      "power_rating": "-0.8429",
+      "momentum_rating": "-0.0061",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "10",
       "team": "MHL-Lorne Park Clarkson Wild",
-      "power_rating": "-1.018",
-      "momentum_rating": "-1.6947",
+      "power_rating": "-1.0165",
+      "momentum_rating": "-1.6222",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "11",
       "team": "West Mall Lightning",
-      "power_rating": "-1.3513",
-      "momentum_rating": "-0.5084",
-      "games_played": "7",
-      "rank_change": null
+      "power_rating": "-1.3632",
+      "momentum_rating": "-0.7583",
+      "games_played": "8",
+      "rank_change": 0
     },
     {
       "rank": "12",
       "team": "MHL-Port Credit Storm",
-      "power_rating": "-2.9976",
-      "momentum_rating": "-4.079",
+      "power_rating": "-2.9991",
+      "momentum_rating": "-4.1068",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     }
   ],
   "standings": [
@@ -113,6 +113,16 @@
       "gf": "37",
       "ga": "10",
       "pts": "14"
+    },
+    {
+      "team": "Vaughan Rangers",
+      "gp": "8",
+      "w": "6",
+      "l": "2",
+      "t": "0",
+      "gf": "34",
+      "ga": "19",
+      "pts": "12"
     },
     {
       "team": "Toronto Eagles",
@@ -133,16 +143,6 @@
       "gf": "23",
       "ga": "15",
       "pts": "11"
-    },
-    {
-      "team": "Vaughan Rangers",
-      "gp": "7",
-      "w": "5",
-      "l": "2",
-      "t": "0",
-      "gf": "29",
-      "ga": "17",
-      "pts": "10"
     },
     {
       "team": "George Bell Titans",
@@ -185,16 +185,6 @@
       "pts": "7"
     },
     {
-      "team": "Faustina Toros",
-      "gp": "8",
-      "w": "3",
-      "l": "5",
-      "t": "0",
-      "gf": "15",
-      "ga": "24",
-      "pts": "6"
-    },
-    {
       "team": "Vaughan Rangers Blue",
       "gp": "8",
       "w": "2",
@@ -205,13 +195,23 @@
       "pts": "6"
     },
     {
+      "team": "Faustina Toros",
+      "gp": "8",
+      "w": "3",
+      "l": "5",
+      "t": "0",
+      "gf": "15",
+      "ga": "24",
+      "pts": "6"
+    },
+    {
       "team": "West Mall Lightning",
-      "gp": "7",
+      "gp": "8",
       "w": "2",
-      "l": "4",
+      "l": "5",
       "t": "1",
-      "gf": "23",
-      "ga": "31",
+      "gf": "25",
+      "ga": "36",
       "pts": "5"
     },
     {
@@ -666,10 +666,19 @@
       "home_score": "1",
       "arena": "Lambton",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "Vaughan Rangers",
+      "away_score": "5",
+      "home": "West Mall Lightning",
+      "home_score": "2",
+      "arena": "Westwood 1",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 49,
+    "added": 1,
     "changed": 0,
     "removed": 0
   },
