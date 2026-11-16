@@ -1,106 +1,106 @@
 {
-  "as_of_toronto": "2026-11-15",
+  "as_of_toronto": "2026-11-16",
   "division": "GTHL U13 A West",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 49,
+  "game_count": 50,
   "team_count": 12,
   "rankings": [
     {
       "rank": "1",
       "team": "MHL-Erindale Spitfires",
-      "power_rating": "2.9891",
-      "momentum_rating": "3.3297",
-      "games_played": "8",
-      "rank_change": null
+      "power_rating": "2.9825",
+      "momentum_rating": "3.222",
+      "games_played": "9",
+      "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Vaughan Panthers",
-      "power_rating": "2.7575",
-      "momentum_rating": "1.0221",
+      "power_rating": "2.7576",
+      "momentum_rating": "0.9726",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Vaughan Rangers",
       "power_rating": "1.455",
-      "momentum_rating": "2.0464",
+      "momentum_rating": "2.1477",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "4",
       "team": "Toronto Eagles",
-      "power_rating": "1.0303",
-      "momentum_rating": "1.0464",
+      "power_rating": "1.031",
+      "momentum_rating": "1.1477",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "5",
       "team": "The Attack",
-      "power_rating": "0.9405",
-      "momentum_rating": "0.4492",
+      "power_rating": "0.9396",
+      "momentum_rating": "0.4997",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "6",
       "team": "Humber Valley Sharks",
       "power_rating": "0.7075",
-      "momentum_rating": "1.4492",
+      "momentum_rating": "1.4997",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "7",
       "team": "MHL-Applewood Coyotes",
-      "power_rating": "0.0001",
-      "momentum_rating": "-1.0461",
+      "power_rating": "-0.0005",
+      "momentum_rating": "-0.9731",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "8",
       "team": "MHL-Port Credit Storm",
-      "power_rating": "-1.0616",
-      "momentum_rating": "-1.6611",
+      "power_rating": "-1.0623",
+      "momentum_rating": "-1.5561",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "9",
       "team": "Vaughan Rangers Blue",
-      "power_rating": "-1.079",
-      "momentum_rating": "-1.142",
+      "power_rating": "-1.0798",
+      "momentum_rating": "-1.1462",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "10",
       "team": "Avalanche",
-      "power_rating": "-1.3953",
-      "momentum_rating": "0.0889",
+      "power_rating": "-1.3945",
+      "momentum_rating": "0.1939",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "11",
       "team": "West Mall Lightning",
-      "power_rating": "-3.0745",
-      "momentum_rating": "-3.2828",
-      "games_played": "7",
-      "rank_change": null
+      "power_rating": "-3.0672",
+      "momentum_rating": "-3.7131",
+      "games_played": "8",
+      "rank_change": 0
     },
     {
       "rank": "12",
       "team": "Greater Toronto Capitals",
-      "power_rating": "-3.2697",
-      "momentum_rating": "-2.2999",
+      "power_rating": "-3.269",
+      "momentum_rating": "-2.2948",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     }
   ],
   "standings": [
@@ -116,13 +116,13 @@
     },
     {
       "team": "MHL-Erindale Spitfires",
-      "gp": "8",
-      "w": "7",
+      "gp": "9",
+      "w": "8",
       "l": "1",
       "t": "0",
-      "gf": "37",
-      "ga": "17",
-      "pts": "14"
+      "gf": "44",
+      "ga": "18",
+      "pts": "16"
     },
     {
       "team": "Vaughan Rangers",
@@ -216,12 +216,12 @@
     },
     {
       "team": "West Mall Lightning",
-      "gp": "7",
+      "gp": "8",
       "w": "0",
-      "l": "6",
+      "l": "7",
       "t": "1",
-      "gf": "9",
-      "ga": "36",
+      "gf": "10",
+      "ga": "43",
       "pts": "1"
     }
   ],
@@ -666,10 +666,19 @@
       "home_score": "6",
       "arena": "Lambton",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "West Mall Lightning",
+      "away_score": "1",
+      "home": "MHL-Erindale Spitfires",
+      "home_score": "7",
+      "arena": "Westwood 1",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 49,
+    "added": 1,
     "changed": 0,
     "removed": 0
   },

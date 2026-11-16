@@ -1,5 +1,5 @@
 {
-  "as_of_toronto": "2026-11-15",
+  "as_of_toronto": "2026-11-16",
   "division": "GTHL U13 AA West",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
@@ -12,7 +12,7 @@
       "power_rating": "1.7677",
       "momentum_rating": "3.1731",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "2",
@@ -20,7 +20,7 @@
       "power_rating": "1.3178",
       "momentum_rating": "0.034",
       "games_played": "11",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "3",
@@ -28,7 +28,7 @@
       "power_rating": "1.0096",
       "momentum_rating": "-0.2213",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "4",
@@ -36,7 +36,7 @@
       "power_rating": "0.5396",
       "momentum_rating": "0.0169",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "5",
@@ -44,7 +44,7 @@
       "power_rating": "0.4665",
       "momentum_rating": "0.057",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "6",
@@ -52,7 +52,7 @@
       "power_rating": "0.3022",
       "momentum_rating": "-0.6613",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "7",
@@ -60,7 +60,7 @@
       "power_rating": "-0.0846",
       "momentum_rating": "0.7294",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "8",
@@ -68,7 +68,7 @@
       "power_rating": "-0.4696",
       "momentum_rating": "0.1967",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "9",
@@ -76,7 +76,7 @@
       "power_rating": "-0.5552",
       "momentum_rating": "-0.2235",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "10",
@@ -84,7 +84,7 @@
       "power_rating": "-0.8885",
       "momentum_rating": "0.0222",
       "games_played": "10",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "11",
@@ -92,7 +92,7 @@
       "power_rating": "-3.4055",
       "momentum_rating": "-3.1233",
       "games_played": "7",
-      "rank_change": null
+      "rank_change": 0
     }
   ],
   "standings": [
@@ -127,16 +127,6 @@
       "pts": "11"
     },
     {
-      "team": "Humber Valley Sharks",
-      "gp": "8",
-      "w": "4",
-      "l": "2",
-      "t": "2",
-      "gf": "23",
-      "ga": "18",
-      "pts": "10"
-    },
-    {
       "team": "Toronto Eagles",
       "gp": "8",
       "w": "4",
@@ -144,6 +134,16 @@
       "t": "2",
       "gf": "24",
       "ga": "19",
+      "pts": "10"
+    },
+    {
+      "team": "Humber Valley Sharks",
+      "gp": "8",
+      "w": "4",
+      "l": "2",
+      "t": "2",
+      "gf": "23",
+      "ga": "18",
       "pts": "10"
     },
     {
@@ -633,7 +633,7 @@
     }
   ],
   "changes": {
-    "added": 47,
+    "added": 0,
     "changed": 0,
     "removed": 0
   },
