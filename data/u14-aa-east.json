@@ -1,0 +1,460 @@
+{
+  "as_of_toronto": "2026-11-16",
+  "division": "GTHL U14 AA East",
+  "season": "2026–27",
+  "status": "verified_against_official_GTHL_standings",
+  "game_count": 34,
+  "team_count": 7,
+  "rankings": [
+    {
+      "rank": "1",
+      "team": "North Toronto",
+      "power_rating": "1.7388",
+      "momentum_rating": "0.9661",
+      "games_played": "10",
+      "rank_change": null
+    },
+    {
+      "rank": "2",
+      "team": "East Enders Ticats",
+      "power_rating": "1.1496",
+      "momentum_rating": "1.9386",
+      "games_played": "10",
+      "rank_change": null
+    },
+    {
+      "rank": "3",
+      "team": "Leaside Flames",
+      "power_rating": "1.0375",
+      "momentum_rating": "0.8704",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "4",
+      "team": "Ted Reeve Thunder",
+      "power_rating": "-0.53",
+      "momentum_rating": "-1.5351",
+      "games_played": "12",
+      "rank_change": null
+    },
+    {
+      "rank": "5",
+      "team": "North York Knights",
+      "power_rating": "-0.8333",
+      "momentum_rating": "-0.2394",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "6",
+      "team": "Markham Islanders",
+      "power_rating": "-0.8406",
+      "momentum_rating": "0.2388",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "7",
+      "team": "Scarborough Ice Raiders",
+      "power_rating": "-1.7221",
+      "momentum_rating": "-2.2394",
+      "games_played": "9",
+      "rank_change": null
+    }
+  ],
+  "standings": [
+    {
+      "team": "North Toronto",
+      "gp": "10",
+      "w": "7",
+      "l": "0",
+      "t": "3",
+      "gf": "43",
+      "ga": "25",
+      "pts": "17"
+    },
+    {
+      "team": "East Enders Ticats",
+      "gp": "10",
+      "w": "7",
+      "l": "2",
+      "t": "1",
+      "gf": "36",
+      "ga": "22",
+      "pts": "15"
+    },
+    {
+      "team": "Leaside Flames",
+      "gp": "9",
+      "w": "4",
+      "l": "3",
+      "t": "2",
+      "gf": "35",
+      "ga": "25",
+      "pts": "10"
+    },
+    {
+      "team": "Ted Reeve Thunder",
+      "gp": "12",
+      "w": "2",
+      "l": "6",
+      "t": "4",
+      "gf": "30",
+      "ga": "40",
+      "pts": "8"
+    },
+    {
+      "team": "Markham Islanders",
+      "gp": "9",
+      "w": "3",
+      "l": "5",
+      "t": "1",
+      "gf": "18",
+      "ga": "25",
+      "pts": "7"
+    },
+    {
+      "team": "Scarborough Ice Raiders",
+      "gp": "9",
+      "w": "2",
+      "l": "5",
+      "t": "2",
+      "gf": "11",
+      "ga": "28",
+      "pts": "6"
+    },
+    {
+      "team": "North York Knights",
+      "gp": "9",
+      "w": "1",
+      "l": "5",
+      "t": "3",
+      "gf": "18",
+      "ga": "26",
+      "pts": "5"
+    }
+  ],
+  "games": [
+    {
+      "date": "2026-10-14",
+      "away": "Leaside Flames",
+      "away_score": "3",
+      "home": "East Enders Ticats",
+      "home_score": "4",
+      "arena": "Scarborough Gardens",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-14",
+      "away": "North Toronto",
+      "away_score": "4",
+      "home": "Ted Reeve Thunder",
+      "home_score": "2",
+      "arena": "Scarborough Centennial Arena",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-15",
+      "away": "Scarborough Ice Raiders",
+      "away_score": "2",
+      "home": "Markham Islanders",
+      "home_score": "0",
+      "arena": "Thornhill Centre West",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-16",
+      "away": "Ted Reeve Thunder",
+      "away_score": "3",
+      "home": "Leaside Flames",
+      "home_score": "3",
+      "arena": "Leaside Memorial A",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-17",
+      "away": "Markham Islanders",
+      "away_score": "2",
+      "home": "North York Knights",
+      "home_score": "2",
+      "arena": "St. Michaels",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "East Enders Ticats",
+      "away_score": "2",
+      "home": "North Toronto",
+      "home_score": "4",
+      "arena": "North Toronto",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-19",
+      "away": "Leaside Flames",
+      "away_score": "3",
+      "home": "North York Knights",
+      "home_score": "1",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-19",
+      "away": "North Toronto",
+      "away_score": "7",
+      "home": "Scarborough Ice Raiders",
+      "home_score": "1",
+      "arena": "Don Montgomery 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-20",
+      "away": "East Enders Ticats",
+      "away_score": "7",
+      "home": "Ted Reeve Thunder",
+      "home_score": "4",
+      "arena": "Ted Reeve",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-21",
+      "away": "Markham Islanders",
+      "away_score": "3",
+      "home": "Ted Reeve Thunder",
+      "home_score": "2",
+      "arena": "Scarborough Centennial Arena",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-21",
+      "away": "Scarborough Ice Raiders",
+      "away_score": "3",
+      "home": "East Enders Ticats",
+      "home_score": "2",
+      "arena": "Scarborough Gardens",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "Ted Reeve Thunder",
+      "away_score": "1",
+      "home": "North Toronto",
+      "home_score": "4",
+      "arena": "NFP Athletic Centre - Canlan York 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-26",
+      "away": "East Enders Ticats",
+      "away_score": "2",
+      "home": "North Toronto",
+      "home_score": "2",
+      "arena": "North Toronto",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-27",
+      "away": "North York Knights",
+      "away_score": "1",
+      "home": "Ted Reeve Thunder",
+      "home_score": "4",
+      "arena": "Ted Reeve",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-28",
+      "away": "Markham Islanders",
+      "away_score": "2",
+      "home": "East Enders Ticats",
+      "home_score": "4",
+      "arena": "Scarborough Gardens",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-29",
+      "away": "Leaside Flames",
+      "away_score": "6",
+      "home": "Markham Islanders",
+      "home_score": "2",
+      "arena": "Thornhill Centre West",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-29",
+      "away": "Ted Reeve Thunder",
+      "away_score": "4",
+      "home": "Scarborough Ice Raiders",
+      "home_score": "1",
+      "arena": "Don Mills Arena",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "North Toronto",
+      "away_score": "4",
+      "home": "Leaside Flames",
+      "home_score": "3",
+      "arena": "Leaside Memorial A",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-31",
+      "away": "Scarborough Ice Raiders",
+      "away_score": "2",
+      "home": "North York Knights",
+      "home_score": "2",
+      "arena": "St. Michaels",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "Markham Islanders",
+      "away_score": "3",
+      "home": "Scarborough Ice Raiders",
+      "home_score": "0",
+      "arena": "Don Montgomery 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "Ted Reeve Thunder",
+      "away_score": "6",
+      "home": "North Toronto",
+      "home_score": "6",
+      "arena": "North Toronto",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-03",
+      "away": "Leaside Flames",
+      "away_score": "3",
+      "home": "Ted Reeve Thunder",
+      "home_score": "3",
+      "arena": "Ted Reeve",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-04",
+      "away": "Markham Islanders",
+      "away_score": "2",
+      "home": "East Enders Ticats",
+      "home_score": "5",
+      "arena": "Scarborough Gardens",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "North York Knights",
+      "away_score": "4",
+      "home": "North Toronto",
+      "home_score": "4",
+      "arena": "North Toronto",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "Scarborough Ice Raiders",
+      "away_score": "1",
+      "home": "Leaside Flames",
+      "home_score": "6",
+      "arena": "Scotiabank Pond 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-07",
+      "away": "Ted Reeve Thunder",
+      "away_score": "1",
+      "home": "North York Knights",
+      "home_score": "4",
+      "arena": "St. Michaels",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "East Enders Ticats",
+      "away_score": "4",
+      "home": "Scarborough Ice Raiders",
+      "home_score": "1",
+      "arena": "Don Montgomery 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "Leaside Flames",
+      "away_score": "3",
+      "home": "North Toronto",
+      "home_score": "4",
+      "arena": "North Toronto",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-10",
+      "away": "Scarborough Ice Raiders",
+      "away_score": "0",
+      "home": "Ted Reeve Thunder",
+      "home_score": "0",
+      "arena": "Ted Reeve",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-11",
+      "away": "North York Knights",
+      "away_score": "0",
+      "home": "Markham Islanders",
+      "home_score": "3",
+      "arena": "Thornhill Centre West",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-11",
+      "away": "Ted Reeve Thunder",
+      "away_score": "0",
+      "home": "East Enders Ticats",
+      "home_score": "4",
+      "arena": "Scarborough Gardens",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-12",
+      "away": "North Toronto",
+      "away_score": "4",
+      "home": "Markham Islanders",
+      "home_score": "1",
+      "arena": "Thornhill Centre West",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-13",
+      "away": "North York Knights",
+      "away_score": "3",
+      "home": "Leaside Flames",
+      "home_score": "5",
+      "arena": "Leaside Memorial A",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-14",
+      "away": "East Enders Ticats",
+      "away_score": "2",
+      "home": "North York Knights",
+      "home_score": "1",
+      "arena": "St. Michaels",
+      "source": "gthl_schedule"
+    }
+  ],
+  "changes": {
+    "added": 34,
+    "changed": 0,
+    "removed": 0
+  },
+  "quality": {
+    "rankings_published": true,
+    "matched_teams": 7,
+    "issues": []
+  },
+  "source": {
+    "schedule": "https://gthlcanada.com/schedule/",
+    "standings": "https://gthlcanada.com/standing/"
+  }
+}

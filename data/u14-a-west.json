@@ -1,0 +1,640 @@
+{
+  "as_of_toronto": "2026-11-16",
+  "division": "GTHL U14 A West",
+  "season": "2026–27",
+  "status": "verified_against_official_GTHL_standings",
+  "game_count": 46,
+  "team_count": 11,
+  "rankings": [
+    {
+      "rank": "1",
+      "team": "MHL-Port Credit Storm",
+      "power_rating": "3.3472",
+      "momentum_rating": "4.0112",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "2",
+      "team": "Vaughan Rangers",
+      "power_rating": "1.7065",
+      "momentum_rating": "0.2507",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "3",
+      "team": "Toronto Wolverines",
+      "power_rating": "0.652",
+      "momentum_rating": "0.1574",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "4",
+      "team": "MHL-Lorne Park Clarkson Wild",
+      "power_rating": "0.6289",
+      "momentum_rating": "1.5139",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "5",
+      "team": "West Mall Lightning",
+      "power_rating": "0.5382",
+      "momentum_rating": "1.5288",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "6",
+      "team": "Humber Valley Sharks",
+      "power_rating": "0.2752",
+      "momentum_rating": "0.4527",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "7",
+      "team": "MHL-Heartland Dragons",
+      "power_rating": "0.042",
+      "momentum_rating": "-0.5833",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "8",
+      "team": "MHL-Erindale Spitfires",
+      "power_rating": "-1.1436",
+      "momentum_rating": "-0.832",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "9",
+      "team": "Toronto Eagles",
+      "power_rating": "-1.4957",
+      "momentum_rating": "-1.598",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "10",
+      "team": "George Bell Titans",
+      "power_rating": "-2.0651",
+      "momentum_rating": "-1.9297",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "11",
+      "team": "The Attack",
+      "power_rating": "-2.4856",
+      "momentum_rating": "-2.9717",
+      "games_played": "9",
+      "rank_change": null
+    }
+  ],
+  "standings": [
+    {
+      "team": "MHL-Port Credit Storm",
+      "gp": "8",
+      "w": "8",
+      "l": "0",
+      "t": "0",
+      "gf": "41",
+      "ga": "9",
+      "pts": "16"
+    },
+    {
+      "team": "Vaughan Rangers",
+      "gp": "9",
+      "w": "5",
+      "l": "1",
+      "t": "3",
+      "gf": "37",
+      "ga": "20",
+      "pts": "13"
+    },
+    {
+      "team": "MHL-Lorne Park Clarkson Wild",
+      "gp": "8",
+      "w": "5",
+      "l": "2",
+      "t": "1",
+      "gf": "30",
+      "ga": "18",
+      "pts": "11"
+    },
+    {
+      "team": "MHL-Heartland Dragons",
+      "gp": "8",
+      "w": "5",
+      "l": "3",
+      "t": "0",
+      "gf": "31",
+      "ga": "27",
+      "pts": "10"
+    },
+    {
+      "team": "Toronto Wolverines",
+      "gp": "9",
+      "w": "4",
+      "l": "3",
+      "t": "2",
+      "gf": "25",
+      "ga": "23",
+      "pts": "10"
+    },
+    {
+      "team": "West Mall Lightning",
+      "gp": "8",
+      "w": "3",
+      "l": "2",
+      "t": "3",
+      "gf": "22",
+      "ga": "18",
+      "pts": "9"
+    },
+    {
+      "team": "MHL-Erindale Spitfires",
+      "gp": "8",
+      "w": "3",
+      "l": "4",
+      "t": "1",
+      "gf": "27",
+      "ga": "39",
+      "pts": "7"
+    },
+    {
+      "team": "Humber Valley Sharks",
+      "gp": "8",
+      "w": "2",
+      "l": "4",
+      "t": "2",
+      "gf": "22",
+      "ga": "21",
+      "pts": "6"
+    },
+    {
+      "team": "George Bell Titans",
+      "gp": "8",
+      "w": "2",
+      "l": "5",
+      "t": "1",
+      "gf": "14",
+      "ga": "33",
+      "pts": "5"
+    },
+    {
+      "team": "Toronto Eagles",
+      "gp": "9",
+      "w": "2",
+      "l": "6",
+      "t": "1",
+      "gf": "21",
+      "ga": "36",
+      "pts": "5"
+    },
+    {
+      "team": "The Attack",
+      "gp": "9",
+      "w": "0",
+      "l": "9",
+      "t": "0",
+      "gf": "15",
+      "ga": "41",
+      "pts": "0"
+    }
+  ],
+  "games": [
+    {
+      "date": "2026-10-15",
+      "away": "The Attack",
+      "away_score": "0",
+      "home": "MHL-Lorne Park Clarkson Wild",
+      "home_score": "4",
+      "arena": "Iceland 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-16",
+      "away": "MHL-Erindale Spitfires",
+      "away_score": "0",
+      "home": "Vaughan Rangers",
+      "home_score": "8",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-16",
+      "away": "Toronto Wolverines",
+      "away_score": "2",
+      "home": "MHL-Heartland Dragons",
+      "home_score": "1",
+      "arena": "Chesswood 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-17",
+      "away": "West Mall Lightning",
+      "away_score": "6",
+      "home": "George Bell Titans",
+      "home_score": "0",
+      "arena": "George Bell Arena",
+      "source": "gthl_team_detail"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "MHL-Port Credit Storm",
+      "away_score": "5",
+      "home": "Humber Valley Sharks",
+      "home_score": "2",
+      "arena": "NFP Athletic Centre - Canlan York 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "Toronto Wolverines",
+      "away_score": "5",
+      "home": "Toronto Eagles",
+      "home_score": "3",
+      "arena": "Lambton",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-19",
+      "away": "George Bell Titans",
+      "away_score": "3",
+      "home": "MHL-Lorne Park Clarkson Wild",
+      "home_score": "5",
+      "arena": "Scotiabank Pond 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-22",
+      "away": "MHL-Port Credit Storm",
+      "away_score": "6",
+      "home": "The Attack",
+      "home_score": "2",
+      "arena": "Amesbury",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-22",
+      "away": "Vaughan Rangers",
+      "away_score": "3",
+      "home": "Humber Valley Sharks",
+      "home_score": "1",
+      "arena": "Pinepoint",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "MHL-Erindale Spitfires",
+      "away_score": "4",
+      "home": "West Mall Lightning",
+      "home_score": "4",
+      "arena": "Etobicoke Centennial East",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "MHL-Heartland Dragons",
+      "away_score": "2",
+      "home": "Vaughan Rangers",
+      "home_score": "6",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "MHL-Port Credit Storm",
+      "away_score": "2",
+      "home": "Toronto Wolverines",
+      "home_score": "1",
+      "arena": "CWENCH Centre Etobicoke 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "The Attack",
+      "away_score": "1",
+      "home": "West Mall Lightning",
+      "home_score": "2",
+      "arena": "NFP Athletic Centre - Canlan York 6",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "Toronto Eagles",
+      "away_score": "2",
+      "home": "MHL-Heartland Dragons",
+      "home_score": "6",
+      "arena": "Tomken 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "MHL-Erindale Spitfires",
+      "away_score": "3",
+      "home": "Toronto Eagles",
+      "home_score": "5",
+      "arena": "Lambton",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "Toronto Wolverines",
+      "away_score": "4",
+      "home": "Humber Valley Sharks",
+      "home_score": "2",
+      "arena": "CWENCH Centre Etobicoke 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "Vaughan Rangers",
+      "away_score": "2",
+      "home": "MHL-Port Credit Storm",
+      "home_score": "5",
+      "arena": "Mississauga Sports and Entertainment Centre 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-26",
+      "away": "George Bell Titans",
+      "away_score": "4",
+      "home": "The Attack",
+      "home_score": "2",
+      "arena": "Westwood 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "Humber Valley Sharks",
+      "away_score": "6",
+      "home": "The Attack",
+      "home_score": "1",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "MHL-Heartland Dragons",
+      "away_score": "4",
+      "home": "West Mall Lightning",
+      "home_score": "1",
+      "arena": "Etobicoke Centennial East",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "MHL-Lorne Park Clarkson Wild",
+      "away_score": "3",
+      "home": "Vaughan Rangers",
+      "home_score": "5",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-31",
+      "away": "MHL-Erindale Spitfires",
+      "away_score": "5",
+      "home": "Toronto Wolverines",
+      "home_score": "4",
+      "arena": "CWENCH Centre Etobicoke 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-31",
+      "away": "MHL-Lorne Park Clarkson Wild",
+      "away_score": "4",
+      "home": "MHL-Heartland Dragons",
+      "home_score": "5",
+      "arena": "Tomken 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-31",
+      "away": "Toronto Eagles",
+      "away_score": "2",
+      "home": "George Bell Titans",
+      "home_score": "3",
+      "arena": "George Bell Arena",
+      "source": "gthl_team_detail"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "MHL-Erindale Spitfires",
+      "away_score": "0",
+      "home": "Humber Valley Sharks",
+      "home_score": "6",
+      "arena": "CWENCH Centre Etobicoke 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "Vaughan Rangers",
+      "away_score": "2",
+      "home": "Toronto Eagles",
+      "home_score": "2",
+      "arena": "Lambton",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "West Mall Lightning",
+      "away_score": "1",
+      "home": "MHL-Port Credit Storm",
+      "home_score": "4",
+      "arena": "Westwood 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-04",
+      "away": "MHL-Port Credit Storm",
+      "away_score": "7",
+      "home": "George Bell Titans",
+      "home_score": "0",
+      "arena": "Garnet A Williams Arena",
+      "source": "gthl_team_detail"
+    },
+    {
+      "date": "2026-11-05",
+      "away": "Humber Valley Sharks",
+      "away_score": "1",
+      "home": "Toronto Wolverines",
+      "home_score": "1",
+      "arena": "Pinepoint",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-05",
+      "away": "MHL-Heartland Dragons",
+      "away_score": "5",
+      "home": "The Attack",
+      "home_score": "2",
+      "arena": "Amesbury",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-05",
+      "away": "Toronto Eagles",
+      "away_score": "2",
+      "home": "MHL-Erindale Spitfires",
+      "home_score": "4",
+      "arena": "Iceland 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "MHL-Lorne Park Clarkson Wild",
+      "away_score": "2",
+      "home": "West Mall Lightning",
+      "home_score": "2",
+      "arena": "Etobicoke Centennial East",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "The Attack",
+      "away_score": "2",
+      "home": "Vaughan Rangers",
+      "home_score": "6",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-07",
+      "away": "MHL-Erindale Spitfires",
+      "away_score": "2",
+      "home": "MHL-Lorne Park Clarkson Wild",
+      "home_score": "6",
+      "arena": "Tomken 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-07",
+      "away": "MHL-Heartland Dragons",
+      "away_score": "4",
+      "home": "George Bell Titans",
+      "home_score": "1",
+      "arena": "George Bell Arena",
+      "source": "gthl_team_detail"
+    },
+    {
+      "date": "2026-11-07",
+      "away": "Vaughan Rangers",
+      "away_score": "3",
+      "home": "Toronto Wolverines",
+      "home_score": "3",
+      "arena": "CWENCH Centre Etobicoke 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "The Attack",
+      "away_score": "3",
+      "home": "Toronto Eagles",
+      "home_score": "4",
+      "arena": "Lambton",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "West Mall Lightning",
+      "away_score": "4",
+      "home": "Humber Valley Sharks",
+      "home_score": "1",
+      "arena": "CWENCH Centre Etobicoke 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "Humber Valley Sharks",
+      "away_score": "3",
+      "home": "George Bell Titans",
+      "home_score": "3",
+      "arena": "Scotiabank Pond 2",
+      "source": "gthl_team_detail"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "MHL-Heartland Dragons",
+      "away_score": "4",
+      "home": "MHL-Erindale Spitfires",
+      "home_score": "9",
+      "arena": "Mississauga Sports and Entertainment Centre 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "Toronto Wolverines",
+      "away_score": "1",
+      "home": "MHL-Port Credit Storm",
+      "home_score": "4",
+      "arena": "Scotiabank Pond 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "West Mall Lightning",
+      "away_score": "2",
+      "home": "Vaughan Rangers",
+      "home_score": "2",
+      "arena": "Vaughan Sports Village B",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-14",
+      "away": "MHL-Lorne Park Clarkson Wild",
+      "away_score": "4",
+      "home": "George Bell Titans",
+      "home_score": "0",
+      "arena": "George Bell Arena",
+      "source": "gthl_team_detail"
+    },
+    {
+      "date": "2026-11-14",
+      "away": "The Attack",
+      "away_score": "2",
+      "home": "Toronto Wolverines",
+      "home_score": "4",
+      "arena": "CWENCH Centre Etobicoke 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-14",
+      "away": "Toronto Eagles",
+      "away_score": "0",
+      "home": "MHL-Port Credit Storm",
+      "home_score": "8",
+      "arena": "Tomken 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "MHL-Lorne Park Clarkson Wild",
+      "away_score": "2",
+      "home": "Toronto Eagles",
+      "home_score": "1",
+      "arena": "Lambton",
+      "source": "gthl_schedule"
+    }
+  ],
+  "changes": {
+    "added": 46,
+    "changed": 0,
+    "removed": 0
+  },
+  "quality": {
+    "rankings_published": true,
+    "matched_teams": 11,
+    "issues": []
+  },
+  "source": {
+    "schedule": "https://gthlcanada.com/schedule/",
+    "standings": "https://gthlcanada.com/standing/"
+  }
+}
