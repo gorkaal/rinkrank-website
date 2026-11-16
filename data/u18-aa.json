@@ -1,0 +1,847 @@
+{
+  "as_of_toronto": "2026-11-16",
+  "division": "GTHL U18 AA",
+  "season": "2026–27",
+  "status": "verified_against_official_GTHL_standings",
+  "game_count": 65,
+  "team_count": 13,
+  "rankings": [
+    {
+      "rank": "1",
+      "team": "Scarborough Ice Raiders",
+      "power_rating": "3.1591",
+      "momentum_rating": "2.7765",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "2",
+      "team": "Mississauga Rattlers",
+      "power_rating": "2.4629",
+      "momentum_rating": "2.3289",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "3",
+      "team": "Mississauga North Stars",
+      "power_rating": "2.4119",
+      "momentum_rating": "2.2786",
+      "games_played": "10",
+      "rank_change": null
+    },
+    {
+      "rank": "4",
+      "team": "Mississauga Terriers",
+      "power_rating": "1.3095",
+      "momentum_rating": "-0.387",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "5",
+      "team": "North York Knights",
+      "power_rating": "0.7488",
+      "momentum_rating": "0.9734",
+      "games_played": "13",
+      "rank_change": null
+    },
+    {
+      "rank": "6",
+      "team": "Ted Reeve Thunder",
+      "power_rating": "0.4504",
+      "momentum_rating": "0.3038",
+      "games_played": "11",
+      "rank_change": null
+    },
+    {
+      "rank": "7",
+      "team": "Mississauga Beast",
+      "power_rating": "0.2246",
+      "momentum_rating": "1.6833",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "8",
+      "team": "Leaside Flames",
+      "power_rating": "0.0663",
+      "momentum_rating": "1.1028",
+      "games_played": "11",
+      "rank_change": null
+    },
+    {
+      "rank": "9",
+      "team": "Streetsville Tigers",
+      "power_rating": "0.0641",
+      "momentum_rating": "0.537",
+      "games_played": "12",
+      "rank_change": null
+    },
+    {
+      "rank": "10",
+      "team": "Vaughan Rangers",
+      "power_rating": "-1.4095",
+      "momentum_rating": "-2.1226",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "11",
+      "team": "North Toronto",
+      "power_rating": "-1.4982",
+      "momentum_rating": "-1.6892",
+      "games_played": "10",
+      "rank_change": null
+    },
+    {
+      "rank": "12",
+      "team": "Humber Valley Sharks",
+      "power_rating": "-3.6338",
+      "momentum_rating": "-2.408",
+      "games_played": "11",
+      "rank_change": null
+    },
+    {
+      "rank": "13",
+      "team": "Toronto Royals",
+      "power_rating": "-4.3561",
+      "momentum_rating": "-5.3774",
+      "games_played": "8",
+      "rank_change": null
+    }
+  ],
+  "standings": [
+    {
+      "team": "North York Knights",
+      "gp": "13",
+      "w": "8",
+      "l": "4",
+      "t": "1",
+      "gf": "44",
+      "ga": "29",
+      "pts": "17"
+    },
+    {
+      "team": "Mississauga North Stars",
+      "gp": "10",
+      "w": "8",
+      "l": "2",
+      "t": "0",
+      "gf": "56",
+      "ga": "21",
+      "pts": "16"
+    },
+    {
+      "team": "Scarborough Ice Raiders",
+      "gp": "8",
+      "w": "7",
+      "l": "0",
+      "t": "1",
+      "gf": "49",
+      "ga": "17",
+      "pts": "15"
+    },
+    {
+      "team": "Mississauga Rattlers",
+      "gp": "9",
+      "w": "6",
+      "l": "0",
+      "t": "3",
+      "gf": "35",
+      "ga": "19",
+      "pts": "15"
+    },
+    {
+      "team": "Mississauga Terriers",
+      "gp": "9",
+      "w": "7",
+      "l": "2",
+      "t": "0",
+      "gf": "44",
+      "ga": "26",
+      "pts": "14"
+    },
+    {
+      "team": "Streetsville Tigers",
+      "gp": "12",
+      "w": "6",
+      "l": "6",
+      "t": "0",
+      "gf": "39",
+      "ga": "37",
+      "pts": "12"
+    },
+    {
+      "team": "Leaside Flames",
+      "gp": "11",
+      "w": "3",
+      "l": "5",
+      "t": "3",
+      "gf": "42",
+      "ga": "35",
+      "pts": "9"
+    },
+    {
+      "team": "Ted Reeve Thunder",
+      "gp": "11",
+      "w": "3",
+      "l": "5",
+      "t": "3",
+      "gf": "46",
+      "ga": "39",
+      "pts": "9"
+    },
+    {
+      "team": "Mississauga Beast",
+      "gp": "9",
+      "w": "3",
+      "l": "4",
+      "t": "2",
+      "gf": "32",
+      "ga": "33",
+      "pts": "8"
+    },
+    {
+      "team": "North Toronto",
+      "gp": "10",
+      "w": "3",
+      "l": "6",
+      "t": "1",
+      "gf": "36",
+      "ga": "42",
+      "pts": "7"
+    },
+    {
+      "team": "Vaughan Rangers",
+      "gp": "9",
+      "w": "1",
+      "l": "6",
+      "t": "2",
+      "gf": "20",
+      "ga": "35",
+      "pts": "4"
+    },
+    {
+      "team": "Humber Valley Sharks",
+      "gp": "11",
+      "w": "2",
+      "l": "9",
+      "t": "0",
+      "gf": "24",
+      "ga": "78",
+      "pts": "4"
+    },
+    {
+      "team": "Toronto Royals",
+      "gp": "8",
+      "w": "0",
+      "l": "8",
+      "t": "0",
+      "gf": "7",
+      "ga": "63",
+      "pts": "0"
+    }
+  ],
+  "games": [
+    {
+      "date": "2026-10-12",
+      "away": "Mississauga North Stars",
+      "away_score": "7",
+      "home": "Humber Valley Sharks",
+      "home_score": "0",
+      "arena": "Scotiabank Pond 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-13",
+      "away": "Leaside Flames",
+      "away_score": "1",
+      "home": "Ted Reeve Thunder",
+      "home_score": "1",
+      "arena": "Ted Reeve",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-13",
+      "away": "Toronto Royals",
+      "away_score": "1",
+      "home": "North York Knights",
+      "home_score": "5",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-15",
+      "away": "North Toronto",
+      "away_score": "3",
+      "home": "Leaside Flames",
+      "home_score": "3",
+      "arena": "Leaside Memorial A",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-15",
+      "away": "Toronto Royals",
+      "away_score": "2",
+      "home": "Streetsville Tigers",
+      "home_score": "4",
+      "arena": "Vic Johnston",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "North York Knights",
+      "away_score": "5",
+      "home": "North Toronto",
+      "home_score": "1",
+      "arena": "North Toronto",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "Scarborough Ice Raiders",
+      "away_score": "3",
+      "home": "Mississauga Rattlers",
+      "home_score": "3",
+      "arena": "Mississauga Sports and Entertainment Centre 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "Streetsville Tigers",
+      "away_score": "2",
+      "home": "Mississauga Terriers",
+      "home_score": "5",
+      "arena": "Mississauga Sports and Entertainment Centre 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "Vaughan Rangers",
+      "away_score": "1",
+      "home": "Mississauga Beast",
+      "home_score": "1",
+      "arena": "Mississauga Sports and Entertainment Centre 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-19",
+      "away": "Mississauga Rattlers",
+      "away_score": "5",
+      "home": "Leaside Flames",
+      "home_score": "3",
+      "arena": "Scotiabank Pond 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-19",
+      "away": "Mississauga Terriers",
+      "away_score": "12",
+      "home": "Humber Valley Sharks",
+      "home_score": "2",
+      "arena": "Scotiabank Pond 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-20",
+      "away": "Mississauga North Stars",
+      "away_score": "5",
+      "home": "Mississauga Beast",
+      "home_score": "2",
+      "arena": "Mississauga Sports and Entertainment Centre 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-20",
+      "away": "North Toronto",
+      "away_score": "0",
+      "home": "Ted Reeve Thunder",
+      "home_score": "6",
+      "arena": "Ted Reeve",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-20",
+      "away": "Streetsville Tigers",
+      "away_score": "2",
+      "home": "North York Knights",
+      "home_score": "3",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-22",
+      "away": "Humber Valley Sharks",
+      "away_score": "0",
+      "home": "Streetsville Tigers",
+      "home_score": "5",
+      "arena": "Vic Johnston",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-22",
+      "away": "Leaside Flames",
+      "away_score": "1",
+      "home": "Scarborough Ice Raiders",
+      "home_score": "5",
+      "arena": "Don Montgomery 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "Leaside Flames",
+      "away_score": "10",
+      "home": "Toronto Royals",
+      "home_score": "0",
+      "arena": "Westwood 5",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "Mississauga Beast",
+      "away_score": "3",
+      "home": "Scarborough Ice Raiders",
+      "home_score": "8",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "Mississauga Rattlers",
+      "away_score": "3",
+      "home": "Ted Reeve Thunder",
+      "home_score": "2",
+      "arena": "NFP Athletic Centre - Canlan York 6",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "North Toronto",
+      "away_score": "2",
+      "home": "Mississauga North Stars",
+      "home_score": "8",
+      "arena": "NFP Athletic Centre - Canlan York 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "North York Knights",
+      "away_score": "6",
+      "home": "Vaughan Rangers",
+      "home_score": "3",
+      "arena": "NFP Athletic Centre - Canlan York 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "Mississauga Beast",
+      "away_score": "2",
+      "home": "Mississauga Rattlers",
+      "home_score": "2",
+      "arena": "Mississauga Sports and Entertainment Centre 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "North Toronto",
+      "away_score": "6",
+      "home": "Humber Valley Sharks",
+      "home_score": "1",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "North York Knights",
+      "away_score": "2",
+      "home": "Streetsville Tigers",
+      "home_score": "0",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "Ted Reeve Thunder",
+      "away_score": "2",
+      "home": "Mississauga North Stars",
+      "home_score": "6",
+      "arena": "Mississauga Sports and Entertainment Centre 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "Toronto Royals",
+      "away_score": "1",
+      "home": "Scarborough Ice Raiders",
+      "home_score": "11",
+      "arena": "NFP Athletic Centre - Canlan York 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-26",
+      "away": "Humber Valley Sharks",
+      "away_score": "4",
+      "home": "Vaughan Rangers",
+      "home_score": "3",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-27",
+      "away": "Mississauga North Stars",
+      "away_score": "2",
+      "home": "Mississauga Rattlers",
+      "home_score": "5",
+      "arena": "Scotiabank Pond 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-27",
+      "away": "North York Knights",
+      "away_score": "4",
+      "home": "Ted Reeve Thunder",
+      "home_score": "4",
+      "arena": "Ted Reeve",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-28",
+      "away": "Mississauga Terriers",
+      "away_score": "5",
+      "home": "Mississauga Beast",
+      "home_score": "2",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-29",
+      "away": "North York Knights",
+      "away_score": "3",
+      "home": "Leaside Flames",
+      "home_score": "2",
+      "arena": "Leaside Memorial A",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-29",
+      "away": "Vaughan Rangers",
+      "away_score": "2",
+      "home": "Streetsville Tigers",
+      "home_score": "3",
+      "arena": "Vic Johnston",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "Humber Valley Sharks",
+      "away_score": "4",
+      "home": "Ted Reeve Thunder",
+      "home_score": "8",
+      "arena": "Scotiabank Pond 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "Mississauga Beast",
+      "away_score": "5",
+      "home": "Leaside Flames",
+      "home_score": "0",
+      "arena": "Victoria Village",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "Scarborough Ice Raiders",
+      "away_score": "4",
+      "home": "Mississauga Terriers",
+      "home_score": "2",
+      "arena": "Chesswood 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-31",
+      "away": "North Toronto",
+      "away_score": "8",
+      "home": "Toronto Royals",
+      "home_score": "2",
+      "arena": "Westwood 5",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "Leaside Flames",
+      "away_score": "12",
+      "home": "Humber Valley Sharks",
+      "home_score": "2",
+      "arena": "CWENCH Centre Etobicoke 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "North York Knights",
+      "away_score": "1",
+      "home": "Mississauga Terriers",
+      "home_score": "4",
+      "arena": "Mississauga Sports and Entertainment Centre 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "Streetsville Tigers",
+      "away_score": "6",
+      "home": "North Toronto",
+      "home_score": "1",
+      "arena": "North Toronto",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "Toronto Royals",
+      "away_score": "1",
+      "home": "Mississauga North Stars",
+      "home_score": "10",
+      "arena": "Mississauga Sports and Entertainment Centre 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "Vaughan Rangers",
+      "away_score": "2",
+      "home": "Mississauga Rattlers",
+      "home_score": "2",
+      "arena": "Mississauga Sports and Entertainment Centre 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "Mississauga North Stars",
+      "away_score": "7",
+      "home": "Vaughan Rangers",
+      "home_score": "1",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-03",
+      "away": "Mississauga Rattlers",
+      "away_score": "4",
+      "home": "North York Knights",
+      "home_score": "0",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-03",
+      "away": "Mississauga Terriers",
+      "away_score": "3",
+      "home": "Leaside Flames",
+      "home_score": "1",
+      "arena": "Bayview",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-03",
+      "away": "Scarborough Ice Raiders",
+      "away_score": "7",
+      "home": "Ted Reeve Thunder",
+      "home_score": "2",
+      "arena": "Ted Reeve",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-03",
+      "away": "Streetsville Tigers",
+      "away_score": "3",
+      "home": "Mississauga Beast",
+      "home_score": "6",
+      "arena": "Mississauga Sports and Entertainment Centre 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-04",
+      "away": "Toronto Royals",
+      "away_score": "0",
+      "home": "Ted Reeve Thunder",
+      "home_score": "10",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-05",
+      "away": "Humber Valley Sharks",
+      "away_score": "2",
+      "home": "North Toronto",
+      "home_score": "9",
+      "arena": "St. Michaels",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-05",
+      "away": "Mississauga North Stars",
+      "away_score": "4",
+      "home": "Streetsville Tigers",
+      "home_score": "1",
+      "arena": "Vic Johnston",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "Mississauga Beast",
+      "away_score": "5",
+      "home": "Humber Valley Sharks",
+      "home_score": "7",
+      "arena": "Westwood 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "North York Knights",
+      "away_score": "5",
+      "home": "Humber Valley Sharks",
+      "home_score": "0",
+      "arena": "CWENCH Centre Etobicoke 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "Ted Reeve Thunder",
+      "away_score": "3",
+      "home": "Streetsville Tigers",
+      "home_score": "5",
+      "arena": "Vic Johnston",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "Vaughan Rangers",
+      "away_score": "3",
+      "home": "North Toronto",
+      "home_score": "2",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "Mississauga Beast",
+      "away_score": "6",
+      "home": "Vaughan Rangers",
+      "home_score": "2",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "Mississauga Terriers",
+      "away_score": "3",
+      "home": "Streetsville Tigers",
+      "home_score": "7",
+      "arena": "Scotiabank Pond 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-10",
+      "away": "Leaside Flames",
+      "away_score": "4",
+      "home": "Ted Reeve Thunder",
+      "home_score": "4",
+      "arena": "Ted Reeve",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-10",
+      "away": "Scarborough Ice Raiders",
+      "away_score": "5",
+      "home": "North York Knights",
+      "home_score": "3",
+      "arena": "Bayview",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-12",
+      "away": "Mississauga Rattlers",
+      "away_score": "6",
+      "home": "Streetsville Tigers",
+      "home_score": "1",
+      "arena": "Vic Johnston",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-13",
+      "away": "Mississauga North Stars",
+      "away_score": "4",
+      "home": "Leaside Flames",
+      "home_score": "5",
+      "arena": "Leaside Memorial A",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-13",
+      "away": "Vaughan Rangers",
+      "away_score": "3",
+      "home": "Mississauga Terriers",
+      "home_score": "4",
+      "arena": "Westwood 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-14",
+      "away": "North York Knights",
+      "away_score": "5",
+      "home": "Toronto Royals",
+      "home_score": "0",
+      "arena": "Westwood 5",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "Mississauga Terriers",
+      "away_score": "6",
+      "home": "North Toronto",
+      "home_score": "4",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "North York Knights",
+      "away_score": "2",
+      "home": "Mississauga North Stars",
+      "home_score": "3",
+      "arena": "Mississauga Sports and Entertainment Centre 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "Scarborough Ice Raiders",
+      "away_score": "6",
+      "home": "Humber Valley Sharks",
+      "home_score": "2",
+      "arena": "CWENCH Centre Etobicoke 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "Ted Reeve Thunder",
+      "away_score": "4",
+      "home": "Mississauga Rattlers",
+      "home_score": "5",
+      "arena": "Mississauga Sports and Entertainment Centre 2",
+      "source": "gthl_schedule"
+    }
+  ],
+  "changes": {
+    "added": 65,
+    "changed": 0,
+    "removed": 0
+  },
+  "quality": {
+    "rankings_published": true,
+    "matched_teams": 13,
+    "issues": []
+  },
+  "source": {
+    "schedule": "https://gthlcanada.com/schedule/",
+    "standings": "https://gthlcanada.com/standing/"
+  }
+}

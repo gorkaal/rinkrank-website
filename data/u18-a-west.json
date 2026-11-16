@@ -1,0 +1,415 @@
+{
+  "as_of_toronto": "2026-11-16",
+  "division": "GTHL U18 A West",
+  "season": "2026–27",
+  "status": "verified_against_official_GTHL_standings",
+  "game_count": 29,
+  "team_count": 7,
+  "rankings": [
+    {
+      "rank": "1",
+      "team": "Avalanche",
+      "power_rating": "2.6806",
+      "momentum_rating": "2.7834",
+      "games_played": "10",
+      "rank_change": null
+    },
+    {
+      "rank": "2",
+      "team": "Vaughan Rangers",
+      "power_rating": "1.4209",
+      "momentum_rating": "0.8674",
+      "games_played": "9",
+      "rank_change": null
+    },
+    {
+      "rank": "3",
+      "team": "Humber Valley Sharks",
+      "power_rating": "1.4114",
+      "momentum_rating": "0.9035",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "4",
+      "team": "Toronto Eagles",
+      "power_rating": "0.678",
+      "momentum_rating": "1.5761",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "5",
+      "team": "Toronto Wolverines",
+      "power_rating": "-1.2344",
+      "momentum_rating": "-0.9314",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "6",
+      "team": "Duffield Devils",
+      "power_rating": "-2.063",
+      "momentum_rating": "-2.9584",
+      "games_played": "8",
+      "rank_change": null
+    },
+    {
+      "rank": "7",
+      "team": "Vaughan Panthers",
+      "power_rating": "-2.8935",
+      "momentum_rating": "-2.2407",
+      "games_played": "7",
+      "rank_change": null
+    }
+  ],
+  "standings": [
+    {
+      "team": "Avalanche",
+      "gp": "10",
+      "w": "8",
+      "l": "0",
+      "t": "2",
+      "gf": "59",
+      "ga": "20",
+      "pts": "18"
+    },
+    {
+      "team": "Humber Valley Sharks",
+      "gp": "8",
+      "w": "6",
+      "l": "1",
+      "t": "1",
+      "gf": "35",
+      "ga": "19",
+      "pts": "13"
+    },
+    {
+      "team": "Vaughan Rangers",
+      "gp": "9",
+      "w": "5",
+      "l": "3",
+      "t": "1",
+      "gf": "44",
+      "ga": "24",
+      "pts": "11"
+    },
+    {
+      "team": "Toronto Eagles",
+      "gp": "8",
+      "w": "3",
+      "l": "3",
+      "t": "2",
+      "gf": "27",
+      "ga": "23",
+      "pts": "8"
+    },
+    {
+      "team": "Duffield Devils",
+      "gp": "8",
+      "w": "1",
+      "l": "6",
+      "t": "1",
+      "gf": "14",
+      "ga": "35",
+      "pts": "3"
+    },
+    {
+      "team": "Toronto Wolverines",
+      "gp": "8",
+      "w": "1",
+      "l": "6",
+      "t": "1",
+      "gf": "16",
+      "ga": "40",
+      "pts": "3"
+    },
+    {
+      "team": "Vaughan Panthers",
+      "gp": "7",
+      "w": "1",
+      "l": "6",
+      "t": "0",
+      "gf": "9",
+      "ga": "43",
+      "pts": "2"
+    }
+  ],
+  "games": [
+    {
+      "date": "2026-10-15",
+      "away": "Toronto Eagles",
+      "away_score": "1",
+      "home": "Humber Valley Sharks",
+      "home_score": "2",
+      "arena": "Pinepoint",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-17",
+      "away": "Avalanche",
+      "away_score": "2",
+      "home": "Duffield Devils",
+      "home_score": "2",
+      "arena": "Scotiabank Pond 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "Humber Valley Sharks",
+      "away_score": "5",
+      "home": "Vaughan Panthers",
+      "home_score": "1",
+      "arena": "Vaughan Sports Village B",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "Toronto Eagles",
+      "away_score": "2",
+      "home": "Vaughan Rangers",
+      "home_score": "2",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-18",
+      "away": "Toronto Wolverines",
+      "away_score": "1",
+      "home": "Avalanche",
+      "home_score": "4",
+      "arena": "NFP Athletic Centre - Canlan York 5",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-22",
+      "away": "Vaughan Rangers",
+      "away_score": "4",
+      "home": "Avalanche",
+      "home_score": "7",
+      "arena": "Pinepoint",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-23",
+      "away": "Toronto Eagles",
+      "away_score": "2",
+      "home": "Toronto Wolverines",
+      "home_score": "2",
+      "arena": "CWENCH Centre Etobicoke 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "Avalanche",
+      "away_score": "7",
+      "home": "Toronto Eagles",
+      "home_score": "3",
+      "arena": "CWENCH Centre Etobicoke 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "Humber Valley Sharks",
+      "away_score": "7",
+      "home": "Duffield Devils",
+      "home_score": "3",
+      "arena": "NFP Athletic Centre - Canlan York 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-24",
+      "away": "Vaughan Panthers",
+      "away_score": "0",
+      "home": "Vaughan Rangers",
+      "home_score": "9",
+      "arena": "Westwood 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "Duffield Devils",
+      "away_score": "3",
+      "home": "Vaughan Panthers",
+      "home_score": "2",
+      "arena": "Vaughan Sports Village B",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-25",
+      "away": "Toronto Wolverines",
+      "away_score": "0",
+      "home": "Vaughan Rangers",
+      "home_score": "7",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-26",
+      "away": "Toronto Wolverines",
+      "away_score": "0",
+      "home": "Humber Valley Sharks",
+      "home_score": "4",
+      "arena": "Scotiabank Pond 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-27",
+      "away": "Vaughan Panthers",
+      "away_score": "0",
+      "home": "Avalanche",
+      "home_score": "10",
+      "arena": "Scotiabank Pond 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-30",
+      "away": "Avalanche",
+      "away_score": "7",
+      "home": "Toronto Wolverines",
+      "home_score": "1",
+      "arena": "CWENCH Centre Etobicoke 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-10-31",
+      "away": "Toronto Eagles",
+      "away_score": "4",
+      "home": "Duffield Devils",
+      "home_score": "1",
+      "arena": "Scotiabank Pond 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "Duffield Devils",
+      "away_score": "0",
+      "home": "Vaughan Rangers",
+      "home_score": "5",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-01",
+      "away": "Toronto Eagles",
+      "away_score": "2",
+      "home": "Avalanche",
+      "home_score": "5",
+      "arena": "NFP Athletic Centre - Canlan York 5",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-02",
+      "away": "Vaughan Rangers",
+      "away_score": "5",
+      "home": "Toronto Wolverines",
+      "home_score": "4",
+      "arena": "Pinepoint",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "Avalanche",
+      "away_score": "5",
+      "home": "Humber Valley Sharks",
+      "home_score": "5",
+      "arena": "Ford Performance Centre 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-06",
+      "away": "Vaughan Panthers",
+      "away_score": "4",
+      "home": "Duffield Devils",
+      "home_score": "2",
+      "arena": "Scotiabank Pond 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-07",
+      "away": "Avalanche",
+      "away_score": "7",
+      "home": "Duffield Devils",
+      "home_score": "1",
+      "arena": "Scotiabank Pond 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-07",
+      "away": "Vaughan Rangers",
+      "away_score": "3",
+      "home": "Toronto Eagles",
+      "home_score": "4",
+      "arena": "CWENCH Centre Etobicoke 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "Humber Valley Sharks",
+      "away_score": "5",
+      "home": "Vaughan Rangers",
+      "home_score": "1",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-08",
+      "away": "Toronto Eagles",
+      "away_score": "9",
+      "home": "Vaughan Panthers",
+      "home_score": "1",
+      "arena": "Vaughan Sports Village B",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "Avalanche",
+      "away_score": "5",
+      "home": "Vaughan Panthers",
+      "home_score": "1",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-09",
+      "away": "Duffield Devils",
+      "away_score": "2",
+      "home": "Humber Valley Sharks",
+      "home_score": "4",
+      "arena": "Scotiabank Pond 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-13",
+      "away": "Humber Valley Sharks",
+      "away_score": "3",
+      "home": "Toronto Wolverines",
+      "home_score": "6",
+      "arena": "CWENCH Centre Etobicoke 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-15",
+      "away": "Toronto Wolverines",
+      "away_score": "2",
+      "home": "Vaughan Rangers",
+      "home_score": "8",
+      "arena": "Westwood 1",
+      "source": "gthl_schedule"
+    }
+  ],
+  "changes": {
+    "added": 29,
+    "changed": 0,
+    "removed": 0
+  },
+  "quality": {
+    "rankings_published": true,
+    "matched_teams": 7,
+    "issues": []
+  },
+  "source": {
+    "schedule": "https://gthlcanada.com/schedule/",
+    "standings": "https://gthlcanada.com/standing/"
+  }
+}
