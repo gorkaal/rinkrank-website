@@ -12,7 +12,7 @@
       "power_rating": "3.3472",
       "momentum_rating": "4.0112",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "2",
@@ -20,7 +20,7 @@
       "power_rating": "1.7065",
       "momentum_rating": "0.2507",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "3",
@@ -28,7 +28,7 @@
       "power_rating": "0.652",
       "momentum_rating": "0.1574",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "4",
@@ -36,7 +36,7 @@
       "power_rating": "0.6289",
       "momentum_rating": "1.5139",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "5",
@@ -44,7 +44,7 @@
       "power_rating": "0.5382",
       "momentum_rating": "1.5288",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "6",
@@ -52,7 +52,7 @@
       "power_rating": "0.2752",
       "momentum_rating": "0.4527",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "7",
@@ -60,7 +60,7 @@
       "power_rating": "0.042",
       "momentum_rating": "-0.5833",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "8",
@@ -68,7 +68,7 @@
       "power_rating": "-1.1436",
       "momentum_rating": "-0.832",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "9",
@@ -76,7 +76,7 @@
       "power_rating": "-1.4957",
       "momentum_rating": "-1.598",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "10",
@@ -84,7 +84,7 @@
       "power_rating": "-2.0651",
       "momentum_rating": "-1.9297",
       "games_played": "8",
-      "rank_change": null
+      "rank_change": 0
     },
     {
       "rank": "11",
@@ -92,7 +92,7 @@
       "power_rating": "-2.4856",
       "momentum_rating": "-2.9717",
       "games_played": "9",
-      "rank_change": null
+      "rank_change": 0
     }
   ],
   "standings": [
@@ -624,7 +624,7 @@
     }
   ],
   "changes": {
-    "added": 46,
+    "added": 0,
     "changed": 0,
     "removed": 0
   },
