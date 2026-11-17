@@ -52,7 +52,7 @@
       "power_rating": "0.5315",
       "momentum_rating": "0.5113",
       "games_played": "12",
-      "rank_change": 1
+      "rank_change": 0
     },
     {
       "rank": "7",
@@ -60,7 +60,7 @@
       "power_rating": "0.4616",
       "momentum_rating": "-0.2773",
       "games_played": "10",
-      "rank_change": -1
+      "rank_change": 0
     },
     {
       "rank": "8",
@@ -831,7 +831,7 @@
     }
   ],
   "changes": {
-    "added": 1,
+    "added": 0,
     "changed": 0,
     "removed": 0
   },
