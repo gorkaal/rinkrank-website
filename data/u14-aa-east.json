@@ -1,78 +1,78 @@
 {
-  "as_of_toronto": "2026-11-16",
+  "as_of_toronto": "2026-11-17",
   "division": "GTHL U14 AA East",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 34,
+  "game_count": 35,
   "team_count": 7,
   "rankings": [
     {
       "rank": "1",
       "team": "North Toronto",
-      "power_rating": "1.7388",
-      "momentum_rating": "0.9661",
-      "games_played": "10",
+      "power_rating": "1.5469",
+      "momentum_rating": "0.9612",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "East Enders Ticats",
-      "power_rating": "1.1496",
-      "momentum_rating": "1.9386",
+      "power_rating": "1.1515",
+      "momentum_rating": "1.8559",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Leaside Flames",
-      "power_rating": "1.0375",
-      "momentum_rating": "0.8704",
+      "power_rating": "1.0167",
+      "momentum_rating": "0.8033",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "Ted Reeve Thunder",
-      "power_rating": "-0.53",
-      "momentum_rating": "-1.5351",
+      "power_rating": "-0.5452",
+      "momentum_rating": "-1.6178",
       "games_played": "12",
       "rank_change": 0
     },
     {
       "rank": "5",
-      "team": "North York Knights",
-      "power_rating": "-0.8333",
-      "momentum_rating": "-0.2394",
+      "team": "Markham Islanders",
+      "power_rating": "-0.8198",
+      "momentum_rating": "0.1717",
       "games_played": "9",
-      "rank_change": 0
+      "rank_change": 1
     },
     {
       "rank": "6",
-      "team": "Markham Islanders",
-      "power_rating": "-0.8406",
-      "momentum_rating": "0.2388",
+      "team": "North York Knights",
+      "power_rating": "-0.8348",
+      "momentum_rating": "-0.4358",
       "games_played": "9",
-      "rank_change": 0
+      "rank_change": -1
     },
     {
       "rank": "7",
       "team": "Scarborough Ice Raiders",
-      "power_rating": "-1.7221",
-      "momentum_rating": "-2.2394",
-      "games_played": "9",
+      "power_rating": "-1.5152",
+      "momentum_rating": "-1.7384",
+      "games_played": "10",
       "rank_change": 0
     }
   ],
   "standings": [
     {
       "team": "North Toronto",
-      "gp": "10",
-      "w": "7",
+      "gp": "11",
+      "w": "8",
       "l": "0",
       "t": "3",
-      "gf": "43",
-      "ga": "25",
-      "pts": "17"
+      "gf": "45",
+      "ga": "26",
+      "pts": "19"
     },
     {
       "team": "East Enders Ticats",
@@ -116,12 +116,12 @@
     },
     {
       "team": "Scarborough Ice Raiders",
-      "gp": "9",
+      "gp": "10",
       "w": "2",
-      "l": "5",
+      "l": "6",
       "t": "2",
-      "gf": "11",
-      "ga": "28",
+      "gf": "12",
+      "ga": "30",
       "pts": "6"
     },
     {
@@ -441,10 +441,19 @@
       "home_score": "1",
       "arena": "St. Michaels",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "Scarborough Ice Raiders",
+      "away_score": "1",
+      "home": "North Toronto",
+      "home_score": "2",
+      "arena": "North Toronto",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 1,
     "changed": 0,
     "removed": 0
   },
