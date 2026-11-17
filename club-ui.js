@@ -17,7 +17,7 @@ const columns=profile?[
   ['momentum','Momentum','number']
 ]:[
   ['rank','Club Rank','number'],['name','Club','text'],['winPct','Win %','number'],
-  ['averagePercentile','Avg Divisional Percentile','number'],['coverage','Coverage','text'],
+  ['averagePercentile','Avg Divisional Percentile','number'],
   ['includedTeams','Teams','number'],['gp','GP','number'],['record','W–L–T','text'],
   ['goals','GF / GA','text'],['pts','PTS','number'],
   ['averageLeagueRank','Avg League Rank','number'],['averagePowerRank','Avg Power Rank','number'],
@@ -55,20 +55,6 @@ function cell(tr,row,key){
     td.append(link('./club.html?club='+encodeURIComponent(row.slug),row.name));
   }else if(!profile&&key==='rank'){
     td.textContent=value==null?'—':String(value);
-    if(row.coverage!=='complete'){
-      const tag=document.createElement('small');
-      tag.textContent=' ⚠';tag.className='provisional';tag.title='Provisional: incomplete club coverage';td.append(tag);
-      td.setAttribute('aria-label','Provisional club rank '+(value??'unranked'));
-    }
-  }else if(key==='coverage'){
-    const tag=document.createElement('span');tag.className='pill '+row.coverage;
-    tag.textContent=({
-      'complete':'Verified complete','count-matched':'Count matched',
-      'count-shortfall':'Below approved count','count-discrepancy':'Above approved count',
-      'missing':'No verified team'
-    })[row.coverage] || 'Review needed';
-    td.append(tag);
-    td.title=row.includedTeams+' of '+row.approvedTeams+' approved team entries included';
   }else if(['winPct','percentile','averagePercentile'].includes(key)){
     td.textContent=pct(value);
   }else if(['powerRating','momentum','averagePowerRating','averageMomentum'].includes(key)){
@@ -129,75 +115,16 @@ function fillOptions(select,values){
     const opt=document.createElement('option');opt.value=value;opt.textContent=value;select.append(opt);
   }
 }
-function showCoverageMatrix(club){
-  const body=$('coverageBody');
-  const fragment=document.createDocumentFragment();
-  // The wire format is sparse: an omitted slot has NO verified club team.
-  // Nonparticipation is neutral, not a missing team or a failed review.
-  const known=new Map((club.coverageMatrix||[]).map(cell=>[cell.divisionSlug,cell]));
-  const matrix=(dataset.divisionRegistry||[]).map(d=>known.get(d.slug)||{
-    divisionSlug:d.slug,age:d.age,division:d.division,observedTeams:[],
-    expectedActiveTeams:null,status:'not-participating',reviewed:false,evidence:null,
-    issues:[]
-  });
-  for(const cell of matrix){
-    const tr=document.createElement('tr');
-    const entries=[
-      cell.age,cell.division,
-      cell.observedTeams.length?cell.observedTeams.join(', '):'None in verified dataset',
-      cell.expectedActiveTeams===null?
-        (cell.observedTeams.length?'Active roster review pending':'—'):
-        cell.expectedActiveTeams.length?cell.expectedActiveTeams.join(', '):'None expected',
-      cell.status==='complete'?'Verified':
-        cell.status==='not-participating'?'Not participating':
-        cell.status==='present'?'Team present':
-        'Needs reconciliation',
-      cell.issues.map(x=>x.type+(x.team?': '+x.team:'')+(x.resolved?' (resolved)':'')).join('; ') || '—'
-    ];
-    for(let i=0;i<entries.length;i++){
-      const td=document.createElement('td');td.textContent=entries[i];
-      if(i===4)td.className=cell.status==='complete'?'good':
-        cell.status==='not-participating'||cell.status==='present'?'':'warn';
-      if(i===5&&!cell.reviewed)td.title='No source-verified expected active roster yet';
-      tr.append(td);
-    }
-    const sourceCell=document.createElement('td');
-    if(cell.evidence?.url){
-      const a=document.createElement('a');a.href=cell.evidence.url;
-      a.textContent='Reviewed '+cell.evidence.checkedDate;
-      a.target='_blank';a.rel='noopener noreferrer';sourceCell.append(a);
-    }else sourceCell.textContent='Not reviewed';
-    tr.append(sourceCell);
-    fragment.append(tr);
-  }
-  body.replaceChildren(fragment);
-  $('coverageCount').textContent=club.participatingCells+' participating age/division slots; '+
-    club.reviewedParticipatingCells+' independently reviewed. '+
-    'No-team divisions do not count against the club. '+
-    (club.coverageComplete?'All expected active teams accounted for.':
-      'Any outstanding active-team or count reconciliation remains provisional.');
-}
 function renderProfile(){
   const slug=query.get('club');
   const club=dataset.clubs.find(c=>c.slug===slug);
   if(!club)throw new Error('Unknown club. Choose a club from Club Rankings.');
   document.title=club.name+' · PuckLadder club profile';
   $('clubHeading').textContent=club.name;
-  $('clubSubheading').textContent=club.includedTeams+' verified teams · '+
-    club.approvedTeams+' approved entries · '+
-    (club.coverage==='complete'?'Verified complete':
-      club.coverage==='count-matched'?'Counts matched; roster review pending':
-      'Count reconciliation pending');
-  if(club.coverage!=='complete'){
-    notice('Review pending: '+club.includedTeams+' teams in verified standings versus '+
-      club.approvedTeams+' approved entries. Only '+club.participatingCells+
-      ' age/division slots have participating or expected active teams; empty divisions are normal and do not lower coverage. '+
-      'An unresolved team identity or count difference keeps the club rank provisional.');
-  }
-  showCoverageMatrix(club);
+  $('clubSubheading').textContent=club.includedTeams+' teams included from PuckLadder verified division data · All team assignments reconciled.';
   const t=club.totals;
   const stats=[
-    ['Teams',club.includedTeams+' / '+club.approvedTeams],
+    ['Teams',club.includedTeams],
     ['Games played',t.gp],['W–L–T',record(t)],['GF / GA',goals(t)],
     ['Standings points',t.pts],['Club Win %',pct(club.winPct)],
     ['Avg League Rank',fmt(club.averageLeagueRank,2)],
@@ -227,23 +154,23 @@ async function init(){
     if(dataset.season!=='2026–27'||!Array.isArray(dataset.clubs)||
        !Number.isInteger(dataset.verifiedDivisions)||dataset.verifiedDivisions<1)
       throw new Error('Club data failed verification');
-    if(dataset.coverageAudit&&dataset.coverageAudit.reviewedCells===0){
-      notice('Team identity review is pending where clubs participate. Clubs are not penalized for age groups or divisions where they have no team. Count-matched clubs are not yet independently certified.');
-    }
-    if(dataset.missingDivisions.length){
-      notice('Some division data is unavailable: '+dataset.missingDivisions.join(', ')+'. Rankings are provisional where coverage is incomplete.');
+    if(dataset.coverageAudit?.mappedTeams!==dataset.includedTeams ||
+       !dataset.coverageAudit?.allTeamAssignmentsUnique ||
+       !dataset.coverageAudit?.allClubAggregatesReconciled ||
+       dataset.clubs.some(c=>c.coverage!=='complete'||!c.coverageComplete||!c.includedTeams))
+      throw new Error('Club assignment validation failed; rankings withheld.');
+    if(dataset.missingDivisions?.length){
+      notice('Rankings cover '+dataset.verifiedDivisions+' of '+dataset.divisionCount+
+             ' verified divisions. Unavailable divisions: '+dataset.missingDivisions.join(', ')+'.');
     }
     const collected=dataset.latestVerifiedCollectionUtc?new Intl.DateTimeFormat('en-CA',{timeZone:'America/Toronto',dateStyle:'medium',timeStyle:'short'}).format(new Date(dataset.latestVerifiedCollectionUtc)):'unavailable';
     $('verifiedAt').textContent='Latest verified collection (Toronto): '+collected+' · Games checked through '+(dataset.latestGamesThrough||'unavailable')+
       ' · '+dataset.verifiedDivisions+' of '+dataset.divisionCount+
-      ' divisions · '+dataset.includedTeams+' included teams / '+dataset.approvedTeams+' approved entries.';
+      ' divisions · '+dataset.includedTeams+' mapped verified teams · '+dataset.clubs.length+' clubs.';
     if(profile)renderProfile();
     else{
       activeRows=dataset.clubs;drawTable();
-      const partial=dataset.clubs.filter(c=>c.coverage!=='complete').length;
-      if(partial&&!dataset.missingDivisions.length)
-        notice(partial+' clubs have incomplete approved-team coverage. Their rankings are clearly marked provisional; missing results are never counted as zero.');
-    }
+        }
   }catch(error){
     notice(error.message);
     $('tableBody').replaceChildren();

@@ -30,5 +30,5 @@ th button{background:transparent;border:0;color:inherit;cursor:pointer;text-alig
  .clubLeaders td:nth-child(2),.clubTeams td:nth-child(1){white-space:normal;overflow-wrap:anywhere}
  .provisional{font-size:11px}
 }
-/* A normal absence of a club entry is neither missing nor a failure. */
-.pill.count-matched{background:#eaf3fb;color:#22577e}.pill.count-shortfall{background:#fff3d9;color:#81551d}
+
+
