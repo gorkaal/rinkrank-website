@@ -1,127 +1,117 @@
 {
-  "as_of_toronto": "2026-11-17",
+  "as_of_toronto": "2026-11-16",
   "division": "GTHL U18 AA",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 68,
+  "game_count": 65,
   "team_count": 13,
   "rankings": [
     {
       "rank": "1",
       "team": "Scarborough Ice Raiders",
-      "power_rating": "3.3003",
-      "momentum_rating": "3.5316",
-      "games_played": "9",
+      "power_rating": "3.1591",
+      "momentum_rating": "2.7765",
+      "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Mississauga Rattlers",
-      "power_rating": "2.4762",
-      "momentum_rating": "1.7782",
+      "power_rating": "2.4629",
+      "momentum_rating": "2.3289",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Mississauga North Stars",
-      "power_rating": "2.3934",
-      "momentum_rating": "1.7939",
+      "power_rating": "2.4119",
+      "momentum_rating": "2.2786",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "Mississauga Terriers",
-      "power_rating": "1.3719",
-      "momentum_rating": "-0.822",
+      "power_rating": "1.3095",
+      "momentum_rating": "-0.387",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "North York Knights",
-      "power_rating": "0.7339",
-      "momentum_rating": "1.1189",
+      "power_rating": "0.7488",
+      "momentum_rating": "0.9734",
       "games_played": "13",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "Ted Reeve Thunder",
-      "power_rating": "0.4679",
-      "momentum_rating": "-0.2319",
+      "power_rating": "0.4504",
+      "momentum_rating": "0.3038",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "7",
-      "team": "Streetsville Tigers",
-      "power_rating": "0.2892",
-      "momentum_rating": "0.59",
-      "games_played": "13",
-      "rank_change": 2
+      "team": "Mississauga Beast",
+      "power_rating": "0.2246",
+      "momentum_rating": "1.6833",
+      "games_played": "9",
+      "rank_change": 0
     },
     {
       "rank": "8",
-      "team": "Mississauga Beast",
-      "power_rating": "0.2467",
-      "momentum_rating": "1.5833",
-      "games_played": "9",
-      "rank_change": -1
+      "team": "Leaside Flames",
+      "power_rating": "0.0663",
+      "momentum_rating": "1.1028",
+      "games_played": "11",
+      "rank_change": 0
     },
     {
       "rank": "9",
-      "team": "Leaside Flames",
-      "power_rating": "0.072",
-      "momentum_rating": "0.831",
-      "games_played": "11",
-      "rank_change": -1
+      "team": "Streetsville Tigers",
+      "power_rating": "0.0641",
+      "momentum_rating": "0.537",
+      "games_played": "12",
+      "rank_change": 0
     },
     {
       "rank": "10",
-      "team": "North Toronto",
-      "power_rating": "-1.5863",
-      "momentum_rating": "-1.3445",
-      "games_played": "11",
-      "rank_change": 1
+      "team": "Vaughan Rangers",
+      "power_rating": "-1.4095",
+      "momentum_rating": "-2.1226",
+      "games_played": "9",
+      "rank_change": 0
     },
     {
       "rank": "11",
-      "team": "Vaughan Rangers",
-      "power_rating": "-1.6852",
-      "momentum_rating": "-2.6715",
+      "team": "North Toronto",
+      "power_rating": "-1.4982",
+      "momentum_rating": "-1.6892",
       "games_played": "10",
-      "rank_change": -1
+      "rank_change": 0
     },
     {
       "rank": "12",
       "team": "Humber Valley Sharks",
-      "power_rating": "-3.3125",
-      "momentum_rating": "-0.7232",
-      "games_played": "12",
+      "power_rating": "-3.6338",
+      "momentum_rating": "-2.408",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "13",
       "team": "Toronto Royals",
-      "power_rating": "-4.7676",
-      "momentum_rating": "-5.4338",
-      "games_played": "9",
+      "power_rating": "-4.3561",
+      "momentum_rating": "-5.3774",
+      "games_played": "8",
       "rank_change": 0
     }
   ],
   "standings": [
-    {
-      "team": "Scarborough Ice Raiders",
-      "gp": "9",
-      "w": "8",
-      "l": "0",
-      "t": "1",
-      "gf": "58",
-      "ga": "17",
-      "pts": "17"
-    },
     {
       "team": "North York Knights",
       "gp": "13",
@@ -141,6 +131,16 @@
       "gf": "56",
       "ga": "21",
       "pts": "16"
+    },
+    {
+      "team": "Scarborough Ice Raiders",
+      "gp": "8",
+      "w": "7",
+      "l": "0",
+      "t": "1",
+      "gf": "49",
+      "ga": "17",
+      "pts": "15"
     },
     {
       "team": "Mississauga Rattlers",
@@ -164,13 +164,13 @@
     },
     {
       "team": "Streetsville Tigers",
-      "gp": "13",
-      "w": "7",
+      "gp": "12",
+      "w": "6",
       "l": "6",
       "t": "0",
-      "gf": "45",
-      "ga": "38",
-      "pts": "14"
+      "gf": "39",
+      "ga": "37",
+      "pts": "12"
     },
     {
       "team": "Leaside Flames",
@@ -204,42 +204,42 @@
     },
     {
       "team": "North Toronto",
-      "gp": "11",
+      "gp": "10",
       "w": "3",
-      "l": "7",
+      "l": "6",
       "t": "1",
       "gf": "36",
-      "ga": "51",
+      "ga": "42",
       "pts": "7"
     },
     {
-      "team": "Humber Valley Sharks",
-      "gp": "12",
-      "w": "3",
-      "l": "9",
-      "t": "0",
-      "gf": "31",
-      "ga": "80",
-      "pts": "6"
+      "team": "Vaughan Rangers",
+      "gp": "9",
+      "w": "1",
+      "l": "6",
+      "t": "2",
+      "gf": "20",
+      "ga": "35",
+      "pts": "4"
     },
     {
-      "team": "Vaughan Rangers",
-      "gp": "10",
-      "w": "1",
-      "l": "7",
-      "t": "2",
-      "gf": "21",
-      "ga": "41",
+      "team": "Humber Valley Sharks",
+      "gp": "11",
+      "w": "2",
+      "l": "9",
+      "t": "0",
+      "gf": "24",
+      "ga": "78",
       "pts": "4"
     },
     {
       "team": "Toronto Royals",
-      "gp": "9",
+      "gp": "8",
       "w": "0",
-      "l": "9",
+      "l": "8",
       "t": "0",
-      "gf": "9",
-      "ga": "70",
+      "gf": "7",
+      "ga": "63",
       "pts": "0"
     }
   ],
@@ -828,37 +828,10 @@
       "home_score": "5",
       "arena": "Mississauga Sports and Entertainment Centre 2",
       "source": "gthl_schedule"
-    },
-    {
-      "date": "2026-11-16",
-      "away": "Humber Valley Sharks",
-      "away_score": "7",
-      "home": "Toronto Royals",
-      "home_score": "2",
-      "arena": "Scotiabank Pond 4",
-      "source": "gthl_schedule"
-    },
-    {
-      "date": "2026-11-16",
-      "away": "Scarborough Ice Raiders",
-      "away_score": "9",
-      "home": "North Toronto",
-      "home_score": "0",
-      "arena": "Scotiabank Pond 1",
-      "source": "gthl_schedule"
-    },
-    {
-      "date": "2026-11-16",
-      "away": "Streetsville Tigers",
-      "away_score": "6",
-      "home": "Vaughan Rangers",
-      "home_score": "1",
-      "arena": "Vaughan Sports Village C",
-      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 3,
+    "added": 0,
     "changed": 0,
     "removed": 0
   },
