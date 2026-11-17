@@ -1,109 +1,119 @@
 {
-  "as_of_toronto": "2026-11-16",
+  "as_of_toronto": "2026-11-17",
   "division": "GTHL U13 A West",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 50,
+  "game_count": 52,
   "team_count": 12,
   "rankings": [
     {
       "rank": "1",
       "team": "MHL-Erindale Spitfires",
-      "power_rating": "2.9825",
-      "momentum_rating": "3.222",
-      "games_played": "9",
+      "power_rating": "2.7559",
+      "momentum_rating": "2.8686",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Vaughan Panthers",
-      "power_rating": "2.7576",
-      "momentum_rating": "0.9726",
+      "power_rating": "2.6977",
+      "momentum_rating": "0.5408",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Vaughan Rangers",
-      "power_rating": "1.455",
-      "momentum_rating": "2.1477",
+      "power_rating": "1.4848",
+      "momentum_rating": "2.2972",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "Toronto Eagles",
-      "power_rating": "1.031",
-      "momentum_rating": "1.1477",
+      "power_rating": "1.0592",
+      "momentum_rating": "1.2972",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "The Attack",
-      "power_rating": "0.9396",
-      "momentum_rating": "0.4997",
+      "power_rating": "0.9129",
+      "momentum_rating": "0.4262",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "Humber Valley Sharks",
-      "power_rating": "0.7075",
-      "momentum_rating": "1.4997",
+      "power_rating": "0.6519",
+      "momentum_rating": "1.4262",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "MHL-Applewood Coyotes",
-      "power_rating": "-0.0005",
-      "momentum_rating": "-0.9731",
-      "games_played": "9",
+      "power_rating": "0.2805",
+      "momentum_rating": "-0.1605",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "MHL-Port Credit Storm",
-      "power_rating": "-1.0623",
-      "momentum_rating": "-1.5561",
+      "power_rating": "-1.0203",
+      "momentum_rating": "-1.2589",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "9",
-      "team": "Vaughan Rangers Blue",
-      "power_rating": "-1.0798",
-      "momentum_rating": "-1.1462",
+      "team": "Avalanche",
+      "power_rating": "-1.2944",
+      "momentum_rating": "0.4911",
       "games_played": "8",
-      "rank_change": 0
+      "rank_change": 1
     },
     {
       "rank": "10",
-      "team": "Avalanche",
-      "power_rating": "-1.3945",
-      "momentum_rating": "0.1939",
-      "games_played": "8",
-      "rank_change": 0
+      "team": "Vaughan Rangers Blue",
+      "power_rating": "-1.391",
+      "momentum_rating": "-1.9251",
+      "games_played": "9",
+      "rank_change": -1
     },
     {
       "rank": "11",
-      "team": "West Mall Lightning",
-      "power_rating": "-3.0672",
-      "momentum_rating": "-3.7131",
-      "games_played": "8",
-      "rank_change": 0
+      "team": "Greater Toronto Capitals",
+      "power_rating": "-3.0593",
+      "momentum_rating": "-2.0943",
+      "games_played": "10",
+      "rank_change": 1
     },
     {
       "rank": "12",
-      "team": "Greater Toronto Capitals",
-      "power_rating": "-3.269",
-      "momentum_rating": "-2.2948",
-      "games_played": "9",
-      "rank_change": 0
+      "team": "West Mall Lightning",
+      "power_rating": "-3.078",
+      "momentum_rating": "-3.9085",
+      "games_played": "8",
+      "rank_change": -1
     }
   ],
   "standings": [
+    {
+      "team": "MHL-Erindale Spitfires",
+      "gp": "10",
+      "w": "9",
+      "l": "1",
+      "t": "0",
+      "gf": "49",
+      "ga": "19",
+      "pts": "18"
+    },
     {
       "team": "Vaughan Panthers",
       "gp": "8",
@@ -112,16 +122,6 @@
       "t": "0",
       "gf": "42",
       "ga": "9",
-      "pts": "16"
-    },
-    {
-      "team": "MHL-Erindale Spitfires",
-      "gp": "9",
-      "w": "8",
-      "l": "1",
-      "t": "0",
-      "gf": "44",
-      "ga": "18",
       "pts": "16"
     },
     {
@@ -145,6 +145,16 @@
       "pts": "11"
     },
     {
+      "team": "MHL-Applewood Coyotes",
+      "gp": "10",
+      "w": "5",
+      "l": "4",
+      "t": "1",
+      "gf": "38",
+      "ga": "34",
+      "pts": "11"
+    },
+    {
       "team": "The Attack",
       "gp": "8",
       "w": "4",
@@ -165,16 +175,6 @@
       "pts": "9"
     },
     {
-      "team": "MHL-Applewood Coyotes",
-      "gp": "9",
-      "w": "4",
-      "l": "4",
-      "t": "1",
-      "gf": "32",
-      "ga": "32",
-      "pts": "9"
-    },
-    {
       "team": "Avalanche",
       "gp": "8",
       "w": "4",
@@ -183,16 +183,6 @@
       "gf": "22",
       "ga": "33",
       "pts": "8"
-    },
-    {
-      "team": "Vaughan Rangers Blue",
-      "gp": "8",
-      "w": "2",
-      "l": "6",
-      "t": "0",
-      "gf": "15",
-      "ga": "35",
-      "pts": "4"
     },
     {
       "team": "MHL-Port Credit Storm",
@@ -205,13 +195,23 @@
       "pts": "4"
     },
     {
-      "team": "Greater Toronto Capitals",
+      "team": "Vaughan Rangers Blue",
       "gp": "9",
-      "w": "1",
-      "l": "8",
+      "w": "2",
+      "l": "7",
       "t": "0",
       "gf": "17",
-      "ga": "48",
+      "ga": "41",
+      "pts": "4"
+    },
+    {
+      "team": "Greater Toronto Capitals",
+      "gp": "10",
+      "w": "1",
+      "l": "9",
+      "t": "0",
+      "gf": "18",
+      "ga": "53",
       "pts": "2"
     },
     {
@@ -675,10 +675,28 @@
       "home_score": "7",
       "arena": "Westwood 1",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "MHL-Applewood Coyotes",
+      "away_score": "6",
+      "home": "Vaughan Rangers Blue",
+      "home_score": "2",
+      "arena": "Vaughan Sports Village A",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "MHL-Erindale Spitfires",
+      "away_score": "5",
+      "home": "Greater Toronto Capitals",
+      "home_score": "1",
+      "arena": "Pinepoint",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 2,
     "changed": 0,
     "removed": 0
   },

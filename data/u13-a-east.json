@@ -1,5 +1,5 @@
 {
-  "as_of_toronto": "2026-11-16",
+  "as_of_toronto": "2026-11-17",
   "division": "GTHL U13 A East",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
@@ -9,80 +9,80 @@
     {
       "rank": "1",
       "team": "Forest Hill",
-      "power_rating": "3.0032",
-      "momentum_rating": "2.6161",
+      "power_rating": "3.0033",
+      "momentum_rating": "2.6468",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "York Mills",
-      "power_rating": "2.7004",
-      "momentum_rating": "3.2908",
+      "power_rating": "2.7005",
+      "momentum_rating": "3.2959",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "North Toronto",
-      "power_rating": "1.848",
-      "momentum_rating": "2.9861",
+      "power_rating": "1.8488",
+      "momentum_rating": "3.0531",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "4",
-      "team": "Markham Islanders",
-      "power_rating": "1.4392",
-      "momentum_rating": "1.5094",
-      "games_played": "12",
+      "team": "Avenue Road Ducks",
+      "power_rating": "1.4551",
+      "momentum_rating": "1.1468",
+      "games_played": "11",
       "rank_change": 1
     },
     {
       "rank": "5",
-      "team": "Avenue Road Ducks",
-      "power_rating": "1.3757",
-      "momentum_rating": "0.9341",
-      "games_played": "11",
+      "team": "Markham Islanders",
+      "power_rating": "1.3685",
+      "momentum_rating": "1.2874",
+      "games_played": "12",
       "rank_change": -1
     },
     {
       "rank": "6",
       "team": "Leaside Flames",
-      "power_rating": "1.1605",
-      "momentum_rating": "1.2103",
+      "power_rating": "1.1679",
+      "momentum_rating": "1.2558",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Toronto Aeros",
-      "power_rating": "-0.0203",
-      "momentum_rating": "0.8514",
+      "power_rating": "-0.0276",
+      "momentum_rating": "0.8027",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "West Hill Golden Hawks",
-      "power_rating": "-0.6731",
-      "momentum_rating": "-1.8176",
+      "power_rating": "-0.6732",
+      "momentum_rating": "-1.8207",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "9",
       "team": "Ted Reeve Thunder",
-      "power_rating": "-1.1812",
-      "momentum_rating": "-3.1486",
+      "power_rating": "-1.1811",
+      "momentum_rating": "-3.1973",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "10",
       "team": "North York Knights",
-      "power_rating": "-1.3339",
-      "momentum_rating": "-1.3908",
+      "power_rating": "-1.3349",
+      "momentum_rating": "-1.3829",
       "games_played": "9",
       "rank_change": 0
     },
@@ -90,23 +90,23 @@
       "rank": "11",
       "team": "Victoria Village Mustangs",
       "power_rating": "-1.6388",
-      "momentum_rating": "-0.7092",
+      "momentum_rating": "-0.7041",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "12",
       "team": "Scarborough Ice Raiders",
-      "power_rating": "-3.1257",
-      "momentum_rating": "-3.7905",
+      "power_rating": "-3.1259",
+      "momentum_rating": "-3.8314",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "13",
       "team": "Willowdale Hawks",
-      "power_rating": "-3.5539",
-      "momentum_rating": "-2.5416",
+      "power_rating": "-3.5626",
+      "momentum_rating": "-2.5521",
       "games_played": "9",
       "rank_change": 0
     }
@@ -129,7 +129,7 @@
       "l": "2",
       "t": "4",
       "gf": "38",
-      "ga": "22",
+      "ga": "23",
       "pts": "16"
     },
     {
@@ -178,7 +178,7 @@
       "w": "6",
       "l": "5",
       "t": "0",
-      "gf": "41",
+      "gf": "42",
       "ga": "27",
       "pts": "12"
     },
@@ -823,7 +823,7 @@
     {
       "date": "2026-11-16",
       "away": "Avenue Road Ducks",
-      "away_score": "0",
+      "away_score": "1",
       "home": "Markham Islanders",
       "home_score": "2",
       "arena": "Thornhill Centre West",
@@ -831,8 +831,8 @@
     }
   ],
   "changes": {
-    "added": 1,
-    "changed": 0,
+    "added": 0,
+    "changed": 1,
     "removed": 0
   },
   "quality": {

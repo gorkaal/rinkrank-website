@@ -1,72 +1,72 @@
 {
-  "as_of_toronto": "2026-11-16",
+  "as_of_toronto": "2026-11-17",
   "division": "GTHL U13 AA West",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 47,
+  "game_count": 49,
   "team_count": 11,
   "rankings": [
     {
       "rank": "1",
       "team": "Mississauga Terriers",
-      "power_rating": "1.7677",
-      "momentum_rating": "3.1731",
+      "power_rating": "1.7767",
+      "momentum_rating": "2.8538",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Mississauga Beast",
-      "power_rating": "1.3178",
-      "momentum_rating": "0.034",
+      "power_rating": "1.3191",
+      "momentum_rating": "0.2145",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Toronto Eagles",
-      "power_rating": "1.0096",
-      "momentum_rating": "-0.2213",
-      "games_played": "8",
+      "power_rating": "1.1111",
+      "momentum_rating": "0.804",
+      "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "Vaughan Rangers",
-      "power_rating": "0.5396",
-      "momentum_rating": "0.0169",
-      "games_played": "10",
+      "power_rating": "0.5999",
+      "momentum_rating": "-0.3036",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Toronto Wolverines",
-      "power_rating": "0.4665",
-      "momentum_rating": "0.057",
+      "power_rating": "0.4831",
+      "momentum_rating": "0.0858",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "Humber Valley Sharks",
-      "power_rating": "0.3022",
-      "momentum_rating": "-0.6613",
-      "games_played": "8",
+      "power_rating": "0.2287",
+      "momentum_rating": "-0.3363",
+      "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Streetsville Tigers",
-      "power_rating": "-0.0846",
-      "momentum_rating": "0.7294",
-      "games_played": "8",
+      "power_rating": "-0.1686",
+      "momentum_rating": "0.2216",
+      "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "Vaughan Rangers Blue",
-      "power_rating": "-0.4696",
-      "momentum_rating": "0.1967",
+      "power_rating": "-0.4866",
+      "momentum_rating": "-0.0707",
       "games_played": "8",
       "rank_change": 0
     },
@@ -74,23 +74,23 @@
       "rank": "9",
       "team": "Faustina Toros",
       "power_rating": "-0.5552",
-      "momentum_rating": "-0.2235",
+      "momentum_rating": "-0.0804",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "10",
       "team": "Mississauga North Stars",
-      "power_rating": "-0.8885",
-      "momentum_rating": "0.0222",
+      "power_rating": "-0.8869",
+      "momentum_rating": "0.04",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "11",
       "team": "West Mall Lightning",
-      "power_rating": "-3.4055",
-      "momentum_rating": "-3.1233",
+      "power_rating": "-3.4214",
+      "momentum_rating": "-3.4286",
       "games_played": "7",
       "rank_change": 0
     }
@@ -107,6 +107,26 @@
       "pts": "15"
     },
     {
+      "team": "Vaughan Rangers",
+      "gp": "11",
+      "w": "5",
+      "l": "3",
+      "t": "3",
+      "gf": "33",
+      "ga": "27",
+      "pts": "13"
+    },
+    {
+      "team": "Toronto Eagles",
+      "gp": "9",
+      "w": "5",
+      "l": "2",
+      "t": "2",
+      "gf": "28",
+      "ga": "21",
+      "pts": "12"
+    },
+    {
       "team": "Mississauga Terriers",
       "gp": "8",
       "w": "5",
@@ -117,44 +137,14 @@
       "pts": "11"
     },
     {
-      "team": "Vaughan Rangers",
-      "gp": "10",
+      "team": "Humber Valley Sharks",
+      "gp": "9",
       "w": "4",
       "l": "3",
-      "t": "3",
-      "gf": "30",
-      "ga": "25",
-      "pts": "11"
-    },
-    {
-      "team": "Toronto Eagles",
-      "gp": "8",
-      "w": "4",
-      "l": "2",
       "t": "2",
-      "gf": "24",
-      "ga": "19",
-      "pts": "10"
-    },
-    {
-      "team": "Humber Valley Sharks",
-      "gp": "8",
-      "w": "4",
-      "l": "2",
-      "t": "2",
-      "gf": "23",
-      "ga": "18",
-      "pts": "10"
-    },
-    {
-      "team": "Streetsville Tigers",
-      "gp": "8",
-      "w": "2",
-      "l": "2",
-      "t": "4",
-      "gf": "22",
+      "gf": "25",
       "ga": "21",
-      "pts": "8"
+      "pts": "10"
     },
     {
       "team": "Toronto Wolverines",
@@ -163,6 +153,16 @@
       "l": "3",
       "t": "2",
       "gf": "25",
+      "ga": "25",
+      "pts": "8"
+    },
+    {
+      "team": "Streetsville Tigers",
+      "gp": "9",
+      "w": "2",
+      "l": "3",
+      "t": "4",
+      "gf": "24",
       "ga": "25",
       "pts": "8"
     },
@@ -630,10 +630,28 @@
       "home_score": "1",
       "arena": "CWENCH Centre Etobicoke 2",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "Humber Valley Sharks",
+      "away_score": "2",
+      "home": "Vaughan Rangers",
+      "home_score": "3",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "Streetsville Tigers",
+      "away_score": "2",
+      "home": "Toronto Eagles",
+      "home_score": "4",
+      "arena": "Scotiabank Pond 3",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 2,
     "changed": 0,
     "removed": 0
   },
