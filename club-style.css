@@ -32,3 +32,19 @@ th button{background:transparent;border:0;color:inherit;cursor:pointer;text-alig
 }
 
 
+
+
+/* Club category selector: accessible buttons, 44px touch targets, subtle busy cue. */
+.categoryBar{display:flex;align-items:center;flex-wrap:wrap;gap:10px;padding:9px 17px 14px;border-bottom:1px solid var(--line)}
+.categoryLabel{font-size:12px;font-weight:750;color:var(--muted)}
+.categoryToggles{display:inline-flex;gap:5px;flex-wrap:wrap}
+.categoryToggle{min-width:54px;min-height:44px;border-radius:8px;border:1px solid #a8bdcf;background:#f5f8fb;color:#42566a;font:inherit;font-weight:800;cursor:pointer;transition:background-color .1s,color .1s,border-color .1s}
+.categoryToggle:hover{border-color:var(--accent)}
+.categoryToggle.is-selected{background:var(--accent);color:white;border-color:var(--accent)}
+.categoryToggle:focus-visible{outline:3px solid #48a1e8;outline-offset:2px}
+.categoryProgress{display:inline-flex;align-items:center;gap:7px;font-size:12px;color:var(--muted);margin-left:4px}
+.categoryProgress[hidden]{display:none}
+.categorySpinner{width:12px;height:12px;border:2px solid #b4c9df;border-top-color:var(--accent);border-radius:50%;animation:category-spin .75s linear infinite}
+@keyframes category-spin{to{transform:rotate(360deg)}}
+@media(max-width:750px){.categoryBar{padding:9px 12px 12px;gap:8px}.categoryToggle{min-width:52px}}
+@media(prefers-reduced-motion:reduce){.categorySpinner{animation:none;border-color:var(--accent)}}

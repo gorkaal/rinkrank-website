@@ -4,6 +4,9 @@ const $=id=>document.getElementById(id);
 const profile=location.pathname.endsWith('/club.html');
 const query=new URLSearchParams(location.search);
 let dataset=null,activeRows=[],sortKey=profile?'leagueRank':'rank',sortAsc=true;
+const CATEGORY_ORDER=['A','AA','AAA'];
+const selectedCategories=new Set(CATEGORY_ORDER);
+let rankingWorker=null,workerReady=false,requestSerial=0,latestRequest=0;
 const fmt=(value,digits=1)=>value===null||value===undefined||!Number.isFinite(Number(value))?'—':Number(value).toFixed(digits);
 const pct=value=>value===null||value===undefined?'—':fmt(value,1)+'%';
 const record=t=>t.gp==null?'—':[t.w,t.l,t.t].join('–');
@@ -100,7 +103,69 @@ function drawTable(){
     tr.append(td);fragment.append(tr);
   }
   body.replaceChildren(fragment);
-  $('rowCount').textContent=activeRows.length+' '+(profile?'verified teams':'clubs')+' shown · additional columns available by horizontal scrolling';
+  $('rowCount').textContent=activeRows.length+' '+(profile?'verified teams':'clubs')+' shown'+
+    (profile?'':' · '+selectedCategories.size+' categories ('+CATEGORY_ORDER.filter(c=>selectedCategories.has(c)).join(' + ')+')')+
+    ' · additional columns available by horizontal scrolling';
+}
+function refreshCategoryButtons(){
+  for(const button of document.querySelectorAll('.categoryToggle')){
+    const selected=selectedCategories.has(button.dataset.category);
+    button.classList.toggle('is-selected',selected);
+    button.setAttribute('aria-pressed',String(selected));
+    // Require at least one category at all times, including during calculation.
+    button.setAttribute('aria-disabled',String(selected && selectedCategories.size===1));
+  }
+}
+function requestCategoryRankings(){
+  latestRequest=++requestSerial;
+  $('categoryProgress').hidden=false;
+  // Keep the currently displayed standings visible throughout worker processing.
+  if(workerReady){
+    rankingWorker.postMessage({type:'rank',requestId:latestRequest,
+      categories:CATEGORY_ORDER.filter(category=>selectedCategories.has(category))});
+  }
+}
+function enableCategoryFilters(){
+  refreshCategoryButtons();
+  rankingWorker=new Worker('./club-rank-worker.js');
+  rankingWorker.onerror=()=>{
+    workerReady=false;
+    $('categoryProgress').hidden=true;
+    notice('Club category recalculation is unavailable; the last verified table remains visible.');
+  };
+  rankingWorker.onmessage=event=>{
+    const response=event.data;
+    if(response.type==='ready'){
+      workerReady=true;
+      // Handle a category switch made before the worker finished initializing.
+      if(latestRequest) rankingWorker.postMessage({type:'rank',requestId:latestRequest,
+        categories:CATEGORY_ORDER.filter(category=>selectedCategories.has(category))});
+      return;
+    }
+    // Never allow an older, slower selection to replace a newer one.
+    if(response.requestId!==latestRequest)return;
+    $('categoryProgress').hidden=true;
+    if(response.type==='error'){
+      notice('Unable to recalculate selected categories: '+response.message);
+      return;
+    }
+    if(response.type!=='ranked')return;
+    activeRows=response.clubs;
+    drawTable(); // Preserves the current user-selected column/direction.
+  };
+  rankingWorker.postMessage({type:'init',clubs:dataset.clubs});
+  for(const button of document.querySelectorAll('.categoryToggle')){
+    button.addEventListener('click',()=>{
+      const category=button.dataset.category;
+      if(!CATEGORY_ORDER.includes(category))return;
+      if(selectedCategories.has(category)){
+        if(selectedCategories.size===1)return;
+        selectedCategories.delete(category);
+      }else selectedCategories.add(category);
+      refreshCategoryButtons();
+      requestCategoryRankings();
+    });
+  }
 }
 function notice(message){
   const el=$('coverageNotice');el.hidden=false;el.textContent=message;
@@ -169,8 +234,11 @@ async function init(){
       ' divisions · '+dataset.includedTeams+' mapped verified teams · '+dataset.clubs.length+' clubs.';
     if(profile)renderProfile();
     else{
-      activeRows=dataset.clubs;drawTable();
-        }
+      // Show existing verified rankings immediately; all three categories default on.
+      activeRows=dataset.clubs;
+      drawTable();
+      enableCategoryFilters();
+    }
   }catch(error){
     notice(error.message);
     $('tableBody').replaceChildren();
