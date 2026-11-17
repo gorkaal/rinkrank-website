@@ -213,19 +213,19 @@
     },
     "u17-a-east": {
       "as_of_toronto": "2026-11-17",
-      "collected_at_utc": "2026-11-17T11:36:20+00:00",
+      "collected_at_utc": "2026-11-17T12:10:14+00:00",
       "team_count": 11,
       "game_count": 56
     },
     "u17-a-west": {
       "as_of_toronto": "2026-11-17",
-      "collected_at_utc": "2026-11-17T11:37:11+00:00",
+      "collected_at_utc": "2026-11-17T12:11:05+00:00",
       "team_count": 8,
       "game_count": 38
     },
     "u17-aa": {
       "as_of_toronto": "2026-11-17",
-      "collected_at_utc": "2026-11-17T11:38:15+00:00",
+      "collected_at_utc": "2026-11-17T12:12:21+00:00",
       "team_count": 13,
       "game_count": 67
     },
