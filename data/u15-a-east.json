@@ -3,102 +3,102 @@
   "division": "GTHL U15 A East",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 53,
+  "game_count": 54,
   "team_count": 12,
   "rankings": [
     {
       "rank": "1",
       "team": "Leaside Flames",
-      "power_rating": "3.9513",
-      "momentum_rating": "2.9199",
+      "power_rating": "3.9149",
+      "momentum_rating": "3.2138",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Avenue Road Ducks",
-      "power_rating": "2.4859",
-      "momentum_rating": "2.5188",
+      "power_rating": "2.487",
+      "momentum_rating": "2.7639",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Ted Reeve Thunder",
-      "power_rating": "1.7564",
-      "momentum_rating": "2.7886",
+      "power_rating": "1.7865",
+      "momentum_rating": "3.0076",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "North Toronto",
-      "power_rating": "1.3648",
-      "momentum_rating": "-0.038",
+      "power_rating": "1.3571",
+      "momentum_rating": "0.2398",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Toronto Aeros",
-      "power_rating": "1.2789",
-      "momentum_rating": "2.4869",
+      "power_rating": "1.2858",
+      "momentum_rating": "2.3877",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "6",
-      "team": "Leaside Flames Gold",
-      "power_rating": "-0.2242",
-      "momentum_rating": "-0.2452",
-      "games_played": "9",
-      "rank_change": 0
+      "team": "Victoria Village Mustangs",
+      "power_rating": "-0.0324",
+      "momentum_rating": "-0.913",
+      "games_played": "10",
+      "rank_change": 2
     },
     {
       "rank": "7",
-      "team": "Ted Reeve Thunder Black",
-      "power_rating": "-0.3016",
-      "momentum_rating": "-0.5151",
+      "team": "Leaside Flames Gold",
+      "power_rating": "-0.2274",
+      "momentum_rating": "-0.4191",
       "games_played": "9",
-      "rank_change": 0
+      "rank_change": -1
     },
     {
       "rank": "8",
-      "team": "Victoria Village Mustangs",
-      "power_rating": "-0.3151",
-      "momentum_rating": "-1.0029",
+      "team": "Ted Reeve Thunder Black",
+      "power_rating": "-0.3014",
+      "momentum_rating": "-0.7137",
       "games_played": "9",
-      "rank_change": 0
+      "rank_change": -1
     },
     {
       "rank": "9",
       "team": "North York Knights",
-      "power_rating": "-1.7402",
-      "momentum_rating": "-2.788",
+      "power_rating": "-1.7724",
+      "momentum_rating": "-2.4315",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "10",
-      "team": "West Hill Golden Hawks",
-      "power_rating": "-2.3036",
-      "momentum_rating": "-1.5632",
-      "games_played": "8",
-      "rank_change": 0
+      "team": "Markham Islanders",
+      "power_rating": "-2.399",
+      "momentum_rating": "-1.257",
+      "games_played": "10",
+      "rank_change": 1
     },
     {
       "rank": "11",
-      "team": "Markham Islanders",
-      "power_rating": "-2.4269",
-      "momentum_rating": "-1.5071",
-      "games_played": "10",
-      "rank_change": 0
+      "team": "West Hill Golden Hawks",
+      "power_rating": "-2.6114",
+      "momentum_rating": "-2.989",
+      "games_played": "9",
+      "rank_change": -1
     },
     {
       "rank": "12",
       "team": "Scarborough Ice Raiders",
-      "power_rating": "-3.5256",
-      "momentum_rating": "-3.0547",
+      "power_rating": "-3.4874",
+      "momentum_rating": "-2.8894",
       "games_played": "9",
       "rank_change": 0
     }
@@ -145,6 +145,16 @@
       "pts": "13"
     },
     {
+      "team": "Victoria Village Mustangs",
+      "gp": "10",
+      "w": "5",
+      "l": "2",
+      "t": "3",
+      "gf": "25",
+      "ga": "25",
+      "pts": "13"
+    },
+    {
       "team": "North Toronto",
       "gp": "8",
       "w": "5",
@@ -152,16 +162,6 @@
       "t": "1",
       "gf": "30",
       "ga": "17",
-      "pts": "11"
-    },
-    {
-      "team": "Victoria Village Mustangs",
-      "gp": "9",
-      "w": "4",
-      "l": "2",
-      "t": "3",
-      "gf": "20",
-      "ga": "25",
       "pts": "11"
     },
     {
@@ -206,12 +206,12 @@
     },
     {
       "team": "West Hill Golden Hawks",
-      "gp": "8",
+      "gp": "9",
       "w": "1",
-      "l": "7",
+      "l": "8",
       "t": "0",
       "gf": "12",
-      "ga": "39",
+      "ga": "44",
       "pts": "2"
     },
     {
@@ -702,10 +702,19 @@
       "home_score": "4",
       "arena": "Ted Reeve",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "Victoria Village Mustangs",
+      "away_score": "5",
+      "home": "West Hill Golden Hawks",
+      "home_score": "0",
+      "arena": "Scarborough Centennial Arena",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 1,
     "changed": 0,
     "removed": 0
   },
