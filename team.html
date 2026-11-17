@@ -50,15 +50,20 @@ a{color:#1763B7}
  .gameTable thead th:first-child{background:#ECF1F6;z-index:3}
  .gameTable tbody tr:nth-child(even) td:first-child{background:#F9FBFD}
 }
+.clubParent{font-size:13px;color:#526174;margin:8px 0 0}.clubParent a{font-weight:750}
+.navLinks{display:flex;gap:14px;flex-wrap:wrap}.navLinks a{color:#36516d;text-decoration:none;font-weight:650}
+.navLinks a:hover,.navLinks a:focus-visible{color:#1763b7;text-decoration:underline}
+@media(max-width:750px){.navLinks{gap:8px}.navLinks a{font-size:12px}}
 </style>
 </head>
 <body>
 <main class="wrap">
-<nav><div class="brand"><a class="siteLink" href="./index.html">Puck<span>Ladder</span></a></div><div class="navsmall">GTHL · 2026–27</div></nav>
+<nav><div class="brand"><a class="siteLink" href="./index.html">Puck<span>Ladder</span></a></div><div class="navLinks"><a href="./index.html">Team Rankings</a><a href="./clubs.html">Club Rankings</a></div></nav>
 <a class="backLink" id="backLink" href="./index.html">← All rankings &amp; standings</a>
 <header class="hero">
 <div class="kicker" id="divisionName">GTHL · 2026–27 season · U10 A East</div>
 <h1 id="teamName">Team results</h1>
+<p class="clubParent" id="clubParent" hidden>Club: <a id="clubLink" href="./clubs.html"></a></p>
 <p class="intro" id="summary">Loading completed games...</p>
 </header>
 <section class="teamSummary" aria-label="Team season summary">
@@ -225,6 +230,23 @@ async function showTeam(){
       }
     }catch(error){
       // Missing manifest never hides otherwise verified team game results.
+    }
+    // Club navigation is additive. A missing club export never hides team data.
+    try{
+      const clubsResponse=await fetch('./data/clubs.json',{cache:'no-cache'});
+      if(clubsResponse.ok){
+        const clubs=await clubsResponse.json();
+        if(clubs.season==='2026–27'&&Array.isArray(clubs.clubs)){
+          const matched=clubs.clubs.filter(c=>c.teams?.some(row=>row.slug===slug&&row.team===team));
+          if(matched.length===1){
+            $('clubLink').textContent=matched[0].name;
+            $('clubLink').href='./club.html?club='+encodeURIComponent(matched[0].slug);
+            $('clubParent').hidden=false;
+          }
+        }
+      }
+    }catch(error){
+      // Existing verified game results remain available.
     }
   }catch(error){
     $('status').className='status warn';
