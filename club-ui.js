@@ -125,6 +125,41 @@ function fillOptions(select,values){
     const opt=document.createElement('option');opt.value=value;opt.textContent=value;select.append(opt);
   }
 }
+function showCoverageMatrix(club){
+  const body=$('coverageBody');
+  const fragment=document.createDocumentFragment();
+  const matrix=club.coverageMatrix||[];
+  for(const cell of matrix){
+    const tr=document.createElement('tr');
+    const entries=[
+      cell.age,cell.division,
+      cell.observedTeams.length?cell.observedTeams.join(', '):'None in verified dataset',
+      cell.expectedActiveTeams===null?'Not yet verified':
+        cell.expectedActiveTeams.length?cell.expectedActiveTeams.join(', '):'Verified no active entries',
+      cell.status==='complete'?'Verified':'Unresolved',
+      cell.issues.map(x=>x.type+(x.team?': '+x.team:'')+(x.resolved?' (resolved)':'')).join('; ') || '—'
+    ];
+    for(let i=0;i<entries.length;i++){
+      const td=document.createElement('td');td.textContent=entries[i];
+      if(i===4)td.className=cell.status==='complete'?'good':'warn';
+      if(i===5&&!cell.reviewed)td.title='No source-verified expected active roster yet';
+      tr.append(td);
+    }
+    const sourceCell=document.createElement('td');
+    if(cell.evidence?.url){
+      const a=document.createElement('a');a.href=cell.evidence.url;
+      a.textContent='Reviewed '+cell.evidence.checkedDate;
+      a.target='_blank';a.rel='noopener noreferrer';sourceCell.append(a);
+    }else sourceCell.textContent='Not reviewed';
+    tr.append(sourceCell);
+    fragment.append(tr);
+  }
+  body.replaceChildren(fragment);
+  $('coverageCount').textContent=club.coverageReviewedCells+' of '+
+    club.coverageCells+' club/division slots independently reviewed. '+
+    (club.coverageComplete?'Every expected active team accounted for.':
+      'Unresolved slots and discrepancies keep the ranking provisional.');
+}
 function renderProfile(){
   const slug=query.get('club');
   const club=dataset.clubs.find(c=>c.slug===slug);
@@ -133,8 +168,9 @@ function renderProfile(){
   $('clubHeading').textContent=club.name;
   $('clubSubheading').textContent=club.includedTeams+' verified teams of '+club.approvedTeams+' approved entries · '+(club.coverage==='complete'?'Complete coverage':'Incomplete coverage');
   if(club.coverage!=='complete'){
-    notice('Coverage not confirmed: '+club.includedTeams+' verified teams against '+club.approvedTeams+' approved entries. All aggregates and provisional rankings use only verified data; missing results are not zeros.');
+    notice('Coverage not confirmed: only '+club.coverageReviewedCells+' of '+club.coverageCells+' club/division slots have documented expected active rosters. '+club.includedTeams+' verified teams are included against '+club.approvedTeams+' approved entries. Rankings remain provisional; missing results are not zeros.');
   }
+  showCoverageMatrix(club);
   const t=club.totals;
   const stats=[
     ['Teams',club.includedTeams+' / '+club.approvedTeams],
@@ -167,6 +203,9 @@ async function init(){
     if(dataset.season!=='2026–27'||!Array.isArray(dataset.clubs)||
        !Number.isInteger(dataset.verifiedDivisions)||dataset.verifiedDivisions<1)
       throw new Error('Club data failed verification');
+    if(dataset.coverageAudit&&dataset.coverageAudit.reviewedCells===0){
+      notice('Club rankings are provisional pending independent age-by-division roster verification. Aggregate approved totals do not establish complete coverage.');
+    }
     if(dataset.missingDivisions.length){
       notice('Some division data is unavailable: '+dataset.missingDivisions.join(', ')+'. Rankings are provisional where coverage is incomplete.');
     }
