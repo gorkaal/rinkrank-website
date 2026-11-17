@@ -34,14 +34,111 @@ html{scroll-behavior:smooth}
 }
 @media(max-width:400px){.navLinks{gap:8px}.navLinks a{font-size:12px}.brand{font-size:20px}}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+/* Theme B · Modern Scorebook: compact, light, data-first, no dependencies. */
+:root{color-scheme:light;--bg:#F5F7FA;--panel:#FFFFFF;--muted:#526174;--line:#DAE2EB;--fg:#172B40;--accent:#1763B7;--blue:#1763B7}
+body{background:#F5F7FA;color:var(--fg);font:14px/1.45 system-ui,-apple-system,"Segoe UI",sans-serif}
+.wrap{max-width:1380px;padding:18px 24px 55px}
+nav{padding:8px 0 15px;border-bottom:1px solid #DAE2EB}
+.brand{color:#172B40;font-size:24px;letter-spacing:-.05em}
+.brand span{color:#1763B7}
+.navLinks a{color:#3D5066;font-weight:650}
+.navLinks a:hover,.navLinks a:focus-visible{color:#1763B7}
+.hero{padding:20px 0 4px}
+.kicker{color:#1763B7;font-size:10px;letter-spacing:.12em}
+h1{font-size:clamp(26px,3.4vw,36px);letter-spacing:-.045em;line-height:1.15;margin:6px 0}
+h1 em{color:#1763B7}
+.intro{max-width:none;color:#526174;font-size:13px}
+.divisionToolbar{margin:14px 0 2px;gap:9px}
+.divisionToolbar label{font-size:12px;color:#526174}
+.divisionToolbar select{background:#fff;color:#172B40;border:1px solid #B5C4D4;min-height:42px;min-width:140px;padding:8px 12px}
+.divisionStep{background:#fff;color:#1763B7;border:1px solid #B5C4D4;min-height:42px;padding:8px 12px;font-weight:650}
+.divisionStep:hover:not(:disabled){border-color:#1763B7;background:#EDF5FF}
+.divisionToolbar select:focus-visible,.divisionStep:focus-visible{outline:2px solid #1763B7}
+.panel{border:1px solid #DAE2EB;background:#fff;border-radius:12px;margin:12px 0;box-shadow:0 2px 7px rgba(14,40,64,.035)}
+.panelHead{padding:15px 18px 10px}
+.panelHead h2{font-size:18px;color:#172B40}
+.panelHead p{font-size:12px;color:#526174}
+thead{background:#ECF1F6}
+th{color:#3C5066;border-bottom:1px solid #D5DFEA;letter-spacing:.035em;font-size:10px;font-weight:750}
+td{color:#172B40;border-top:1px solid #E5EBF2}
+tbody tr:nth-child(even){background:#F9FBFD}
+tr:hover td{background:#EAF2FB}
+.sortHeader:hover,.sortHeader:focus-visible{color:#1763B7}
+.sortArrow{color:#1763B7}
+.combinedTable{min-width:980px;font-variant-numeric:tabular-nums}
+.combinedTable .leagueHeading{color:#365B7D}
+.combinedTable .powerHeading{color:#1763B7}
+.combinedTable .rank{color:#172B40;font-size:15px}
+.teamLink{color:#172B40;border-bottom:1px solid #B5CBDC;font-weight:700}
+.teamLink:hover,.teamLink:focus-visible{color:#1763B7;border-color:#1763B7}
+.positive{color:#187A50;font-weight:700}
+.negative{color:#B23E3E;font-weight:700}
+.rankDifference{display:block;font-size:10px;font-weight:650;line-height:1.15;margin-top:3px;white-space:nowrap}
+.rankDifference.better{color:#187A50}.rankDifference.lower{color:#AD4A3F}.rankDifference.even{color:#627386}
+.momentumCell{font-variant-numeric:tabular-nums;font-weight:750}
+.helpText{color:#526174;margin:10px 18px 15px}
+.freshnessSummary{font-size:12px;color:#526174;margin:9px 0}
+.status{background:#E9F5EF;border:1px solid #BEDDCE;color:#165939;margin:0 0 12px;font-size:12px}
+.status.warn{background:#FFF6E5;color:#79521F;border-color:#EBCB83}
+.metrics{grid-template-columns:repeat(4,minmax(0,1fr));gap:8px;margin:10px 0 22px}
+.metric{background:#fff;border:1px solid #DAE2EB;padding:12px 15px;border-radius:9px}
+.metric strong{color:#172B40;font-size:20px}
+.metric small{color:#526174;font-size:11px}
+.methodContent{color:#2E4256}
+.methodContent strong{color:#172B40}
+.methodQuick > div{background:#F7FAFD;border-color:#DAE2EB}
+.methodQuick strong{color:#1763B7}
+.footer{color:#526174}
+a{color:#1763B7}
+.skipLink{background:#1763B7;color:#fff}
+.tableScroll{scrollbar-color:#B0C2D4 #F5F7FA}
+.combinedTable th:first-child,.combinedTable td:first-child{background:#fff;box-shadow:2px 0 0 #DAE2EB}
+.combinedTable thead th:first-child{background:#ECF1F6}
+.combinedTable tbody tr:nth-child(even) td:first-child{background:#F9FBFD}
+.combinedTable tbody tr:hover td:first-child{background:#EAF2FB}
+@media(max-width:750px){
+ .wrap{padding:10px 10px 36px}.hero{padding:13px 0 2px}
+ nav{padding:8px 2px 12px}.brand{font-size:21px}
+ .divisionToolbar{display:grid;grid-template-columns:1fr 1fr;gap:6px 8px}
+ .divisionToolbar label{width:auto;margin:0;align-self:end}
+ .divisionToolbar label[for="ageSelect"]{grid-column:1;grid-row:1}
+ #ageSelect{grid-column:1;grid-row:2}
+ .divisionToolbar label[for="divisionSelect"]{grid-column:2;grid-row:1}
+ #divisionSelect{grid-column:2;grid-row:2}
+ .divisionStep{grid-row:3;min-height:40px}
+ .combinedTable{min-width:980px}
+ .combinedTable th,.combinedTable td{padding:10px 7px}
+ .combinedTable th:first-child,.combinedTable td:first-child{position:sticky;left:0;width:148px;min-width:148px;max-width:148px;z-index:3}
+ .combinedTable th:nth-child(2),.combinedTable td:nth-child(2){position:sticky;left:148px;width:65px;min-width:65px;max-width:65px;z-index:3;background:#fff;box-shadow:1px 0 0 #DAE2EB}
+ .combinedTable th:nth-child(3),.combinedTable td:nth-child(3){position:sticky;left:213px;width:84px;min-width:84px;max-width:84px;z-index:3;background:#fff;box-shadow:2px 0 0 #DAE2EB}
+ .combinedTable thead th:nth-child(2),.combinedTable thead th:nth-child(3){background:#ECF1F6;z-index:4}
+ .combinedTable tbody tr:nth-child(even) td:nth-child(-n+3){background:#F9FBFD}
+ .combinedTable tbody tr:hover td:nth-child(-n+3){background:#EAF2FB}
+ .combinedTable .teamCell{min-width:148px;max-width:148px;white-space:normal;overflow-wrap:anywhere}
+ .rankDifference{font-size:9px;white-space:normal}
+ .panelHead{padding:12px 12px 8px}
+ .panelHead h2{font-size:16px}
+ .panelHead p{font-size:11px}
+ .helpText{margin:9px 12px 12px}
+ .metrics{grid-template-columns:repeat(2,minmax(0,1fr))}
+ .metric{padding:9px 11px}
+ .metric strong{font-size:18px}
+}
+@media(max-width:365px){
+ .combinedTable th:first-child,.combinedTable td:first-child{width:125px;min-width:125px;max-width:125px}
+ .combinedTable th:nth-child(2),.combinedTable td:nth-child(2){left:125px}
+ .combinedTable th:nth-child(3),.combinedTable td:nth-child(3){left:190px}
+ .combinedTable .teamCell{min-width:125px;max-width:125px}
+}
 </style></head><body><main class="wrap">
 <a class="skipLink" href="#rankings">Skip to rankings</a>
 <nav><div class="brand">Puck<span>Ladder</span></div><div class="navLinks"><a href="#rankings">Rankings</a><a href="#methodTitle">Methodology</a></div></nav>
-<header class="hero"><div class="kicker">GTHL · 2026–27 season</div><h1><span id="ageLabel">U10</span> <span id="divisionLabel">A East</span> <em>Power Rankings</em></h1><p class="tagline">Youth Hockey Power Rankings - See where your team stands</p><p class="intro">Opponent-adjusted power ratings and verified league standings in one place. Select a team to see its full season results.</p><div class="divisionToolbar"><label for="ageSelect">Age group</label><select id="ageSelect" aria-label="Choose age group"><option value="U10">U10</option><option value="U11">U11</option><option value="U12">U12</option><option value="U13">U13</option><option value="U14">U14</option><option value="U15">U15</option><option value="U16">U16</option><option value="U17">U17</option><option value="U18">U18</option></select><label for="divisionSelect">Division</label><select id="divisionSelect" aria-label="Choose division"><option value="a-east">A East</option><option value="a-west">A West</option><option value="aa-east">AA East</option><option value="aa-west">AA West</option><option value="aaa">AAA</option></select><button id="prevDivision" type="button" class="divisionStep" aria-label="Previous division">‹ Previous</button><button id="nextDivision" type="button" class="divisionStep" aria-label="Next division">Next ›</button></div></header>
-<div class="metrics"><div class="metric"><strong id="teams">—</strong><small>Teams</small></div><div class="metric"><strong id="games">—</strong><small>Completed games</small></div><div class="metric"><strong id="newGames">—</strong><small>New results in last update</small></div><div class="metric"><strong id="updated">—</strong><small>Games checked through (Toronto)</small></div></div>
+<header class="hero"><div class="kicker">GTHL · 2026–27 season</div><h1><span id="ageLabel">U10</span> <span id="divisionLabel">A East</span> <em>Rankings</em></h1><p class="intro">GTHL standings and independent opponent-adjusted power ratings · 2026–27</p><div class="divisionToolbar"><label for="ageSelect">Age group</label><select id="ageSelect" aria-label="Choose age group"><option value="U10">U10</option><option value="U11">U11</option><option value="U12">U12</option><option value="U13">U13</option><option value="U14">U14</option><option value="U15">U15</option><option value="U16">U16</option><option value="U17">U17</option><option value="U18">U18</option></select><label for="divisionSelect">Division</label><select id="divisionSelect" aria-label="Choose division"><option value="a-east">A East</option><option value="a-west">A West</option><option value="aa-east">AA East</option><option value="aa-west">AA West</option><option value="aaa">AAA</option></select><button id="prevDivision" type="button" class="divisionStep" aria-label="Previous division">‹ Previous</button><button id="nextDivision" type="button" class="divisionStep" aria-label="Next division">Next ›</button></div></header>
+
 <section class="panel" id="rankings">
   <div class="panelHead">
-    <div><h2>Power rankings &amp; GTHL league standings</h2><p>League Rank and league statistics come from GTHL standings. Power Rank, Power Rating and Momentum are independent PuckLadder calculations.</p></div>
+    <div><h2>Division standings &amp; power rankings</h2><p>League Rank comes from GTHL · Power Rank and ratings are independently calculated</p></div>
   </div>
   <div class="tableScroll" role="region" aria-label="Scrollable rankings table" tabindex="0">
     <table class="combinedTable">
@@ -62,10 +159,11 @@ html{scroll-behavior:smooth}
       <tbody id="rankBody"><tr><td colspan="12" class="loading">Loading verified rankings and standings...</td></tr></tbody>
     </table>
   </div>
-  <p class="helpText">Click a column heading to sort; click it again to reverse the order. Click a team name for its completed games. On smaller screens, swipe horizontally to see all columns; team names stay visible.</p>
+  <p class="helpText">Select a column heading to sort. Rank difference compares Power Rank with League Rank — it is not a change over time. Momentum is a four-game rating, not rank movement. On phones, swipe to view additional statistics.</p>
 </section>
 <p id="lastUpdated" class="freshnessSummary" aria-live="polite">Last verified update: checking…</p>
 <div id="status" class="status warn">Loading verified snapshot...</div>
+<div class="metrics"><div class="metric"><strong id="teams">—</strong><small>Teams</small></div><div class="metric"><strong id="games">—</strong><small>Completed games</small></div><div class="metric"><strong id="newGames">—</strong><small>New results in last update</small></div><div class="metric"><strong id="updated">—</strong><small>Games checked through (Toronto)</small></div></div>
 <section class="panel" aria-labelledby="methodTitle">
 <div class="panelHead"><div><h2 id="methodTitle">How PuckLadder power rankings are calculated</h2><p>Independent ratings based on completed GTHL league games</p></div></div>
 <div class="methodContent">
@@ -262,10 +360,17 @@ function render(){
     link.setAttribute('aria-label','View '+rank.team+' game results');
     teamCell.appendChild(link);row.appendChild(teamCell);
     td(row,standing.leagueRank,'rank');
-    td(row,rank.rank,'rank');
+    const rankCell=td(row,rank.rank,'rank powerRankCell');
+    const delta=standing.leagueRank-Number(rank.rank);
+    const indicator=document.createElement('small');
+    indicator.className='rankDifference '+(delta>0?'better':delta<0?'lower':'even');
+    indicator.textContent=delta>0?'▲ '+delta+' vs league':delta<0?'▼ '+Math.abs(delta)+' vs league':'= league';
+    indicator.setAttribute('aria-label',delta>0?'Power Rank is '+delta+' places higher than League Rank':delta<0?'Power Rank is '+Math.abs(delta)+' places lower than League Rank':'Power Rank matches League Rank');
+    rankCell.appendChild(indicator);
     const power=Number(rank.power_rating),momentum=Number(rank.momentum_rating);
-    td(row,power.toFixed(2),power>=0?'positive':'negative');
-    td(row,momentum.toFixed(2),momentum>=0?'positive':'negative');
+    td(row,(power>0?'+':'')+power.toFixed(2),power>=0?'positive':'negative');
+    const momentumCell=td(row,(momentum>0?'+':'')+momentum.toFixed(2),'momentumCell '+(momentum>=0?'positive':'negative'));
+    momentumCell.setAttribute('aria-label','Four-game opponent-adjusted Momentum rating '+(momentum>0?'plus ':'')+momentum.toFixed(2)+'. Not a ranking change.');
     for(const key of ['gp','w','l','t','gf','ga','pts'])td(row,standing[key]);
     fragment.appendChild(row);
   }
