@@ -3,94 +3,94 @@
   "division": "GTHL U10 AA East",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 55,
+  "game_count": 56,
   "team_count": 12,
   "rankings": [
     {
       "rank": "1",
       "team": "North Toronto",
-      "power_rating": "4.2458",
-      "momentum_rating": "2.2379",
+      "power_rating": "4.2457",
+      "momentum_rating": "2.3141",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Ted Reeve Thunder",
-      "power_rating": "3.3254",
-      "momentum_rating": "3.4832",
+      "power_rating": "3.306",
+      "momentum_rating": "3.5122",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Goulding Park Rangers",
-      "power_rating": "1.9803",
-      "momentum_rating": "1.6622",
+      "power_rating": "1.9785",
+      "momentum_rating": "1.6904",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "North York Knights",
-      "power_rating": "1.5448",
-      "momentum_rating": "1.5518",
+      "power_rating": "1.5446",
+      "momentum_rating": "1.5934",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Avenue Road Ducks",
-      "power_rating": "1.3544",
-      "momentum_rating": "1.8947",
+      "power_rating": "1.3736",
+      "momentum_rating": "1.9082",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "Leaside Flames",
-      "power_rating": "0.6477",
-      "momentum_rating": "1.7935",
-      "games_played": "9",
+      "power_rating": "0.8394",
+      "momentum_rating": "1.4754",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Scarborough Young Bruins",
-      "power_rating": "-1.0892",
-      "momentum_rating": "-1.567",
-      "games_played": "9",
+      "power_rating": "-1.281",
+      "momentum_rating": "-1.3444",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "Markham Islanders",
-      "power_rating": "-1.8025",
-      "momentum_rating": "-2.2557",
+      "power_rating": "-1.8199",
+      "momentum_rating": "-2.2522",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "9",
       "team": "West Hill Golden Hawks",
-      "power_rating": "-1.8226",
-      "momentum_rating": "-1.5072",
+      "power_rating": "-1.8224",
+      "momentum_rating": "-1.5867",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "10",
       "team": "Scarborough Ice Raiders",
-      "power_rating": "-2.4625",
-      "momentum_rating": "-2.1507",
+      "power_rating": "-2.4433",
+      "momentum_rating": "-2.1432",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "11",
       "team": "Toronto Aeros",
-      "power_rating": "-2.6354",
-      "momentum_rating": "-2.3904",
+      "power_rating": "-2.635",
+      "momentum_rating": "-2.427",
       "games_played": "9",
       "rank_change": 0
     },
@@ -98,7 +98,7 @@
       "rank": "12",
       "team": "Forest Hill",
       "power_rating": "-3.2863",
-      "momentum_rating": "-2.7523",
+      "momentum_rating": "-2.7403",
       "games_played": "9",
       "rank_change": 0
     }
@@ -156,22 +156,22 @@
     },
     {
       "team": "Leaside Flames",
-      "gp": "9",
-      "w": "4",
+      "gp": "10",
+      "w": "5",
       "l": "3",
       "t": "2",
-      "gf": "37",
-      "ga": "25",
-      "pts": "10"
+      "gf": "42",
+      "ga": "26",
+      "pts": "12"
     },
     {
       "team": "Scarborough Young Bruins",
-      "gp": "9",
+      "gp": "10",
       "w": "4",
-      "l": "5",
+      "l": "6",
       "t": "0",
-      "gf": "22",
-      "ga": "39",
+      "gf": "23",
+      "ga": "44",
       "pts": "8"
     },
     {
@@ -720,10 +720,19 @@
       "home_score": "0",
       "arena": "Chesswood 1",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "Leaside Flames",
+      "away_score": "5",
+      "home": "Scarborough Young Bruins",
+      "home_score": "1",
+      "arena": "Scarborough Gardens",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 1,
     "changed": 0,
     "removed": 0
   },
