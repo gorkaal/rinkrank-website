@@ -60,7 +60,7 @@
       "power_rating": "-0.0979",
       "momentum_rating": "0.3037",
       "games_played": "10",
-      "rank_change": 1
+      "rank_change": 0
     },
     {
       "rank": "8",
@@ -68,7 +68,7 @@
       "power_rating": "-0.1796",
       "momentum_rating": "-0.0157",
       "games_played": "9",
-      "rank_change": -1
+      "rank_change": 0
     },
     {
       "rank": "9",
@@ -84,7 +84,7 @@
       "power_rating": "-2.5874",
       "momentum_rating": "-2.5064",
       "games_played": "9",
-      "rank_change": 1
+      "rank_change": 0
     },
     {
       "rank": "11",
@@ -92,7 +92,7 @@
       "power_rating": "-2.6259",
       "momentum_rating": "-2.3729",
       "games_played": "11",
-      "rank_change": -1
+      "rank_change": 0
     },
     {
       "rank": "12",
@@ -732,7 +732,7 @@
     }
   ],
   "changes": {
-    "added": 2,
+    "added": 0,
     "changed": 0,
     "removed": 0
   },
