@@ -93,31 +93,31 @@
     },
     "u13-a-east": {
       "as_of_toronto": "2026-11-16",
-      "collected_at_utc": "2026-11-16T21:56:34+00:00",
+      "collected_at_utc": "2026-11-17T00:39:04+00:00",
       "team_count": 13,
       "game_count": 64
     },
     "u13-a-west": {
       "as_of_toronto": "2026-11-16",
-      "collected_at_utc": "2026-11-16T21:57:36+00:00",
+      "collected_at_utc": "2026-11-17T00:40:05+00:00",
       "team_count": 12,
       "game_count": 50
     },
     "u13-aa-east": {
       "as_of_toronto": "2026-11-16",
-      "collected_at_utc": "2026-11-16T21:58:31+00:00",
+      "collected_at_utc": "2026-11-17T00:41:00+00:00",
       "team_count": 10,
       "game_count": 47
     },
     "u13-aa-west": {
       "as_of_toronto": "2026-11-16",
-      "collected_at_utc": "2026-11-16T21:59:30+00:00",
+      "collected_at_utc": "2026-11-17T00:41:59+00:00",
       "team_count": 11,
       "game_count": 47
     },
     "u13-aaa": {
       "as_of_toronto": "2026-11-16",
-      "collected_at_utc": "2026-11-16T22:00:28+00:00",
+      "collected_at_utc": "2026-11-17T00:42:56+00:00",
       "team_count": 12,
       "game_count": 63
     },
