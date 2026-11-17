@@ -1,112 +1,112 @@
 {
-  "as_of_toronto": "2026-11-16",
+  "as_of_toronto": "2026-11-17",
   "division": "GTHL U12 A East",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 64,
+  "game_count": 65,
   "team_count": 13,
   "rankings": [
     {
       "rank": "1",
       "team": "Forest Hill",
-      "power_rating": "4.3845",
-      "momentum_rating": "4.3011",
+      "power_rating": "4.3821",
+      "momentum_rating": "4.4396",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Leaside Flames",
-      "power_rating": "2.3018",
-      "momentum_rating": "3.3015",
+      "power_rating": "2.3257",
+      "momentum_rating": "3.4576",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Scarborough Ice Raiders",
-      "power_rating": "2.0002",
-      "momentum_rating": "1.1558",
+      "power_rating": "2.0063",
+      "momentum_rating": "0.9809",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "Ted Reeve Thunder",
-      "power_rating": "1.5361",
-      "momentum_rating": "0.0641",
+      "power_rating": "1.501",
+      "momentum_rating": "-0.1769",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "West Hill Golden Hawks",
-      "power_rating": "0.9472",
-      "momentum_rating": "1.0845",
+      "power_rating": "0.9599",
+      "momentum_rating": "1.0368",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "6",
-      "team": "Toronto Aeros",
-      "power_rating": "0.4439",
-      "momentum_rating": "-0.43",
-      "games_played": "10",
-      "rank_change": 0
+      "team": "North Toronto Green",
+      "power_rating": "0.5315",
+      "momentum_rating": "0.5113",
+      "games_played": "12",
+      "rank_change": 1
     },
     {
       "rank": "7",
-      "team": "North Toronto Green",
-      "power_rating": "0.372",
-      "momentum_rating": "-0.1955",
-      "games_played": "11",
-      "rank_change": 0
+      "team": "Toronto Aeros",
+      "power_rating": "0.4616",
+      "momentum_rating": "-0.2773",
+      "games_played": "10",
+      "rank_change": -1
     },
     {
       "rank": "8",
       "team": "North York Knights",
-      "power_rating": "-0.4536",
-      "momentum_rating": "0.1015",
+      "power_rating": "-0.4527",
+      "momentum_rating": "0.2576",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "9",
       "team": "East Enders Ticats",
-      "power_rating": "-0.9825",
-      "momentum_rating": "-1.0412",
+      "power_rating": "-0.965",
+      "momentum_rating": "-1.0848",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "10",
       "team": "North Toronto",
-      "power_rating": "-1.0106",
-      "momentum_rating": "0.2769",
+      "power_rating": "-1.0048",
+      "momentum_rating": "0.1434",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "11",
       "team": "York Mills",
-      "power_rating": "-2.2297",
-      "momentum_rating": "-1.8931",
+      "power_rating": "-2.2095",
+      "momentum_rating": "-1.7472",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "12",
       "team": "Avenue Road Ducks",
-      "power_rating": "-3.3867",
-      "momentum_rating": "-3.658",
-      "games_played": "9",
+      "power_rating": "-3.5897",
+      "momentum_rating": "-4.2689",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "13",
       "team": "Markham Islanders",
-      "power_rating": "-3.9224",
-      "momentum_rating": "-3.0675",
+      "power_rating": "-3.9464",
+      "momentum_rating": "-3.272",
       "games_played": "9",
       "rank_change": 0
     }
@@ -153,6 +153,16 @@
       "pts": "13"
     },
     {
+      "team": "North Toronto Green",
+      "gp": "12",
+      "w": "6",
+      "l": "6",
+      "t": "0",
+      "gf": "51",
+      "ga": "33",
+      "pts": "12"
+    },
+    {
       "team": "East Enders Ticats",
       "gp": "11",
       "w": "5",
@@ -170,16 +180,6 @@
       "t": "2",
       "gf": "31",
       "ga": "27",
-      "pts": "10"
-    },
-    {
-      "team": "North Toronto Green",
-      "gp": "11",
-      "w": "5",
-      "l": "6",
-      "t": "0",
-      "gf": "42",
-      "ga": "31",
       "pts": "10"
     },
     {
@@ -223,16 +223,6 @@
       "pts": "4"
     },
     {
-      "team": "Avenue Road Ducks",
-      "gp": "9",
-      "w": "0",
-      "l": "7",
-      "t": "2",
-      "gf": "19",
-      "ga": "52",
-      "pts": "2"
-    },
-    {
       "team": "Markham Islanders",
       "gp": "9",
       "w": "0",
@@ -240,6 +230,16 @@
       "t": "2",
       "gf": "8",
       "ga": "52",
+      "pts": "2"
+    },
+    {
+      "team": "Avenue Road Ducks",
+      "gp": "10",
+      "w": "0",
+      "l": "8",
+      "t": "2",
+      "gf": "21",
+      "ga": "61",
       "pts": "2"
     }
   ],
@@ -819,10 +819,19 @@
       "home_score": "4",
       "arena": "St. Michaels",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "Avenue Road Ducks",
+      "away_score": "2",
+      "home": "North Toronto Green",
+      "home_score": "9",
+      "arena": "North Toronto",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 1,
     "changed": 0,
     "removed": 0
   },
