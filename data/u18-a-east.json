@@ -1,126 +1,126 @@
 {
-  "as_of_toronto": "2026-11-16",
+  "as_of_toronto": "2026-11-17",
   "division": "GTHL U18 A East",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 39,
+  "game_count": 42,
   "team_count": 8,
   "rankings": [
     {
       "rank": "1",
       "team": "North Toronto",
-      "power_rating": "2.5417",
-      "momentum_rating": "3.3844",
-      "games_played": "9",
+      "power_rating": "2.2806",
+      "momentum_rating": "2.7155",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Forest Hill",
-      "power_rating": "1.7238",
-      "momentum_rating": "1.2219",
-      "games_played": "10",
+      "power_rating": "1.9341",
+      "momentum_rating": "2.9031",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Avenue Road Ducks",
-      "power_rating": "1.2538",
-      "momentum_rating": "0.1762",
-      "games_played": "8",
+      "power_rating": "1.5456",
+      "momentum_rating": "0.8451",
+      "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "Victoria Village Mustangs",
-      "power_rating": "1.2162",
-      "momentum_rating": "2.9705",
-      "games_played": "10",
+      "power_rating": "1.0095",
+      "momentum_rating": "1.6546",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Scarborough Ice Raiders",
-      "power_rating": "-0.406",
-      "momentum_rating": "-1.4565",
-      "games_played": "9",
+      "power_rating": "-0.4682",
+      "momentum_rating": "-1.4881",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "York Mills",
-      "power_rating": "-1.4693",
-      "momentum_rating": "-1.8295",
+      "power_rating": "-1.5095",
+      "momentum_rating": "-2.0496",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Ted Reeve Thunder",
-      "power_rating": "-1.6976",
-      "momentum_rating": "-1.6659",
+      "power_rating": "-1.6985",
+      "momentum_rating": "-1.9047",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "Leaside Flames",
-      "power_rating": "-3.1625",
-      "momentum_rating": "-2.801",
-      "games_played": "11",
+      "power_rating": "-3.0936",
+      "momentum_rating": "-2.6759",
+      "games_played": "12",
       "rank_change": 0
     }
   ],
   "standings": [
     {
+      "team": "Forest Hill",
+      "gp": "11",
+      "w": "9",
+      "l": "2",
+      "t": "0",
+      "gf": "51",
+      "ga": "24",
+      "pts": "18"
+    },
+    {
       "team": "North Toronto",
-      "gp": "9",
+      "gp": "10",
       "w": "8",
-      "l": "0",
+      "l": "1",
       "t": "1",
-      "gf": "55",
-      "ga": "14",
+      "gf": "57",
+      "ga": "18",
       "pts": "17"
     },
     {
-      "team": "Forest Hill",
-      "gp": "10",
-      "w": "8",
-      "l": "2",
-      "t": "0",
-      "gf": "47",
-      "ga": "22",
-      "pts": "16"
-    },
-    {
       "team": "Avenue Road Ducks",
-      "gp": "8",
-      "w": "5",
+      "gp": "9",
+      "w": "6",
       "l": "2",
-      "t": "1",
-      "gf": "41",
-      "ga": "24",
-      "pts": "11"
-    },
-    {
-      "team": "Victoria Village Mustangs",
-      "gp": "10",
-      "w": "5",
-      "l": "4",
       "t": "1",
       "gf": "45",
-      "ga": "28",
-      "pts": "11"
+      "ga": "25",
+      "pts": "13"
     },
     {
       "team": "Scarborough Ice Raiders",
-      "gp": "9",
-      "w": "4",
+      "gp": "10",
+      "w": "5",
       "l": "3",
       "t": "2",
-      "gf": "24",
+      "gf": "28",
+      "ga": "34",
+      "pts": "12"
+    },
+    {
+      "team": "Victoria Village Mustangs",
+      "gp": "11",
+      "w": "5",
+      "l": "5",
+      "t": "1",
+      "gf": "46",
       "ga": "32",
-      "pts": "10"
+      "pts": "11"
     },
     {
       "team": "York Mills",
@@ -144,12 +144,12 @@
     },
     {
       "team": "Leaside Flames",
-      "gp": "11",
+      "gp": "12",
       "w": "0",
-      "l": "10",
+      "l": "11",
       "t": "1",
-      "gf": "14",
-      "ga": "67",
+      "gf": "16",
+      "ga": "71",
       "pts": "1"
     }
   ],
@@ -504,10 +504,37 @@
       "home_score": "5",
       "arena": "Don Mills Arena",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "Avenue Road Ducks",
+      "away_score": "4",
+      "home": "Victoria Village Mustangs",
+      "home_score": "1",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "Forest Hill",
+      "away_score": "4",
+      "home": "North Toronto",
+      "home_score": "2",
+      "arena": "North Toronto",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "Leaside Flames",
+      "away_score": "2",
+      "home": "Scarborough Ice Raiders",
+      "home_score": "4",
+      "arena": "Don Montgomery 2",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 3,
     "changed": 0,
     "removed": 0
   },

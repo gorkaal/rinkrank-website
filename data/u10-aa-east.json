@@ -1,104 +1,104 @@
 {
-  "as_of_toronto": "2026-11-16",
+  "as_of_toronto": "2026-11-17",
   "division": "GTHL U10 AA East",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 56,
+  "game_count": 58,
   "team_count": 12,
   "rankings": [
     {
       "rank": "1",
       "team": "North Toronto",
-      "power_rating": "4.2457",
-      "momentum_rating": "2.3141",
+      "power_rating": "4.247",
+      "momentum_rating": "2.1874",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Ted Reeve Thunder",
-      "power_rating": "3.306",
-      "momentum_rating": "3.5122",
+      "power_rating": "3.308",
+      "momentum_rating": "3.8564",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Goulding Park Rangers",
-      "power_rating": "1.9785",
-      "momentum_rating": "1.6904",
+      "power_rating": "1.9798",
+      "momentum_rating": "1.8341",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "4",
-      "team": "North York Knights",
-      "power_rating": "1.5446",
-      "momentum_rating": "1.5934",
-      "games_played": "9",
-      "rank_change": 0
+      "team": "Avenue Road Ducks",
+      "power_rating": "1.4821",
+      "momentum_rating": "2.6564",
+      "games_played": "10",
+      "rank_change": 1
     },
     {
       "rank": "5",
-      "team": "Avenue Road Ducks",
-      "power_rating": "1.3736",
-      "momentum_rating": "1.9082",
-      "games_played": "9",
-      "rank_change": 0
+      "team": "North York Knights",
+      "power_rating": "1.4488",
+      "momentum_rating": "1.7226",
+      "games_played": "10",
+      "rank_change": -1
     },
     {
       "rank": "6",
       "team": "Leaside Flames",
-      "power_rating": "0.8394",
-      "momentum_rating": "1.4754",
+      "power_rating": "0.8479",
+      "momentum_rating": "1.4297",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Scarborough Young Bruins",
-      "power_rating": "-1.281",
-      "momentum_rating": "-1.3444",
+      "power_rating": "-1.3028",
+      "momentum_rating": "-1.3751",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "8",
-      "team": "Markham Islanders",
-      "power_rating": "-1.8199",
-      "momentum_rating": "-2.2522",
-      "games_played": "10",
-      "rank_change": 0
+      "team": "West Hill Golden Hawks",
+      "power_rating": "-1.8227",
+      "momentum_rating": "-1.7887",
+      "games_played": "9",
+      "rank_change": 1
     },
     {
       "rank": "9",
-      "team": "West Hill Golden Hawks",
-      "power_rating": "-1.8224",
-      "momentum_rating": "-1.5867",
-      "games_played": "9",
-      "rank_change": 0
+      "team": "Markham Islanders",
+      "power_rating": "-1.9372",
+      "momentum_rating": "-3.1386",
+      "games_played": "11",
+      "rank_change": -1
     },
     {
       "rank": "10",
       "team": "Scarborough Ice Raiders",
-      "power_rating": "-2.4433",
-      "momentum_rating": "-2.1432",
-      "games_played": "9",
+      "power_rating": "-2.3031",
+      "momentum_rating": "-2.0271",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "11",
       "team": "Toronto Aeros",
-      "power_rating": "-2.635",
-      "momentum_rating": "-2.427",
+      "power_rating": "-2.6472",
+      "momentum_rating": "-2.6583",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "12",
       "team": "Forest Hill",
-      "power_rating": "-3.2863",
-      "momentum_rating": "-2.7403",
+      "power_rating": "-3.3005",
+      "momentum_rating": "-2.6989",
       "games_played": "9",
       "rank_change": 0
     }
@@ -125,24 +125,14 @@
       "pts": "15"
     },
     {
-      "team": "North York Knights",
-      "gp": "9",
-      "w": "6",
-      "l": "2",
-      "t": "1",
-      "gf": "33",
-      "ga": "18",
-      "pts": "13"
-    },
-    {
       "team": "Avenue Road Ducks",
-      "gp": "9",
-      "w": "5",
+      "gp": "10",
+      "w": "6",
       "l": "1",
       "t": "3",
-      "gf": "32",
-      "ga": "18",
-      "pts": "13"
+      "gf": "34",
+      "ga": "19",
+      "pts": "15"
     },
     {
       "team": "Goulding Park Rangers",
@@ -152,6 +142,16 @@
       "t": "1",
       "gf": "48",
       "ga": "31",
+      "pts": "13"
+    },
+    {
+      "team": "North York Knights",
+      "gp": "10",
+      "w": "6",
+      "l": "3",
+      "t": "1",
+      "gf": "34",
+      "ga": "20",
       "pts": "13"
     },
     {
@@ -176,12 +176,12 @@
     },
     {
       "team": "Markham Islanders",
-      "gp": "10",
+      "gp": "11",
       "w": "3",
-      "l": "5",
+      "l": "6",
       "t": "2",
-      "gf": "22",
-      "ga": "38",
+      "gf": "23",
+      "ga": "40",
       "pts": "8"
     },
     {
@@ -195,6 +195,16 @@
       "pts": "7"
     },
     {
+      "team": "Scarborough Ice Raiders",
+      "gp": "10",
+      "w": "2",
+      "l": "7",
+      "t": "1",
+      "gf": "19",
+      "ga": "48",
+      "pts": "5"
+    },
+    {
       "team": "Toronto Aeros",
       "gp": "9",
       "w": "1",
@@ -203,16 +213,6 @@
       "gf": "16",
       "ga": "31",
       "pts": "4"
-    },
-    {
-      "team": "Scarborough Ice Raiders",
-      "gp": "9",
-      "w": "1",
-      "l": "7",
-      "t": "1",
-      "gf": "17",
-      "ga": "47",
-      "pts": "3"
     },
     {
       "team": "Forest Hill",
@@ -729,10 +729,28 @@
       "home_score": "1",
       "arena": "Scarborough Gardens",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "Markham Islanders",
+      "away_score": "1",
+      "home": "Scarborough Ice Raiders",
+      "home_score": "2",
+      "arena": "Don Montgomery 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "North York Knights",
+      "away_score": "1",
+      "home": "Avenue Road Ducks",
+      "home_score": "2",
+      "arena": "Amesbury",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 1,
+    "added": 2,
     "changed": 0,
     "removed": 0
   },
