@@ -128,7 +128,14 @@ function fillOptions(select,values){
 function showCoverageMatrix(club){
   const body=$('coverageBody');
   const fragment=document.createDocumentFragment();
-  const matrix=club.coverageMatrix||[];
+  // The wire format is sparse: every omitted club/division cell is
+  // independently UNREVIEWED, never an inferred zero or completed review.
+  const known=new Map((club.coverageMatrix||[]).map(cell=>[cell.divisionSlug,cell]));
+  const matrix=(dataset.divisionRegistry||[]).map(d=>known.get(d.slug)||{
+    divisionSlug:d.slug,age:d.age,division:d.division,observedTeams:[],
+    expectedActiveTeams:null,status:'unresolved',reviewed:false,evidence:null,
+    issues:[{type:'unresolved',detail:'Expected active roster unreviewed'}]
+  });
   for(const cell of matrix){
     const tr=document.createElement('tr');
     const entries=[
