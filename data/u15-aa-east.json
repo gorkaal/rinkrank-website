@@ -1,80 +1,80 @@
 {
-  "as_of_toronto": "2026-11-16",
+  "as_of_toronto": "2026-11-17",
   "division": "GTHL U15 AA East",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 42,
+  "game_count": 44,
   "team_count": 9,
   "rankings": [
     {
       "rank": "1",
       "team": "Leaside Flames",
       "power_rating": "1.3517",
-      "momentum_rating": "0.4213",
+      "momentum_rating": "0.6434",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Ted Reeve Thunder",
-      "power_rating": "1.2521",
-      "momentum_rating": "0.7532",
+      "power_rating": "1.2681",
+      "momentum_rating": "1.0397",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Forest Hill",
-      "power_rating": "1.0564",
-      "momentum_rating": "1.5723",
+      "power_rating": "1.0426",
+      "momentum_rating": "1.5583",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "North Toronto",
-      "power_rating": "0.6252",
-      "momentum_rating": "-0.8297",
+      "power_rating": "0.6268",
+      "momentum_rating": "-0.7516",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "5",
-      "team": "East Enders Ticats",
-      "power_rating": "-0.0278",
-      "momentum_rating": "1.634",
-      "games_played": "10",
-      "rank_change": 0
+      "team": "Scarborough Young Bruins",
+      "power_rating": "-0.0884",
+      "momentum_rating": "-0.3877",
+      "games_played": "11",
+      "rank_change": 1
     },
     {
       "rank": "6",
-      "team": "Scarborough Young Bruins",
-      "power_rating": "-0.0641",
-      "momentum_rating": "0.3357",
-      "games_played": "10",
-      "rank_change": 0
+      "team": "East Enders Ticats",
+      "power_rating": "-0.1614",
+      "momentum_rating": "0.9709",
+      "games_played": "11",
+      "rank_change": -1
     },
     {
       "rank": "7",
       "team": "Markham Islanders",
-      "power_rating": "-0.3623",
-      "momentum_rating": "-0.9063",
-      "games_played": "10",
+      "power_rating": "-0.3522",
+      "momentum_rating": "-0.9417",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "Scarborough Ice Raiders",
-      "power_rating": "-1.7748",
-      "momentum_rating": "-2.2148",
-      "games_played": "9",
+      "power_rating": "-1.6267",
+      "momentum_rating": "-1.1266",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "9",
       "team": "North York Knights",
-      "power_rating": "-2.0566",
-      "momentum_rating": "-0.766",
+      "power_rating": "-2.0606",
+      "momentum_rating": "-1.0047",
       "games_played": "10",
       "rank_change": 0
     }
@@ -102,11 +102,21 @@
     },
     {
       "team": "East Enders Ticats",
-      "gp": "10",
+      "gp": "11",
       "w": "5",
       "l": "4",
-      "t": "1",
+      "t": "2",
       "gf": "22",
+      "ga": "23",
+      "pts": "12"
+    },
+    {
+      "team": "Scarborough Young Bruins",
+      "gp": "11",
+      "w": "4",
+      "l": "4",
+      "t": "3",
+      "gf": "24",
       "ga": "23",
       "pts": "11"
     },
@@ -131,34 +141,24 @@
       "pts": "10"
     },
     {
-      "team": "Scarborough Young Bruins",
-      "gp": "10",
-      "w": "4",
+      "team": "Markham Islanders",
+      "gp": "11",
+      "w": "3",
       "l": "4",
-      "t": "2",
-      "gf": "21",
-      "ga": "20",
+      "t": "4",
+      "gf": "24",
+      "ga": "26",
       "pts": "10"
     },
     {
-      "team": "Markham Islanders",
-      "gp": "10",
-      "w": "3",
-      "l": "4",
-      "t": "3",
-      "gf": "21",
-      "ga": "23",
-      "pts": "9"
-    },
-    {
       "team": "Scarborough Ice Raiders",
-      "gp": "9",
+      "gp": "10",
       "w": "2",
       "l": "6",
-      "t": "1",
+      "t": "2",
       "gf": "9",
       "ga": "29",
-      "pts": "5"
+      "pts": "6"
     },
     {
       "team": "North York Knights",
@@ -549,10 +549,28 @@
       "home_score": "2",
       "arena": "North Toronto",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "East Enders Ticats",
+      "away_score": "0",
+      "home": "Scarborough Ice Raiders",
+      "home_score": "0",
+      "arena": "Don Montgomery 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "Markham Islanders",
+      "away_score": "3",
+      "home": "Scarborough Young Bruins",
+      "home_score": "3",
+      "arena": "Scarborough Gardens",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 2,
     "changed": 0,
     "removed": 0
   },

@@ -1,112 +1,112 @@
 {
-  "as_of_toronto": "2026-11-16",
+  "as_of_toronto": "2026-11-17",
   "division": "GTHL U15 AA West",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 44,
+  "game_count": 46,
   "team_count": 10,
   "rankings": [
     {
       "rank": "1",
       "team": "Greater Toronto Capitals",
-      "power_rating": "3.2945",
-      "momentum_rating": "3.6635",
-      "games_played": "8",
+      "power_rating": "2.8951",
+      "momentum_rating": "2.8935",
+      "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Mississauga Beast",
-      "power_rating": "2.3969",
-      "momentum_rating": "2.4444",
+      "power_rating": "2.388",
+      "momentum_rating": "2.3419",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Mississauga Terriers",
-      "power_rating": "1.1635",
-      "momentum_rating": "1.2186",
-      "games_played": "10",
+      "power_rating": "1.1342",
+      "momentum_rating": "0.4957",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "Vaughan Rangers",
-      "power_rating": "0.2973",
-      "momentum_rating": "-0.5811",
-      "games_played": "7",
+      "power_rating": "0.7468",
+      "momentum_rating": "1.5734",
+      "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Mississauga Rattlers",
-      "power_rating": "0.233",
-      "momentum_rating": "0.7239",
+      "power_rating": "0.2433",
+      "momentum_rating": "0.6935",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "Faustina Toros",
-      "power_rating": "-0.1097",
-      "momentum_rating": "-0.402",
-      "games_played": "8",
+      "power_rating": "-0.0845",
+      "momentum_rating": "-1.3008",
+      "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Toronto Eagles",
-      "power_rating": "-0.7251",
-      "momentum_rating": "-0.8833",
+      "power_rating": "-0.7703",
+      "momentum_rating": "-0.6661",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "Humber Valley Sharks",
-      "power_rating": "-1.013",
-      "momentum_rating": "-0.9512",
+      "power_rating": "-1.021",
+      "momentum_rating": "-0.5358",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "9",
       "team": "Avalanche",
-      "power_rating": "-2.2817",
-      "momentum_rating": "-0.902",
+      "power_rating": "-2.2806",
+      "momentum_rating": "-1.3008",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "10",
       "team": "Streetsville Tigers",
-      "power_rating": "-3.2557",
-      "momentum_rating": "-4.3309",
+      "power_rating": "-3.251",
+      "momentum_rating": "-4.1944",
       "games_played": "9",
       "rank_change": 0
     }
   ],
   "standings": [
     {
-      "team": "Greater Toronto Capitals",
-      "gp": "8",
-      "w": "8",
-      "l": "0",
-      "t": "0",
-      "gf": "42",
-      "ga": "3",
-      "pts": "16"
-    },
-    {
       "team": "Mississauga Terriers",
-      "gp": "10",
-      "w": "7",
+      "gp": "11",
+      "w": "8",
       "l": "2",
       "t": "1",
-      "gf": "39",
-      "ga": "22",
-      "pts": "15"
+      "gf": "44",
+      "ga": "26",
+      "pts": "17"
+    },
+    {
+      "team": "Greater Toronto Capitals",
+      "gp": "9",
+      "w": "8",
+      "l": "1",
+      "t": "0",
+      "gf": "43",
+      "ga": "5",
+      "pts": "16"
     },
     {
       "team": "Mississauga Beast",
@@ -120,13 +120,13 @@
     },
     {
       "team": "Vaughan Rangers",
-      "gp": "7",
-      "w": "4",
+      "gp": "8",
+      "w": "5",
       "l": "1",
       "t": "2",
-      "gf": "26",
-      "ga": "17",
-      "pts": "10"
+      "gf": "28",
+      "ga": "18",
+      "pts": "12"
     },
     {
       "team": "Mississauga Rattlers",
@@ -140,12 +140,12 @@
     },
     {
       "team": "Faustina Toros",
-      "gp": "8",
+      "gp": "9",
       "w": "3",
-      "l": "4",
+      "l": "5",
       "t": "1",
-      "gf": "18",
-      "ga": "21",
+      "gf": "22",
+      "ga": "26",
       "pts": "7"
     },
     {
@@ -585,10 +585,28 @@
       "home_score": "1",
       "arena": "Westwood 2",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "Greater Toronto Capitals",
+      "away_score": "1",
+      "home": "Vaughan Rangers",
+      "home_score": "2",
+      "arena": "Vaughan Sports Village C",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "Mississauga Terriers",
+      "away_score": "5",
+      "home": "Faustina Toros",
+      "home_score": "4",
+      "arena": "Pinepoint",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 2,
     "changed": 0,
     "removed": 0
   },
