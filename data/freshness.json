@@ -231,25 +231,25 @@
     },
     "u18-a-east": {
       "as_of_toronto": "2026-11-16",
-      "collected_at_utc": "2026-11-17T01:47:27+00:00",
+      "collected_at_utc": "2026-11-17T03:07:00+00:00",
       "team_count": 8,
       "game_count": 39
     },
     "u18-a-west": {
       "as_of_toronto": "2026-11-16",
-      "collected_at_utc": "2026-11-17T01:48:17+00:00",
+      "collected_at_utc": "2026-11-17T03:07:49+00:00",
       "team_count": 7,
       "game_count": 29
     },
     "u18-aa": {
       "as_of_toronto": "2026-11-16",
-      "collected_at_utc": "2026-11-17T01:49:21+00:00",
+      "collected_at_utc": "2026-11-17T03:08:50+00:00",
       "team_count": 13,
       "game_count": 65
     },
     "u18-aaa": {
       "as_of_toronto": "2026-11-16",
-      "collected_at_utc": "2026-11-17T01:50:20+00:00",
+      "collected_at_utc": "2026-11-17T03:09:48+00:00",
       "team_count": 12,
       "game_count": 65
     }
