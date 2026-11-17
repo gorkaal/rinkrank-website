@@ -183,31 +183,31 @@
     },
     "u16-a-east": {
       "as_of_toronto": "2026-11-17",
-      "collected_at_utc": "2026-11-17T12:10:15+00:00",
+      "collected_at_utc": "2026-11-17T23:11:35+00:00",
       "team_count": 11,
-      "game_count": 51
+      "game_count": 52
     },
     "u16-a-west": {
       "as_of_toronto": "2026-11-17",
-      "collected_at_utc": "2026-11-17T12:11:06+00:00",
+      "collected_at_utc": "2026-11-17T23:12:25+00:00",
       "team_count": 8,
       "game_count": 36
     },
     "u16-aa-east": {
       "as_of_toronto": "2026-11-17",
-      "collected_at_utc": "2026-11-17T12:11:54+00:00",
+      "collected_at_utc": "2026-11-17T23:13:12+00:00",
       "team_count": 7,
       "game_count": 33
     },
     "u16-aa-west": {
       "as_of_toronto": "2026-11-17",
-      "collected_at_utc": "2026-11-17T12:12:56+00:00",
+      "collected_at_utc": "2026-11-17T23:14:11+00:00",
       "team_count": 11,
       "game_count": 52
     },
     "u16-aaa": {
       "as_of_toronto": "2026-11-17",
-      "collected_at_utc": "2026-11-17T12:13:54+00:00",
+      "collected_at_utc": "2026-11-17T23:15:08+00:00",
       "team_count": 12,
       "game_count": 71
     },

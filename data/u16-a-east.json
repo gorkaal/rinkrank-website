@@ -3,94 +3,94 @@
   "division": "GTHL U16 A East",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 51,
+  "game_count": 52,
   "team_count": 11,
   "rankings": [
     {
       "rank": "1",
       "team": "Markham Islanders",
-      "power_rating": "3.1635",
-      "momentum_rating": "2.0165",
+      "power_rating": "3.1634",
+      "momentum_rating": "2.1882",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Toronto Aeros",
-      "power_rating": "2.3377",
-      "momentum_rating": "2.8486",
-      "games_played": "7",
+      "power_rating": "2.1365",
+      "momentum_rating": "1.8019",
+      "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Leaside Flames",
-      "power_rating": "1.4004",
-      "momentum_rating": "1.6568",
+      "power_rating": "1.3985",
+      "momentum_rating": "1.586",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "North Toronto",
-      "power_rating": "0.8867",
-      "momentum_rating": "1.749",
+      "power_rating": "0.8865",
+      "momentum_rating": "1.9824",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Avenue Road Ducks",
-      "power_rating": "0.5662",
-      "momentum_rating": "-0.7012",
-      "games_played": "9",
+      "power_rating": "0.7273",
+      "momentum_rating": "0.4062",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "East Enders Ticats",
-      "power_rating": "0.268",
-      "momentum_rating": "-0.5315",
+      "power_rating": "0.2883",
+      "momentum_rating": "-0.5958",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Leaside Flames Gold",
-      "power_rating": "0.2218",
-      "momentum_rating": "0.7264",
+      "power_rating": "0.2239",
+      "momentum_rating": "0.4673",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "Willowdale Hawks",
-      "power_rating": "-1.3279",
-      "momentum_rating": "-0.7826",
+      "power_rating": "-1.3282",
+      "momentum_rating": "-0.6124",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "9",
       "team": "Ted Reeve Thunder",
-      "power_rating": "-1.6222",
-      "momentum_rating": "-0.825",
+      "power_rating": "-1.6224",
+      "momentum_rating": "-1.1189",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "10",
       "team": "West Hill Golden Hawks",
-      "power_rating": "-2.5357",
-      "momentum_rating": "-2.5152",
+      "power_rating": "-2.5171",
+      "momentum_rating": "-2.392",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "11",
       "team": "Scarborough Ice Raiders",
-      "power_rating": "-3.3586",
-      "momentum_rating": "-3.6417",
+      "power_rating": "-3.3567",
+      "momentum_rating": "-3.713",
       "games_played": "9",
       "rank_change": 0
     }
@@ -127,6 +127,16 @@
       "pts": "12"
     },
     {
+      "team": "Toronto Aeros",
+      "gp": "8",
+      "w": "4",
+      "l": "1",
+      "t": "3",
+      "gf": "29",
+      "ga": "11",
+      "pts": "11"
+    },
+    {
       "team": "Leaside Flames Gold",
       "gp": "9",
       "w": "5",
@@ -137,24 +147,14 @@
       "pts": "11"
     },
     {
-      "team": "Toronto Aeros",
-      "gp": "7",
-      "w": "4",
-      "l": "1",
-      "t": "2",
-      "gf": "28",
-      "ga": "10",
-      "pts": "10"
-    },
-    {
       "team": "Avenue Road Ducks",
-      "gp": "9",
+      "gp": "10",
       "w": "4",
       "l": "4",
-      "t": "1",
-      "gf": "32",
-      "ga": "24",
-      "pts": "9"
+      "t": "2",
+      "gf": "33",
+      "ga": "25",
+      "pts": "10"
     },
     {
       "team": "North Toronto",
@@ -659,6 +659,15 @@
       "source": "gthl_schedule"
     },
     {
+      "date": "2026-11-15",
+      "away": "Toronto Aeros",
+      "away_score": "1",
+      "home": "Avenue Road Ducks",
+      "home_score": "1",
+      "arena": "Fenside",
+      "source": "gthl_schedule"
+    },
+    {
       "date": "2026-11-16",
       "away": "Scarborough Ice Raiders",
       "away_score": "3",
@@ -669,7 +678,7 @@
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 1,
     "changed": 0,
     "removed": 0
   },
