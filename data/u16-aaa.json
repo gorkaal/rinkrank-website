@@ -1,104 +1,104 @@
 {
-  "as_of_toronto": "2026-11-16",
+  "as_of_toronto": "2026-11-17",
   "division": "GTHL U16 AAA",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 69,
+  "game_count": 71,
   "team_count": 12,
   "rankings": [
     {
       "rank": "1",
       "team": "Vaughan Kings",
-      "power_rating": "3.4311",
-      "momentum_rating": "4.4024",
-      "games_played": "11",
+      "power_rating": "3.5476",
+      "momentum_rating": "3.8299",
+      "games_played": "12",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Jr. Canadiens",
       "power_rating": "3.4167",
-      "momentum_rating": "3.8451",
+      "momentum_rating": "4.3588",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Toronto Marlboros",
-      "power_rating": "2.6205",
-      "momentum_rating": "4.0822",
+      "power_rating": "2.565",
+      "momentum_rating": "3.932",
       "games_played": "12",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "Toronto Young Nationals",
-      "power_rating": "1.5425",
-      "momentum_rating": "0.9876",
-      "games_played": "12",
+      "power_rating": "1.1978",
+      "momentum_rating": "-0.2146",
+      "games_played": "13",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Mississauga Rebels",
-      "power_rating": "0.599",
-      "momentum_rating": "-0.3509",
-      "games_played": "11",
+      "power_rating": "0.9754",
+      "momentum_rating": "1.1288",
+      "games_played": "12",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "Mississauga Senators",
-      "power_rating": "0.1693",
-      "momentum_rating": "-1.5314",
-      "games_played": "12",
+      "power_rating": "0.1726",
+      "momentum_rating": "-1.2917",
+      "games_played": "13",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "North York Rangers",
-      "power_rating": "-0.3515",
-      "momentum_rating": "0.6638",
+      "power_rating": "-0.3425",
+      "momentum_rating": "0.2997",
       "games_played": "12",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "Toronto Red Wings",
-      "power_rating": "-1.4678",
-      "momentum_rating": "-1.1254",
+      "power_rating": "-1.5105",
+      "momentum_rating": "-1.0709",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "9",
       "team": "Don Mills Flyers",
-      "power_rating": "-1.877",
-      "momentum_rating": "-0.9519",
+      "power_rating": "-1.8771",
+      "momentum_rating": "-0.7814",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "10",
       "team": "Markham Majors",
-      "power_rating": "-2.1152",
-      "momentum_rating": "-4.428",
+      "power_rating": "-2.093",
+      "momentum_rating": "-4.1815",
       "games_played": "13",
       "rank_change": 0
     },
     {
       "rank": "11",
       "team": "Reps Hockey Club",
-      "power_rating": "-2.8558",
-      "momentum_rating": "-4.4999",
+      "power_rating": "-2.9093",
+      "momentum_rating": "-4.6664",
       "games_played": "12",
       "rank_change": 0
     },
     {
       "rank": "12",
       "team": "Toronto Titans",
-      "power_rating": "-3.1119",
-      "momentum_rating": "-1.0936",
+      "power_rating": "-3.1424",
+      "momentum_rating": "-1.3428",
       "games_played": "11",
       "rank_change": 0
     }
@@ -106,13 +106,13 @@
   "standings": [
     {
       "team": "Vaughan Kings",
-      "gp": "11",
-      "w": "10",
+      "gp": "12",
+      "w": "11",
       "l": "0",
       "t": "1",
-      "gf": "57",
-      "ga": "12",
-      "pts": "21"
+      "gf": "62",
+      "ga": "13",
+      "pts": "23"
     },
     {
       "team": "Jr. Canadiens",
@@ -126,12 +126,12 @@
     },
     {
       "team": "Toronto Young Nationals",
-      "gp": "12",
+      "gp": "13",
       "w": "9",
-      "l": "1",
+      "l": "2",
       "t": "2",
-      "gf": "54",
-      "ga": "28",
+      "gf": "57",
+      "ga": "35",
       "pts": "20"
     },
     {
@@ -146,23 +146,23 @@
     },
     {
       "team": "Mississauga Senators",
-      "gp": "12",
+      "gp": "13",
       "w": "6",
-      "l": "3",
+      "l": "4",
       "t": "3",
-      "gf": "34",
-      "ga": "28",
+      "gf": "35",
+      "ga": "33",
       "pts": "15"
     },
     {
       "team": "Mississauga Rebels",
-      "gp": "11",
-      "w": "5",
+      "gp": "12",
+      "w": "6",
       "l": "4",
       "t": "2",
-      "gf": "36",
-      "ga": "32",
-      "pts": "12"
+      "gf": "43",
+      "ga": "35",
+      "pts": "14"
     },
     {
       "team": "Toronto Red Wings",
@@ -846,10 +846,28 @@
       "home_score": "1",
       "arena": "Thornhill Centre West",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "Mississauga Rebels",
+      "away_score": "7",
+      "home": "Toronto Young Nationals",
+      "home_score": "3",
+      "arena": "Westwood 1",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "Vaughan Kings",
+      "away_score": "5",
+      "home": "Mississauga Senators",
+      "home_score": "1",
+      "arena": "Mississauga Sports and Entertainment Centre 2",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 2,
     "changed": 0,
     "removed": 0
   },

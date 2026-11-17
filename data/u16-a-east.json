@@ -1,97 +1,97 @@
 {
-  "as_of_toronto": "2026-11-16",
+  "as_of_toronto": "2026-11-17",
   "division": "GTHL U16 A East",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 50,
+  "game_count": 51,
   "team_count": 11,
   "rankings": [
     {
       "rank": "1",
       "team": "Markham Islanders",
-      "power_rating": "3.1959",
-      "momentum_rating": "2.2885",
+      "power_rating": "3.1635",
+      "momentum_rating": "2.0165",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Toronto Aeros",
-      "power_rating": "2.301",
-      "momentum_rating": "2.7522",
+      "power_rating": "2.3377",
+      "momentum_rating": "2.8486",
       "games_played": "7",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Leaside Flames",
-      "power_rating": "1.398",
-      "momentum_rating": "1.5221",
+      "power_rating": "1.4004",
+      "momentum_rating": "1.6568",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "North Toronto",
-      "power_rating": "0.9157",
-      "momentum_rating": "1.5949",
+      "power_rating": "0.8867",
+      "momentum_rating": "1.749",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Avenue Road Ducks",
-      "power_rating": "0.5699",
-      "momentum_rating": "-0.6336",
+      "power_rating": "0.5662",
+      "momentum_rating": "-0.7012",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "East Enders Ticats",
-      "power_rating": "0.2957",
-      "momentum_rating": "-0.4834",
+      "power_rating": "0.268",
+      "momentum_rating": "-0.5315",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Leaside Flames Gold",
-      "power_rating": "0.2244",
-      "momentum_rating": "0.9656",
+      "power_rating": "0.2218",
+      "momentum_rating": "0.7264",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "Willowdale Hawks",
-      "power_rating": "-1.3259",
-      "momentum_rating": "-0.9565",
+      "power_rating": "-1.3279",
+      "momentum_rating": "-0.7826",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "9",
       "team": "Ted Reeve Thunder",
-      "power_rating": "-1.6224",
-      "momentum_rating": "-1.0905",
+      "power_rating": "-1.6222",
+      "momentum_rating": "-0.825",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "10",
       "team": "West Hill Golden Hawks",
-      "power_rating": "-2.2732",
-      "momentum_rating": "-1.7115",
-      "games_played": "10",
+      "power_rating": "-2.5357",
+      "momentum_rating": "-2.5152",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "11",
       "team": "Scarborough Ice Raiders",
-      "power_rating": "-3.6791",
-      "momentum_rating": "-4.2479",
-      "games_played": "8",
+      "power_rating": "-3.3586",
+      "momentum_rating": "-3.6417",
+      "games_played": "9",
       "rank_change": 0
     }
   ],
@@ -188,23 +188,23 @@
     },
     {
       "team": "West Hill Golden Hawks",
-      "gp": "10",
+      "gp": "11",
       "w": "1",
-      "l": "7",
+      "l": "8",
       "t": "2",
-      "gf": "14",
-      "ga": "39",
+      "gf": "15",
+      "ga": "42",
       "pts": "4"
     },
     {
       "team": "Scarborough Ice Raiders",
-      "gp": "8",
-      "w": "0",
+      "gp": "9",
+      "w": "1",
       "l": "7",
       "t": "1",
-      "gf": "6",
-      "ga": "36",
-      "pts": "1"
+      "gf": "9",
+      "ga": "37",
+      "pts": "3"
     }
   ],
   "games": [
@@ -657,10 +657,19 @@
       "home_score": "2",
       "arena": "Ted Reeve",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "Scarborough Ice Raiders",
+      "away_score": "3",
+      "home": "West Hill Golden Hawks",
+      "home_score": "1",
+      "arena": "Scarborough Centennial Arena",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 1,
     "changed": 0,
     "removed": 0
   },

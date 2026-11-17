@@ -1,72 +1,72 @@
 {
-  "as_of_toronto": "2026-11-16",
+  "as_of_toronto": "2026-11-17",
   "division": "GTHL U16 A West",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 34,
+  "game_count": 36,
   "team_count": 8,
   "rankings": [
     {
       "rank": "1",
       "team": "Avalanche",
-      "power_rating": "3.3789",
-      "momentum_rating": "3.7851",
+      "power_rating": "3.3799",
+      "momentum_rating": "3.8984",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Toronto Eagles",
-      "power_rating": "2.3115",
-      "momentum_rating": "0.6657",
-      "games_played": "8",
+      "power_rating": "2.3003",
+      "momentum_rating": "1.2487",
+      "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Vaughan Panthers",
-      "power_rating": "1.7013",
-      "momentum_rating": "2.8129",
-      "games_played": "8",
+      "power_rating": "1.6909",
+      "momentum_rating": "2.559",
+      "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "Vaughan Rangers",
-      "power_rating": "1.0966",
-      "momentum_rating": "-0.2382",
+      "power_rating": "1.0971",
+      "momentum_rating": "-0.0569",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Humber Valley Sharks",
-      "power_rating": "0.2111",
-      "momentum_rating": "0.974",
-      "games_played": "8",
+      "power_rating": "0.2213",
+      "momentum_rating": "0.2462",
+      "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "West Mall Lightning",
-      "power_rating": "-1.4021",
-      "momentum_rating": "-0.11",
-      "games_played": "9",
+      "power_rating": "-1.3918",
+      "momentum_rating": "-0.1139",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Vaughan Rangers Blue",
-      "power_rating": "-2.2998",
-      "momentum_rating": "-2.1829",
+      "power_rating": "-2.3012",
+      "momentum_rating": "-2.1159",
       "games_played": "7",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "Duffield Devils",
-      "power_rating": "-4.9975",
-      "momentum_rating": "-5.7067",
+      "power_rating": "-4.9964",
+      "momentum_rating": "-5.6656",
       "games_played": "9",
       "rank_change": 0
     }
@@ -84,12 +84,22 @@
     },
     {
       "team": "Toronto Eagles",
-      "gp": "8",
-      "w": "5",
+      "gp": "9",
+      "w": "6",
       "l": "1",
       "t": "2",
-      "gf": "39",
-      "ga": "15",
+      "gf": "42",
+      "ga": "16",
+      "pts": "14"
+    },
+    {
+      "team": "Vaughan Panthers",
+      "gp": "9",
+      "w": "6",
+      "l": "3",
+      "t": "0",
+      "gf": "44",
+      "ga": "23",
       "pts": "12"
     },
     {
@@ -103,33 +113,23 @@
       "pts": "11"
     },
     {
-      "team": "Vaughan Panthers",
-      "gp": "8",
-      "w": "5",
-      "l": "3",
-      "t": "0",
-      "gf": "39",
-      "ga": "21",
-      "pts": "10"
-    },
-    {
       "team": "Humber Valley Sharks",
-      "gp": "8",
+      "gp": "9",
       "w": "4",
-      "l": "3",
+      "l": "4",
       "t": "1",
-      "gf": "27",
-      "ga": "19",
+      "gf": "28",
+      "ga": "22",
       "pts": "9"
     },
     {
       "team": "West Mall Lightning",
-      "gp": "9",
+      "gp": "10",
       "w": "2",
-      "l": "6",
+      "l": "7",
       "t": "1",
-      "gf": "20",
-      "ga": "33",
+      "gf": "22",
+      "ga": "38",
       "pts": "5"
     },
     {
@@ -459,10 +459,28 @@
       "home_score": "1",
       "arena": "Westwood 1",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "Humber Valley Sharks",
+      "away_score": "1",
+      "home": "Toronto Eagles",
+      "home_score": "3",
+      "arena": "Scotiabank Pond 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-16",
+      "away": "West Mall Lightning",
+      "away_score": "2",
+      "home": "Vaughan Panthers",
+      "home_score": "5",
+      "arena": "Vaughan Sports Village B",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 2,
     "changed": 0,
     "removed": 0
   },
