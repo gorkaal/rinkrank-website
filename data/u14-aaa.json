@@ -1,32 +1,32 @@
 {
-  "as_of_toronto": "2026-11-17",
+  "as_of_toronto": "2026-11-19",
   "division": "GTHL U14 AAA",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 67,
+  "game_count": 68,
   "team_count": 12,
   "rankings": [
     {
       "rank": "1",
       "team": "Toronto Marlboros",
       "power_rating": "4.0049",
-      "momentum_rating": "2.6406",
+      "momentum_rating": "2.5957",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Jr. Canadiens",
-      "power_rating": "3.4167",
-      "momentum_rating": "3.2059",
-      "games_played": "11",
+      "power_rating": "3.456",
+      "momentum_rating": "3.2546",
+      "games_played": "12",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Vaughan Kings",
-      "power_rating": "2.9462",
-      "momentum_rating": "4.8148",
+      "power_rating": "2.9464",
+      "momentum_rating": "4.7699",
       "games_played": "9",
       "rank_change": 0
     },
@@ -34,63 +34,63 @@
       "rank": "4",
       "team": "Toronto Young Nationals",
       "power_rating": "2.5885",
-      "momentum_rating": "3.4169",
+      "momentum_rating": "3.3723",
       "games_played": "12",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Toronto Red Wings",
-      "power_rating": "0.1851",
-      "momentum_rating": "0.2905",
+      "power_rating": "0.1854",
+      "momentum_rating": "0.2916",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "Toronto Titans",
-      "power_rating": "0.0532",
-      "momentum_rating": "0.458",
+      "power_rating": "0.0529",
+      "momentum_rating": "0.4047",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Reps Hockey Club",
-      "power_rating": "-1.0359",
-      "momentum_rating": "-2.224",
-      "games_played": "12",
+      "power_rating": "-1.0724",
+      "momentum_rating": "-2.0079",
+      "games_played": "13",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "Markham Majors",
-      "power_rating": "-1.0926",
-      "momentum_rating": "-2.5438",
+      "power_rating": "-1.0924",
+      "momentum_rating": "-2.5309",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "9",
       "team": "Don Mills Flyers",
-      "power_rating": "-1.9376",
-      "momentum_rating": "0.0478",
+      "power_rating": "-1.9378",
+      "momentum_rating": "0.0596",
       "games_played": "12",
       "rank_change": 0
     },
     {
       "rank": "10",
       "team": "North York Rangers",
-      "power_rating": "-2.4664",
-      "momentum_rating": "-2.1536",
+      "power_rating": "-2.4693",
+      "momentum_rating": "-2.1526",
       "games_played": "12",
       "rank_change": 0
     },
     {
       "rank": "11",
       "team": "Mississauga Rebels",
-      "power_rating": "-3.1042",
-      "momentum_rating": "-2.9156",
+      "power_rating": "-3.1044",
+      "momentum_rating": "-2.9769",
       "games_played": "12",
       "rank_change": 0
     },
@@ -98,12 +98,22 @@
       "rank": "12",
       "team": "Mississauga Senators",
       "power_rating": "-3.5577",
-      "momentum_rating": "-5.0374",
+      "momentum_rating": "-5.08",
       "games_played": "11",
       "rank_change": 0
     }
   ],
   "standings": [
+    {
+      "team": "Jr. Canadiens",
+      "gp": "12",
+      "w": "10",
+      "l": "1",
+      "t": "1",
+      "gf": "66",
+      "ga": "17",
+      "pts": "21"
+    },
     {
       "team": "Toronto Marlboros",
       "gp": "10",
@@ -112,16 +122,6 @@
       "t": "1",
       "gf": "67",
       "ga": "5",
-      "pts": "19"
-    },
-    {
-      "team": "Jr. Canadiens",
-      "gp": "11",
-      "w": "9",
-      "l": "1",
-      "t": "1",
-      "gf": "61",
-      "ga": "17",
       "pts": "19"
     },
     {
@@ -176,12 +176,12 @@
     },
     {
       "team": "Reps Hockey Club",
-      "gp": "12",
+      "gp": "13",
       "w": "4",
-      "l": "7",
+      "l": "8",
       "t": "1",
       "gf": "37",
-      "ga": "51",
+      "ga": "56",
       "pts": "9"
     },
     {
@@ -828,10 +828,19 @@
       "home_score": "2",
       "arena": "Mississauga Sports and Entertainment Centre 3",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "Jr. Canadiens",
+      "away_score": "5",
+      "home": "Reps Hockey Club",
+      "home_score": "0",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 1,
     "changed": 0,
     "removed": 0
   },

@@ -1,65 +1,65 @@
 {
-  "as_of_toronto": "2026-11-17",
+  "as_of_toronto": "2026-11-19",
   "division": "GTHL U14 AA East",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 35,
+  "game_count": 39,
   "team_count": 7,
   "rankings": [
     {
       "rank": "1",
       "team": "North Toronto",
-      "power_rating": "1.5469",
-      "momentum_rating": "0.9612",
+      "power_rating": "1.5846",
+      "momentum_rating": "0.9917",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "East Enders Ticats",
-      "power_rating": "1.1515",
-      "momentum_rating": "1.8559",
-      "games_played": "10",
+      "power_rating": "1.4161",
+      "momentum_rating": "2.0714",
+      "games_played": "12",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Leaside Flames",
-      "power_rating": "1.0167",
-      "momentum_rating": "0.8033",
-      "games_played": "9",
+      "power_rating": "0.7421",
+      "momentum_rating": "0.4193",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "Ted Reeve Thunder",
-      "power_rating": "-0.5452",
-      "momentum_rating": "-1.6178",
-      "games_played": "12",
+      "power_rating": "-0.4277",
+      "momentum_rating": "-1.0952",
+      "games_played": "13",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Markham Islanders",
-      "power_rating": "-0.8198",
-      "momentum_rating": "0.1717",
-      "games_played": "9",
+      "power_rating": "-0.9439",
+      "momentum_rating": "-0.8724",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "North York Knights",
-      "power_rating": "-0.8348",
-      "momentum_rating": "-0.4358",
-      "games_played": "9",
+      "power_rating": "-1.0834",
+      "momentum_rating": "-1.3923",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Scarborough Ice Raiders",
-      "power_rating": "-1.5152",
-      "momentum_rating": "-1.7384",
-      "games_played": "10",
+      "power_rating": "-1.2879",
+      "momentum_rating": "-0.1224",
+      "games_played": "11",
       "rank_change": 0
     }
   ],
@@ -76,62 +76,62 @@
     },
     {
       "team": "East Enders Ticats",
-      "gp": "10",
-      "w": "7",
-      "l": "2",
+      "gp": "12",
+      "w": "8",
+      "l": "3",
       "t": "1",
-      "gf": "36",
-      "ga": "22",
-      "pts": "15"
+      "gf": "45",
+      "ga": "27",
+      "pts": "17"
     },
     {
       "team": "Leaside Flames",
-      "gp": "9",
-      "w": "4",
-      "l": "3",
+      "gp": "11",
+      "w": "5",
+      "l": "4",
       "t": "2",
-      "gf": "35",
-      "ga": "25",
-      "pts": "10"
+      "gf": "40",
+      "ga": "34",
+      "pts": "12"
     },
     {
       "team": "Ted Reeve Thunder",
-      "gp": "12",
-      "w": "2",
+      "gp": "13",
+      "w": "3",
       "l": "6",
       "t": "4",
-      "gf": "30",
-      "ga": "40",
+      "gf": "33",
+      "ga": "41",
+      "pts": "10"
+    },
+    {
+      "team": "Scarborough Ice Raiders",
+      "gp": "11",
+      "w": "3",
+      "l": "6",
+      "t": "2",
+      "gf": "15",
+      "ga": "31",
       "pts": "8"
     },
     {
       "team": "Markham Islanders",
-      "gp": "9",
+      "gp": "10",
       "w": "3",
-      "l": "5",
+      "l": "6",
       "t": "1",
-      "gf": "18",
-      "ga": "25",
+      "gf": "19",
+      "ga": "28",
       "pts": "7"
     },
     {
-      "team": "Scarborough Ice Raiders",
-      "gp": "10",
-      "w": "2",
-      "l": "6",
-      "t": "2",
-      "gf": "12",
-      "ga": "30",
-      "pts": "6"
-    },
-    {
       "team": "North York Knights",
-      "gp": "9",
+      "gp": "10",
       "w": "1",
-      "l": "5",
+      "l": "6",
       "t": "3",
-      "gf": "18",
-      "ga": "26",
+      "gf": "19",
+      "ga": "29",
       "pts": "5"
     }
   ],
@@ -450,10 +450,46 @@
       "home_score": "2",
       "arena": "North Toronto",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-17",
+      "away": "East Enders Ticats",
+      "away_score": "6",
+      "home": "Leaside Flames",
+      "home_score": "1",
+      "arena": "Leaside Memorial B",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-17",
+      "away": "Markham Islanders",
+      "away_score": "1",
+      "home": "Ted Reeve Thunder",
+      "home_score": "3",
+      "arena": "Ted Reeve",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-17",
+      "away": "North York Knights",
+      "away_score": "1",
+      "home": "Scarborough Ice Raiders",
+      "home_score": "3",
+      "arena": "Scarborough Centennial Arena",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "Leaside Flames",
+      "away_score": "4",
+      "home": "East Enders Ticats",
+      "home_score": "3",
+      "arena": "Scarborough Gardens",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 4,
     "changed": 0,
     "removed": 0
   },
