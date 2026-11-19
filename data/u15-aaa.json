@@ -1,105 +1,105 @@
 {
-  "as_of_toronto": "2026-11-17",
+  "as_of_toronto": "2026-11-19",
   "division": "GTHL U15 AAA",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 66,
+  "game_count": 67,
   "team_count": 12,
   "rankings": [
     {
       "rank": "1",
       "team": "North York Rangers",
-      "power_rating": "2.6168",
-      "momentum_rating": "2.2937",
+      "power_rating": "2.6205",
+      "momentum_rating": "2.006",
       "games_played": "12",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Jr. Canadiens",
-      "power_rating": "2.2537",
-      "momentum_rating": "3.1035",
+      "power_rating": "2.2834",
+      "momentum_rating": "2.937",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Vaughan Kings",
-      "power_rating": "1.9309",
-      "momentum_rating": "1.098",
+      "power_rating": "1.9333",
+      "momentum_rating": "0.7888",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "Toronto Marlboros",
-      "power_rating": "1.6952",
-      "momentum_rating": "2.1417",
+      "power_rating": "1.7168",
+      "momentum_rating": "2.6719",
       "games_played": "12",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Toronto Titans",
-      "power_rating": "1.4092",
-      "momentum_rating": "2.0378",
+      "power_rating": "1.4059",
+      "momentum_rating": "2.2423",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "Mississauga Rebels",
-      "power_rating": "0.4808",
-      "momentum_rating": "1.6624",
+      "power_rating": "0.4389",
+      "momentum_rating": "1.2123",
       "games_played": "12",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Mississauga Senators",
-      "power_rating": "0.2716",
-      "momentum_rating": "-0.1828",
+      "power_rating": "0.247",
+      "momentum_rating": "-0.0833",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "Toronto Young Nationals",
-      "power_rating": "-0.4302",
-      "momentum_rating": "-1.6413",
+      "power_rating": "-0.4324",
+      "momentum_rating": "-1.1971",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "9",
       "team": "Markham Majors",
-      "power_rating": "-1.0231",
-      "momentum_rating": "-0.7603",
+      "power_rating": "-1.0258",
+      "momentum_rating": "-0.233",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "10",
       "team": "Toronto Red Wings",
-      "power_rating": "-1.7483",
-      "momentum_rating": "-2.0972",
+      "power_rating": "-1.7502",
+      "momentum_rating": "-2.4828",
       "games_played": "12",
       "rank_change": 0
     },
     {
       "rank": "11",
       "team": "Don Mills Flyers",
-      "power_rating": "-2.8078",
-      "momentum_rating": "-2.4303",
-      "games_played": "12",
+      "power_rating": "-3.069",
+      "momentum_rating": "-4.3256",
+      "games_played": "13",
       "rank_change": 0
     },
     {
       "rank": "12",
       "team": "Reps Hockey Club",
-      "power_rating": "-4.6488",
-      "momentum_rating": "-5.225",
-      "games_played": "11",
+      "power_rating": "-4.3685",
+      "momentum_rating": "-3.5365",
+      "games_played": "12",
       "rank_change": 0
     }
   ],
@@ -206,23 +206,23 @@
     },
     {
       "team": "Don Mills Flyers",
-      "gp": "12",
+      "gp": "13",
       "w": "1",
-      "l": "9",
+      "l": "10",
       "t": "2",
-      "gf": "16",
-      "ga": "56",
+      "gf": "18",
+      "ga": "60",
       "pts": "4"
     },
     {
       "team": "Reps Hockey Club",
-      "gp": "11",
-      "w": "0",
+      "gp": "12",
+      "w": "1",
       "l": "11",
       "t": "0",
-      "gf": "6",
-      "ga": "80",
-      "pts": "0"
+      "gf": "10",
+      "ga": "82",
+      "pts": "2"
     }
   ],
   "games": [
@@ -819,10 +819,19 @@
       "home_score": "3",
       "arena": "Westwood 2",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "Don Mills Flyers",
+      "away_score": "2",
+      "home": "Reps Hockey Club",
+      "home_score": "4",
+      "arena": "Westwood 1",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 1,
     "changed": 0,
     "removed": 0
   },

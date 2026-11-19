@@ -1,104 +1,104 @@
 {
-  "as_of_toronto": "2026-11-17",
+  "as_of_toronto": "2026-11-19",
   "division": "GTHL U15 A East",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 56,
+  "game_count": 57,
   "team_count": 12,
   "rankings": [
     {
       "rank": "1",
       "team": "Leaside Flames",
-      "power_rating": "3.9268",
-      "momentum_rating": "3.2857",
+      "power_rating": "3.9338",
+      "momentum_rating": "3.6537",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Avenue Road Ducks",
-      "power_rating": "2.0424",
-      "momentum_rating": "1.0529",
+      "power_rating": "2.1079",
+      "momentum_rating": "1.2448",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Ted Reeve Thunder",
-      "power_rating": "1.7534",
-      "momentum_rating": "2.7777",
+      "power_rating": "1.7872",
+      "momentum_rating": "2.3349",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "North Toronto",
-      "power_rating": "1.4116",
-      "momentum_rating": "0.6041",
+      "power_rating": "1.4001",
+      "momentum_rating": "0.7246",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Toronto Aeros",
-      "power_rating": "1.2375",
-      "momentum_rating": "2.317",
+      "power_rating": "1.201",
+      "momentum_rating": "1.8608",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "Victoria Village Mustangs",
-      "power_rating": "-0.0792",
-      "momentum_rating": "-0.6876",
+      "power_rating": "-0.1094",
+      "momentum_rating": "-1.0565",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Ted Reeve Thunder Black",
-      "power_rating": "-0.0979",
-      "momentum_rating": "0.3037",
+      "power_rating": "-0.1339",
+      "momentum_rating": "0.1537",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "Leaside Flames Gold",
-      "power_rating": "-0.1796",
-      "momentum_rating": "-0.0157",
-      "games_played": "9",
+      "power_rating": "-0.5308",
+      "momentum_rating": "0.2054",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "9",
       "team": "North York Knights",
-      "power_rating": "-1.3018",
-      "momentum_rating": "-1.5556",
-      "games_played": "9",
+      "power_rating": "-0.9437",
+      "momentum_rating": "-0.21",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "10",
       "team": "West Hill Golden Hawks",
-      "power_rating": "-2.5874",
-      "momentum_rating": "-2.5064",
+      "power_rating": "-2.5875",
+      "momentum_rating": "-2.7966",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "11",
       "team": "Markham Islanders",
-      "power_rating": "-2.6259",
-      "momentum_rating": "-2.3729",
+      "power_rating": "-2.6289",
+      "momentum_rating": "-2.6889",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "12",
       "team": "Scarborough Ice Raiders",
-      "power_rating": "-3.4998",
-      "momentum_rating": "-3.2028",
+      "power_rating": "-3.4959",
+      "momentum_rating": "-3.426",
       "games_played": "9",
       "rank_change": 0
     }
@@ -176,22 +176,22 @@
     },
     {
       "team": "North York Knights",
-      "gp": "9",
-      "w": "4",
+      "gp": "10",
+      "w": "5",
       "l": "5",
       "t": "0",
-      "gf": "23",
-      "ga": "39",
-      "pts": "8"
+      "gf": "27",
+      "ga": "40",
+      "pts": "10"
     },
     {
       "team": "Leaside Flames Gold",
-      "gp": "9",
+      "gp": "10",
       "w": "3",
-      "l": "5",
+      "l": "6",
       "t": "1",
-      "gf": "26",
-      "ga": "24",
+      "gf": "27",
+      "ga": "28",
       "pts": "7"
     },
     {
@@ -729,10 +729,19 @@
       "home_score": "0",
       "arena": "Scarborough Centennial Arena",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-17",
+      "away": "North York Knights",
+      "away_score": "4",
+      "home": "Leaside Flames Gold",
+      "home_score": "1",
+      "arena": "St. Michaels",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 1,
     "changed": 0,
     "removed": 0
   },

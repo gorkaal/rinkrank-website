@@ -1,56 +1,56 @@
 {
-  "as_of_toronto": "2026-11-17",
+  "as_of_toronto": "2026-11-19",
   "division": "GTHL U15 A West",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 26,
+  "game_count": 27,
   "team_count": 6,
   "rankings": [
     {
       "rank": "1",
       "team": "Vaughan Panthers",
-      "power_rating": "2.3078",
-      "momentum_rating": "2.2263",
-      "games_played": "8",
+      "power_rating": "1.9274",
+      "momentum_rating": "0.9654",
+      "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Vaughan Rangers",
-      "power_rating": "1.766",
-      "momentum_rating": "1.4763",
+      "power_rating": "1.7982",
+      "momentum_rating": "1.7154",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Humber Valley Sharks",
-      "power_rating": "1.1345",
-      "momentum_rating": "2.6741",
+      "power_rating": "1.0957",
+      "momentum_rating": "2.3857",
       "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "Duffield Devils",
-      "power_rating": "0.1558",
-      "momentum_rating": "-0.2132",
-      "games_played": "8",
+      "power_rating": "0.5368",
+      "momentum_rating": "1.0313",
+      "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "West Mall Lightning",
-      "power_rating": "-0.5004",
-      "momentum_rating": "-1.8565",
+      "power_rating": "-0.4939",
+      "momentum_rating": "-1.7576",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "Toronto Eagles",
-      "power_rating": "-4.8636",
-      "momentum_rating": "-4.3071",
+      "power_rating": "-4.8642",
+      "momentum_rating": "-4.34",
       "games_played": "9",
       "rank_change": 0
     }
@@ -68,12 +68,12 @@
     },
     {
       "team": "Vaughan Panthers",
-      "gp": "8",
+      "gp": "9",
       "w": "6",
-      "l": "1",
+      "l": "2",
       "t": "1",
-      "gf": "37",
-      "ga": "12",
+      "gf": "40",
+      "ga": "17",
       "pts": "13"
     },
     {
@@ -88,13 +88,13 @@
     },
     {
       "team": "Duffield Devils",
-      "gp": "8",
-      "w": "3",
+      "gp": "9",
+      "w": "4",
       "l": "3",
       "t": "2",
-      "gf": "35",
-      "ga": "21",
-      "pts": "8"
+      "gf": "40",
+      "ga": "24",
+      "pts": "10"
     },
     {
       "team": "West Mall Lightning",
@@ -351,10 +351,19 @@
       "home_score": "16",
       "arena": "Vaughan Sports Village A",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "Duffield Devils",
+      "away_score": "5",
+      "home": "Vaughan Panthers",
+      "home_score": "3",
+      "arena": "Garnet A Williams Arena",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 1,
     "changed": 0,
     "removed": 0
   },
