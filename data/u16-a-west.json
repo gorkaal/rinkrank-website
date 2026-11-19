@@ -1,72 +1,72 @@
 {
-  "as_of_toronto": "2026-11-17",
+  "as_of_toronto": "2026-11-19",
   "division": "GTHL U16 A West",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 36,
+  "game_count": 37,
   "team_count": 8,
   "rankings": [
     {
       "rank": "1",
       "team": "Avalanche",
-      "power_rating": "3.3799",
-      "momentum_rating": "3.8984",
+      "power_rating": "3.3796",
+      "momentum_rating": "4.1021",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Toronto Eagles",
-      "power_rating": "2.3003",
-      "momentum_rating": "1.2487",
-      "games_played": "9",
+      "power_rating": "2.1781",
+      "momentum_rating": "0.6824",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Vaughan Panthers",
-      "power_rating": "1.6909",
-      "momentum_rating": "2.559",
+      "power_rating": "1.6808",
+      "momentum_rating": "2.7614",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "Vaughan Rangers",
-      "power_rating": "1.0971",
-      "momentum_rating": "-0.0569",
+      "power_rating": "1.0817",
+      "momentum_rating": "0.1533",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Humber Valley Sharks",
-      "power_rating": "0.2213",
-      "momentum_rating": "0.2462",
+      "power_rating": "0.195",
+      "momentum_rating": "0.4499",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "West Mall Lightning",
-      "power_rating": "-1.3918",
-      "momentum_rating": "-0.1139",
+      "power_rating": "-1.3696",
+      "momentum_rating": "0.0718",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Vaughan Rangers Blue",
-      "power_rating": "-2.3012",
-      "momentum_rating": "-2.1159",
-      "games_played": "7",
+      "power_rating": "-2.1433",
+      "momentum_rating": "-2.7656",
+      "games_played": "8",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "Duffield Devils",
-      "power_rating": "-4.9964",
-      "momentum_rating": "-5.6656",
+      "power_rating": "-5.0021",
+      "momentum_rating": "-5.4554",
       "games_played": "9",
       "rank_change": 0
     }
@@ -84,13 +84,13 @@
     },
     {
       "team": "Toronto Eagles",
-      "gp": "9",
-      "w": "6",
+      "gp": "10",
+      "w": "7",
       "l": "1",
       "t": "2",
-      "gf": "42",
-      "ga": "16",
-      "pts": "14"
+      "gf": "48",
+      "ga": "19",
+      "pts": "16"
     },
     {
       "team": "Vaughan Panthers",
@@ -134,12 +134,12 @@
     },
     {
       "team": "Vaughan Rangers Blue",
-      "gp": "7",
+      "gp": "8",
       "w": "2",
-      "l": "5",
+      "l": "6",
       "t": "0",
-      "gf": "17",
-      "ga": "35",
+      "gf": "20",
+      "ga": "41",
       "pts": "4"
     },
     {
@@ -477,10 +477,19 @@
       "home_score": "5",
       "arena": "Vaughan Sports Village B",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "Toronto Eagles",
+      "away_score": "6",
+      "home": "Vaughan Rangers Blue",
+      "home_score": "3",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 1,
     "changed": 0,
     "removed": 0
   },
