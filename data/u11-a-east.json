@@ -1,136 +1,136 @@
 {
-  "as_of_toronto": "2026-11-17",
+  "as_of_toronto": "2026-11-19",
   "division": "GTHL U11 A East",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 79,
+  "game_count": 82,
   "team_count": 16,
   "rankings": [
     {
       "rank": "1",
       "team": "North Toronto",
-      "power_rating": "4.5314",
-      "momentum_rating": "5.0282",
+      "power_rating": "4.5191",
+      "momentum_rating": "4.8301",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "North Toronto Green",
-      "power_rating": "2.5899",
-      "momentum_rating": "2.658",
+      "power_rating": "2.5825",
+      "momentum_rating": "2.4862",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Scarborough Ice Raiders",
-      "power_rating": "1.9885",
-      "momentum_rating": "1.876",
+      "power_rating": "1.9906",
+      "momentum_rating": "1.7283",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "Vaughan Rangers East",
-      "power_rating": "1.7752",
-      "momentum_rating": "1.8577",
-      "games_played": "10",
+      "power_rating": "1.7008",
+      "momentum_rating": "1.91",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Avenue Road Ducks",
-      "power_rating": "1.6195",
-      "momentum_rating": "0.8593",
+      "power_rating": "1.6365",
+      "momentum_rating": "0.7913",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "North York Knights",
-      "power_rating": "1.4643",
-      "momentum_rating": "1.2754",
-      "games_played": "10",
+      "power_rating": "1.3402",
+      "momentum_rating": "1.1443",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Leaside Flames",
-      "power_rating": "0.862",
-      "momentum_rating": "0.3816",
+      "power_rating": "0.8542",
+      "momentum_rating": "0.6709",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "West Hill Golden Hawks",
-      "power_rating": "0.6407",
-      "momentum_rating": "0.56",
+      "power_rating": "0.6169",
+      "momentum_rating": "0.5239",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "9",
       "team": "Forest Hill",
-      "power_rating": "0.4062",
-      "momentum_rating": "-0.3813",
+      "power_rating": "0.4097",
+      "momentum_rating": "-0.5809",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "10",
       "team": "York Mills",
-      "power_rating": "-1.1025",
-      "momentum_rating": "-1.1591",
-      "games_played": "9",
+      "power_rating": "-0.9042",
+      "momentum_rating": "0.514",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "11",
       "team": "Ted Reeve Thunder",
-      "power_rating": "-1.1093",
-      "momentum_rating": "-0.4985",
+      "power_rating": "-1.0952",
+      "momentum_rating": "-0.6937",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "12",
       "team": "Markham Islanders",
-      "power_rating": "-2.1731",
-      "momentum_rating": "-1.6823",
+      "power_rating": "-2.1584",
+      "momentum_rating": "-1.3942",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "13",
       "team": "Toronto Aeros",
-      "power_rating": "-2.4256",
-      "momentum_rating": "-2.4714",
-      "games_played": "9",
+      "power_rating": "-2.2939",
+      "momentum_rating": "-2.7393",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "14",
       "team": "Hillcrest Canadiens",
-      "power_rating": "-2.5628",
-      "momentum_rating": "-1.8889",
+      "power_rating": "-2.5799",
+      "momentum_rating": "-2.0537",
       "games_played": "12",
       "rank_change": 0
     },
     {
       "rank": "15",
       "team": "Goulding Park Rangers",
-      "power_rating": "-3.1562",
-      "momentum_rating": "-3.0959",
-      "games_played": "10",
+      "power_rating": "-3.2631",
+      "momentum_rating": "-3.6867",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "16",
       "team": "Victoria Village Mustangs",
-      "power_rating": "-3.3483",
-      "momentum_rating": "-3.3188",
+      "power_rating": "-3.3558",
+      "momentum_rating": "-3.4505",
       "games_played": "10",
       "rank_change": 0
     }
@@ -168,13 +168,13 @@
     },
     {
       "team": "Vaughan Rangers East",
-      "gp": "10",
-      "w": "8",
+      "gp": "11",
+      "w": "9",
       "l": "2",
       "t": "0",
-      "gf": "42",
-      "ga": "18",
-      "pts": "16"
+      "gf": "46",
+      "ga": "20",
+      "pts": "18"
     },
     {
       "team": "Scarborough Ice Raiders",
@@ -198,13 +198,13 @@
     },
     {
       "team": "North York Knights",
-      "gp": "10",
-      "w": "5",
+      "gp": "11",
+      "w": "6",
       "l": "4",
       "t": "1",
-      "gf": "39",
-      "ga": "24",
-      "pts": "11"
+      "gf": "43",
+      "ga": "27",
+      "pts": "13"
     },
     {
       "team": "Leaside Flames",
@@ -228,12 +228,12 @@
     },
     {
       "team": "York Mills",
-      "gp": "9",
+      "gp": "11",
       "w": "4",
-      "l": "4",
+      "l": "6",
       "t": "1",
-      "gf": "25",
-      "ga": "33",
+      "gf": "30",
+      "ga": "41",
       "pts": "9"
     },
     {
@@ -278,22 +278,22 @@
     },
     {
       "team": "Toronto Aeros",
-      "gp": "9",
-      "w": "0",
+      "gp": "10",
+      "w": "1",
       "l": "8",
       "t": "1",
-      "gf": "10",
+      "gf": "12",
       "ga": "36",
-      "pts": "1"
+      "pts": "3"
     },
     {
       "team": "Goulding Park Rangers",
-      "gp": "10",
+      "gp": "11",
       "w": "0",
-      "l": "9",
+      "l": "10",
       "t": "1",
       "gf": "15",
-      "ga": "63",
+      "ga": "65",
       "pts": "1"
     }
   ],
@@ -1008,10 +1008,37 @@
       "home_score": "3",
       "arena": "Amesbury",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-17",
+      "away": "North York Knights",
+      "away_score": "4",
+      "home": "York Mills",
+      "home_score": "3",
+      "arena": "Scotiabank Pond 3",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-17",
+      "away": "Toronto Aeros",
+      "away_score": "2",
+      "home": "Goulding Park Rangers",
+      "home_score": "0",
+      "arena": "Goulding Park",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "York Mills",
+      "away_score": "2",
+      "home": "Vaughan Rangers East",
+      "home_score": "4",
+      "arena": "Garnet A Williams Arena",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 3,
     "changed": 0,
     "removed": 0
   },

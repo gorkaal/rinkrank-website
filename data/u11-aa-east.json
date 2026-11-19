@@ -1,96 +1,96 @@
 {
-  "as_of_toronto": "2026-11-17",
+  "as_of_toronto": "2026-11-19",
   "division": "GTHL U11 AA East",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 54,
+  "game_count": 57,
   "team_count": 11,
   "rankings": [
     {
       "rank": "1",
       "team": "Forest Hill",
-      "power_rating": "3.3041",
-      "momentum_rating": "2.5773",
-      "games_played": "10",
+      "power_rating": "3.3459",
+      "momentum_rating": "3.0899",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "East Enders Ticats",
-      "power_rating": "3.004",
-      "momentum_rating": "4.2707",
-      "games_played": "9",
+      "power_rating": "2.9428",
+      "momentum_rating": "3.7815",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Goulding Park Rangers",
-      "power_rating": "1.3337",
-      "momentum_rating": "-0.4385",
-      "games_played": "10",
+      "power_rating": "1.4735",
+      "momentum_rating": "0.1714",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "North York Knights",
-      "power_rating": "1.2716",
-      "momentum_rating": "1.8358",
+      "power_rating": "1.2821",
+      "momentum_rating": "1.6251",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Ted Reeve Thunder",
-      "power_rating": "0.9744",
-      "momentum_rating": "0.4135",
-      "games_played": "10",
+      "power_rating": "1.0713",
+      "momentum_rating": "1.2191",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "North Toronto",
-      "power_rating": "0.9727",
-      "momentum_rating": "1.2242",
-      "games_played": "8",
+      "power_rating": "0.8718",
+      "momentum_rating": "0.9209",
+      "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Leaside Flames",
-      "power_rating": "-0.3974",
-      "momentum_rating": "-0.0667",
+      "power_rating": "-0.4071",
+      "momentum_rating": "-0.2164",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "West Hill Golden Hawks",
-      "power_rating": "-1.9091",
-      "momentum_rating": "-2.2433",
-      "games_played": "10",
+      "power_rating": "-2.0439",
+      "momentum_rating": "-3.3573",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "9",
       "team": "Scarborough Ice Raiders",
-      "power_rating": "-2.3208",
-      "momentum_rating": "-1.3925",
+      "power_rating": "-2.3186",
+      "momentum_rating": "-1.4132",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "10",
       "team": "Scarborough Young Bruins",
-      "power_rating": "-3.0397",
-      "momentum_rating": "-3.4704",
+      "power_rating": "-3.0246",
+      "momentum_rating": "-3.2564",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "11",
       "team": "Markham Islanders",
-      "power_rating": "-3.1934",
-      "momentum_rating": "-2.71",
+      "power_rating": "-3.1932",
+      "momentum_rating": "-2.5647",
       "games_played": "11",
       "rank_change": 0
     }
@@ -98,33 +98,33 @@
   "standings": [
     {
       "team": "Forest Hill",
-      "gp": "10",
-      "w": "10",
+      "gp": "11",
+      "w": "11",
       "l": "0",
       "t": "0",
-      "gf": "55",
-      "ga": "12",
-      "pts": "20"
+      "gf": "57",
+      "ga": "13",
+      "pts": "22"
     },
     {
       "team": "East Enders Ticats",
-      "gp": "9",
+      "gp": "10",
       "w": "8",
-      "l": "1",
+      "l": "2",
       "t": "0",
-      "gf": "39",
-      "ga": "12",
+      "gf": "40",
+      "ga": "14",
       "pts": "16"
     },
     {
       "team": "Ted Reeve Thunder",
-      "gp": "10",
-      "w": "7",
+      "gp": "11",
+      "w": "8",
       "l": "3",
       "t": "0",
-      "gf": "39",
-      "ga": "24",
-      "pts": "14"
+      "gf": "43",
+      "ga": "27",
+      "pts": "16"
     },
     {
       "team": "North York Knights",
@@ -138,13 +138,13 @@
     },
     {
       "team": "Goulding Park Rangers",
-      "gp": "10",
-      "w": "6",
+      "gp": "11",
+      "w": "7",
       "l": "4",
       "t": "0",
-      "gf": "33",
+      "gf": "38",
       "ga": "16",
-      "pts": "12"
+      "pts": "14"
     },
     {
       "team": "Leaside Flames",
@@ -158,12 +158,12 @@
     },
     {
       "team": "North Toronto",
-      "gp": "8",
+      "gp": "9",
       "w": "4",
-      "l": "3",
+      "l": "4",
       "t": "1",
-      "gf": "32",
-      "ga": "21",
+      "gf": "35",
+      "ga": "25",
       "pts": "9"
     },
     {
@@ -177,16 +177,6 @@
       "pts": "5"
     },
     {
-      "team": "West Hill Golden Hawks",
-      "gp": "10",
-      "w": "1",
-      "l": "8",
-      "t": "1",
-      "gf": "20",
-      "ga": "41",
-      "pts": "3"
-    },
-    {
       "team": "Scarborough Young Bruins",
       "gp": "10",
       "w": "1",
@@ -194,6 +184,16 @@
       "t": "1",
       "gf": "16",
       "ga": "53",
+      "pts": "3"
+    },
+    {
+      "team": "West Hill Golden Hawks",
+      "gp": "11",
+      "w": "1",
+      "l": "9",
+      "t": "1",
+      "gf": "20",
+      "ga": "46",
       "pts": "3"
     },
     {
@@ -693,10 +693,37 @@
       "home_score": "2",
       "arena": "Scarborough Gardens",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-17",
+      "away": "East Enders Ticats",
+      "away_score": "1",
+      "home": "Forest Hill",
+      "home_score": "2",
+      "arena": "Scotiabank Pond 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "North Toronto",
+      "away_score": "3",
+      "home": "Ted Reeve Thunder",
+      "home_score": "4",
+      "arena": "Ted Reeve",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "West Hill Golden Hawks",
+      "away_score": "0",
+      "home": "Goulding Park Rangers",
+      "home_score": "5",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 3,
     "changed": 0,
     "removed": 0
   },
