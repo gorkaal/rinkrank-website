@@ -1,104 +1,104 @@
 {
-  "as_of_toronto": "2026-11-17",
+  "as_of_toronto": "2026-11-19",
   "division": "GTHL U12 AAA",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 61,
+  "game_count": 64,
   "team_count": 12,
   "rankings": [
     {
       "rank": "1",
       "team": "Jr. Canadiens",
-      "power_rating": "3.9339",
-      "momentum_rating": "3.1769",
+      "power_rating": "3.9443",
+      "momentum_rating": "3.2874",
       "games_played": "12",
       "rank_change": 0
     },
     {
       "rank": "2",
-      "team": "Don Mills Flyers",
-      "power_rating": "3.4403",
-      "momentum_rating": "4.5075",
-      "games_played": "11",
-      "rank_change": 0
+      "team": "Toronto Marlboros",
+      "power_rating": "3.0768",
+      "momentum_rating": "4.654",
+      "games_played": "12",
+      "rank_change": 1
     },
     {
       "rank": "3",
-      "team": "Toronto Marlboros",
-      "power_rating": "2.75",
-      "momentum_rating": "3.8409",
-      "games_played": "11",
-      "rank_change": 0
+      "team": "Don Mills Flyers",
+      "power_rating": "2.9982",
+      "momentum_rating": "2.826",
+      "games_played": "13",
+      "rank_change": -1
     },
     {
       "rank": "4",
       "team": "Vaughan Kings",
-      "power_rating": "1.168",
-      "momentum_rating": "0.2526",
+      "power_rating": "1.1566",
+      "momentum_rating": "0.4681",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "Toronto Titans",
-      "power_rating": "0.0874",
-      "momentum_rating": "0.1502",
-      "games_played": "10",
+      "power_rating": "-0.1023",
+      "momentum_rating": "-0.8751",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "Mississauga Senators",
-      "power_rating": "-0.3823",
-      "momentum_rating": "-0.8699",
+      "power_rating": "-0.3702",
+      "momentum_rating": "-0.4776",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Toronto Young Nationals",
-      "power_rating": "-0.7705",
-      "momentum_rating": "-1.2258",
+      "power_rating": "-0.7528",
+      "momentum_rating": "-0.7966",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "Reps Hockey Club",
-      "power_rating": "-1.1956",
-      "momentum_rating": "-1.4851",
-      "games_played": "9",
+      "power_rating": "-1.0434",
+      "momentum_rating": "-1.3615",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "9",
       "team": "Toronto Red Wings",
-      "power_rating": "-1.3867",
-      "momentum_rating": "-1.0486",
+      "power_rating": "-1.3884",
+      "momentum_rating": "-1.3972",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "10",
       "team": "Mississauga Rebels",
-      "power_rating": "-1.7507",
-      "momentum_rating": "-1.037",
+      "power_rating": "-1.7459",
+      "momentum_rating": "-0.9352",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "11",
       "team": "North York Rangers",
-      "power_rating": "-2.8596",
-      "momentum_rating": "-2.9229",
-      "games_played": "11",
+      "power_rating": "-2.724",
+      "momentum_rating": "-2.3655",
+      "games_played": "12",
       "rank_change": 0
     },
     {
       "rank": "12",
       "team": "Markham Majors",
-      "power_rating": "-3.0341",
-      "momentum_rating": "-3.3388",
+      "power_rating": "-3.0489",
+      "momentum_rating": "-3.0268",
       "games_played": "9",
       "rank_change": 0
     }
@@ -116,23 +116,23 @@
     },
     {
       "team": "Don Mills Flyers",
-      "gp": "11",
-      "w": "10",
-      "l": "1",
+      "gp": "13",
+      "w": "11",
+      "l": "2",
       "t": "0",
-      "gf": "64",
-      "ga": "13",
-      "pts": "20"
+      "gf": "72",
+      "ga": "22",
+      "pts": "22"
     },
     {
       "team": "Toronto Marlboros",
-      "gp": "11",
-      "w": "9",
+      "gp": "12",
+      "w": "10",
       "l": "2",
       "t": "0",
-      "gf": "57",
-      "ga": "20",
-      "pts": "18"
+      "gf": "65",
+      "ga": "24",
+      "pts": "20"
     },
     {
       "team": "Vaughan Kings",
@@ -146,13 +146,13 @@
     },
     {
       "team": "Toronto Titans",
-      "gp": "10",
-      "w": "5",
+      "gp": "11",
+      "w": "6",
       "l": "5",
       "t": "0",
-      "gf": "24",
-      "ga": "29",
-      "pts": "10"
+      "gf": "27",
+      "ga": "31",
+      "pts": "12"
     },
     {
       "team": "Mississauga Senators",
@@ -195,16 +195,6 @@
       "pts": "4"
     },
     {
-      "team": "Reps Hockey Club",
-      "gp": "9",
-      "w": "1",
-      "l": "7",
-      "t": "1",
-      "gf": "19",
-      "ga": "29",
-      "pts": "3"
-    },
-    {
       "team": "Markham Majors",
       "gp": "9",
       "w": "1",
@@ -215,13 +205,23 @@
       "pts": "3"
     },
     {
-      "team": "North York Rangers",
-      "gp": "11",
+      "team": "Reps Hockey Club",
+      "gp": "10",
       "w": "1",
-      "l": "9",
+      "l": "8",
       "t": "1",
-      "gf": "16",
-      "ga": "77",
+      "gf": "20",
+      "ga": "33",
+      "pts": "3"
+    },
+    {
+      "team": "North York Rangers",
+      "gp": "12",
+      "w": "1",
+      "l": "10",
+      "t": "1",
+      "gf": "18",
+      "ga": "80",
       "pts": "-7"
     }
   ],
@@ -774,10 +774,37 @@
       "home_score": "0",
       "arena": "Mississauga Sports and Entertainment Centre 2",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-17",
+      "away": "Toronto Marlboros",
+      "away_score": "8",
+      "home": "Don Mills Flyers",
+      "home_score": "4",
+      "arena": "Victoria Village",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "Don Mills Flyers",
+      "away_score": "4",
+      "home": "Reps Hockey Club",
+      "home_score": "1",
+      "arena": "Westwood 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "Toronto Titans",
+      "away_score": "3",
+      "home": "North York Rangers",
+      "home_score": "2",
+      "arena": "Herbert Carnegie",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 3,
     "changed": 0,
     "removed": 0
   },

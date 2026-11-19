@@ -1,136 +1,136 @@
 {
-  "as_of_toronto": "2026-11-17",
+  "as_of_toronto": "2026-11-19",
   "division": "GTHL U12 A East",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 65,
+  "game_count": 69,
   "team_count": 13,
   "rankings": [
     {
       "rank": "1",
       "team": "Forest Hill",
-      "power_rating": "4.3821",
-      "momentum_rating": "4.4396",
-      "games_played": "10",
+      "power_rating": "4.0795",
+      "momentum_rating": "2.9681",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "2",
       "team": "Leaside Flames",
-      "power_rating": "2.3257",
-      "momentum_rating": "3.4576",
+      "power_rating": "2.366",
+      "momentum_rating": "3.5836",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "3",
       "team": "Scarborough Ice Raiders",
-      "power_rating": "2.0063",
-      "momentum_rating": "0.9809",
-      "games_played": "9",
+      "power_rating": "2.3501",
+      "momentum_rating": "2.3134",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "4",
       "team": "Ted Reeve Thunder",
-      "power_rating": "1.501",
-      "momentum_rating": "-0.1769",
+      "power_rating": "1.4309",
+      "momentum_rating": "-0.3244",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "5",
       "team": "West Hill Golden Hawks",
-      "power_rating": "0.9599",
-      "momentum_rating": "1.0368",
+      "power_rating": "0.9536",
+      "momentum_rating": "0.8176",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "6",
       "team": "North Toronto Green",
-      "power_rating": "0.5315",
-      "momentum_rating": "0.5113",
+      "power_rating": "0.6112",
+      "momentum_rating": "1.0221",
       "games_played": "12",
       "rank_change": 0
     },
     {
       "rank": "7",
       "team": "Toronto Aeros",
-      "power_rating": "0.4616",
-      "momentum_rating": "-0.2773",
-      "games_played": "10",
+      "power_rating": "0.4111",
+      "momentum_rating": "-1.2522",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "North York Knights",
-      "power_rating": "-0.4527",
-      "momentum_rating": "0.2576",
-      "games_played": "10",
-      "rank_change": 0
-    },
-    {
-      "rank": "9",
-      "team": "East Enders Ticats",
-      "power_rating": "-0.965",
-      "momentum_rating": "-1.0848",
+      "power_rating": "-0.4498",
+      "momentum_rating": "-0.2713",
       "games_played": "11",
       "rank_change": 0
     },
     {
-      "rank": "10",
+      "rank": "9",
       "team": "North Toronto",
-      "power_rating": "-1.0048",
-      "momentum_rating": "0.1434",
-      "games_played": "10",
-      "rank_change": 0
+      "power_rating": "-0.7372",
+      "momentum_rating": "0.3688",
+      "games_played": "11",
+      "rank_change": 1
+    },
+    {
+      "rank": "10",
+      "team": "East Enders Ticats",
+      "power_rating": "-1.1554",
+      "momentum_rating": "-1.4716",
+      "games_played": "12",
+      "rank_change": -1
     },
     {
       "rank": "11",
       "team": "York Mills",
-      "power_rating": "-2.2095",
-      "momentum_rating": "-1.7472",
-      "games_played": "10",
+      "power_rating": "-1.9536",
+      "momentum_rating": "0.2867",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "12",
       "team": "Avenue Road Ducks",
-      "power_rating": "-3.5897",
-      "momentum_rating": "-4.2689",
+      "power_rating": "-3.6238",
+      "momentum_rating": "-3.9265",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "13",
       "team": "Markham Islanders",
-      "power_rating": "-3.9464",
-      "momentum_rating": "-3.272",
-      "games_played": "9",
+      "power_rating": "-4.2824",
+      "momentum_rating": "-4.1143",
+      "games_played": "10",
       "rank_change": 0
     }
   ],
   "standings": [
     {
-      "team": "Forest Hill",
+      "team": "Scarborough Ice Raiders",
       "gp": "10",
       "w": "10",
       "l": "0",
       "t": "0",
-      "gf": "64",
-      "ga": "9",
+      "gf": "36",
+      "ga": "13",
       "pts": "20"
     },
     {
-      "team": "Scarborough Ice Raiders",
-      "gp": "9",
-      "w": "9",
-      "l": "0",
+      "team": "Forest Hill",
+      "gp": "11",
+      "w": "10",
+      "l": "1",
       "t": "0",
-      "gf": "33",
-      "ga": "11",
-      "pts": "18"
+      "gf": "66",
+      "ga": "12",
+      "pts": "20"
     },
     {
       "team": "Ted Reeve Thunder",
@@ -156,30 +156,40 @@
       "team": "North Toronto Green",
       "gp": "12",
       "w": "6",
-      "l": "6",
-      "t": "0",
-      "gf": "51",
-      "ga": "33",
-      "pts": "12"
-    },
-    {
-      "team": "East Enders Ticats",
-      "gp": "11",
-      "w": "5",
       "l": "5",
       "t": "1",
-      "gf": "24",
-      "ga": "36",
-      "pts": "11"
+      "gf": "51",
+      "ga": "32",
+      "pts": "13"
     },
     {
       "team": "Toronto Aeros",
-      "gp": "10",
+      "gp": "11",
       "w": "4",
       "l": "4",
+      "t": "3",
+      "gf": "33",
+      "ga": "29",
+      "pts": "11"
+    },
+    {
+      "team": "East Enders Ticats",
+      "gp": "12",
+      "w": "5",
+      "l": "6",
+      "t": "1",
+      "gf": "25",
+      "ga": "40",
+      "pts": "11"
+    },
+    {
+      "team": "North Toronto",
+      "gp": "11",
+      "w": "4",
+      "l": "5",
       "t": "2",
-      "gf": "31",
-      "ga": "27",
+      "gf": "30",
+      "ga": "43",
       "pts": "10"
     },
     {
@@ -193,43 +203,33 @@
       "pts": "8"
     },
     {
-      "team": "North Toronto",
-      "gp": "10",
+      "team": "York Mills",
+      "gp": "11",
       "w": "3",
-      "l": "5",
-      "t": "2",
-      "gf": "26",
-      "ga": "42",
-      "pts": "8"
-    },
-    {
-      "team": "North York Knights",
-      "gp": "10",
-      "w": "3",
-      "l": "7",
+      "l": "8",
       "t": "0",
-      "gf": "23",
-      "ga": "39",
+      "gf": "22",
+      "ga": "40",
       "pts": "6"
     },
     {
-      "team": "York Mills",
-      "gp": "10",
+      "team": "North York Knights",
+      "gp": "11",
       "w": "2",
-      "l": "8",
-      "t": "0",
-      "gf": "17",
-      "ga": "40",
-      "pts": "4"
+      "l": "7",
+      "t": "2",
+      "gf": "24",
+      "ga": "41",
+      "pts": "6"
     },
     {
       "team": "Markham Islanders",
-      "gp": "9",
+      "gp": "10",
       "w": "0",
-      "l": "7",
+      "l": "8",
       "t": "2",
       "gf": "8",
-      "ga": "52",
+      "ga": "57",
       "pts": "2"
     },
     {
@@ -598,7 +598,7 @@
     {
       "date": "2026-11-02",
       "away": "North York Knights",
-      "away_score": "3",
+      "away_score": "2",
       "home": "North Toronto Green",
       "home_score": "2",
       "arena": "North Toronto",
@@ -828,11 +828,47 @@
       "home_score": "9",
       "arena": "North Toronto",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-17",
+      "away": "Markham Islanders",
+      "away_score": "0",
+      "home": "York Mills",
+      "home_score": "5",
+      "arena": "Goulding Park",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-17",
+      "away": "North York Knights",
+      "away_score": "2",
+      "home": "Toronto Aeros",
+      "home_score": "2",
+      "arena": "Scarborough Centennial Arena",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-17",
+      "away": "Scarborough Ice Raiders",
+      "away_score": "3",
+      "home": "Forest Hill",
+      "home_score": "2",
+      "arena": "Forest Hill/Larry Grossman",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-18",
+      "away": "North Toronto",
+      "away_score": "4",
+      "home": "East Enders Ticats",
+      "home_score": "1",
+      "arena": "Scarborough Centennial Arena",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
-    "changed": 0,
+    "added": 4,
+    "changed": 1,
     "removed": 0
   },
   "quality": {

@@ -1,134 +1,144 @@
 {
-  "as_of_toronto": "2026-11-17",
+  "as_of_toronto": "2026-11-19",
   "division": "GTHL U12 AA West",
   "season": "2026–27",
   "status": "verified_against_official_GTHL_standings",
-  "game_count": 67,
+  "game_count": 71,
   "team_count": 14,
   "rankings": [
     {
       "rank": "1",
       "team": "Faustina Toros",
-      "power_rating": "3.0141",
-      "momentum_rating": "2.7749",
+      "power_rating": "2.9755",
+      "momentum_rating": "2.7518",
       "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "2",
-      "team": "Vaughan Panthers",
-      "power_rating": "2.3899",
-      "momentum_rating": "2.1255",
-      "games_played": "8",
-      "rank_change": 0
+      "team": "Toronto Eagles",
+      "power_rating": "2.2734",
+      "momentum_rating": "1.9358",
+      "games_played": "10",
+      "rank_change": 1
     },
     {
       "rank": "3",
-      "team": "Toronto Eagles",
-      "power_rating": "2.2596",
-      "momentum_rating": "1.7657",
-      "games_played": "10",
-      "rank_change": 0
+      "team": "Vaughan Panthers",
+      "power_rating": "2.0008",
+      "momentum_rating": "1.6515",
+      "games_played": "9",
+      "rank_change": -1
     },
     {
       "rank": "4",
-      "team": "Mississauga North Stars",
-      "power_rating": "1.3117",
-      "momentum_rating": "0.2374",
+      "team": "Mississauga Terriers",
+      "power_rating": "1.4378",
+      "momentum_rating": "3.4958",
       "games_played": "11",
-      "rank_change": 0
+      "rank_change": 2
     },
     {
       "rank": "5",
-      "team": "Vaughan Rangers",
-      "power_rating": "1.2596",
-      "momentum_rating": "1.6937",
-      "games_played": "8",
-      "rank_change": 0
+      "team": "Mississauga North Stars",
+      "power_rating": "1.3232",
+      "momentum_rating": "1.1609",
+      "games_played": "12",
+      "rank_change": -1
     },
     {
       "rank": "6",
-      "team": "Mississauga Terriers",
-      "power_rating": "1.246",
-      "momentum_rating": "2.9965",
-      "games_played": "10",
-      "rank_change": 0
+      "team": "Vaughan Rangers",
+      "power_rating": "1.2806",
+      "momentum_rating": "0.8586",
+      "games_played": "9",
+      "rank_change": -1
     },
     {
       "rank": "7",
       "team": "West Mall Lightning",
-      "power_rating": "0.9397",
-      "momentum_rating": "-0.7469",
+      "power_rating": "0.9766",
+      "momentum_rating": "-0.5791",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "8",
       "team": "Duffield Devils",
-      "power_rating": "0.2047",
-      "momentum_rating": "2.6253",
-      "games_played": "10",
+      "power_rating": "0.0959",
+      "momentum_rating": "2.3835",
+      "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "9",
       "team": "Mississauga Beast",
-      "power_rating": "-0.4072",
-      "momentum_rating": "-1.2844",
-      "games_played": "8",
+      "power_rating": "-0.4813",
+      "momentum_rating": "-1.097",
+      "games_played": "9",
       "rank_change": 0
     },
     {
       "rank": "10",
       "team": "The Attack",
-      "power_rating": "-1.4322",
-      "momentum_rating": "-1.6251",
+      "power_rating": "-1.4669",
+      "momentum_rating": "-1.6482",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "11",
       "team": "Streetsville Tigers",
-      "power_rating": "-2.2343",
-      "momentum_rating": "-3.2695",
+      "power_rating": "-2.2259",
+      "momentum_rating": "-3.5088",
       "games_played": "11",
       "rank_change": 0
     },
     {
       "rank": "12",
       "team": "Humber Valley Sharks",
-      "power_rating": "-2.3934",
-      "momentum_rating": "-1.4828",
-      "games_played": "9",
+      "power_rating": "-2.3856",
+      "momentum_rating": "-1.3367",
+      "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "13",
       "team": "Mississauga Jets",
-      "power_rating": "-2.5058",
-      "momentum_rating": "-2.6236",
+      "power_rating": "-2.4687",
+      "momentum_rating": "-2.7466",
       "games_played": "10",
       "rank_change": 0
     },
     {
       "rank": "14",
       "team": "Toronto Wolverines",
-      "power_rating": "-3.6522",
-      "momentum_rating": "-3.1869",
-      "games_played": "10",
+      "power_rating": "-3.3355",
+      "momentum_rating": "-3.3214",
+      "games_played": "11",
       "rank_change": 0
     }
   ],
   "standings": [
     {
       "team": "Vaughan Panthers",
-      "gp": "8",
-      "w": "8",
+      "gp": "9",
+      "w": "9",
       "l": "0",
       "t": "0",
-      "gf": "27",
+      "gf": "29",
       "ga": "8",
-      "pts": "16"
+      "pts": "18"
+    },
+    {
+      "team": "Mississauga North Stars",
+      "gp": "12",
+      "w": "7",
+      "l": "1",
+      "t": "4",
+      "gf": "44",
+      "ga": "17",
+      "pts": "18"
     },
     {
       "team": "West Mall Lightning",
@@ -141,13 +151,13 @@
       "pts": "16"
     },
     {
-      "team": "Mississauga North Stars",
+      "team": "Mississauga Terriers",
       "gp": "11",
-      "w": "6",
-      "l": "1",
-      "t": "4",
-      "gf": "38",
-      "ga": "15",
+      "w": "7",
+      "l": "2",
+      "t": "2",
+      "gf": "40",
+      "ga": "19",
       "pts": "16"
     },
     {
@@ -161,16 +171,6 @@
       "pts": "15"
     },
     {
-      "team": "Mississauga Terriers",
-      "gp": "10",
-      "w": "6",
-      "l": "2",
-      "t": "2",
-      "gf": "36",
-      "ga": "18",
-      "pts": "14"
-    },
-    {
       "team": "Toronto Eagles",
       "gp": "10",
       "w": "7",
@@ -182,32 +182,32 @@
     },
     {
       "team": "Duffield Devils",
-      "gp": "10",
+      "gp": "11",
       "w": "5",
-      "l": "3",
+      "l": "4",
       "t": "2",
-      "gf": "26",
-      "ga": "21",
+      "gf": "27",
+      "ga": "25",
       "pts": "12"
     },
     {
       "team": "Vaughan Rangers",
-      "gp": "8",
-      "w": "3",
+      "gp": "9",
+      "w": "4",
       "l": "3",
       "t": "2",
-      "gf": "34",
-      "ga": "17",
-      "pts": "8"
+      "gf": "38",
+      "ga": "19",
+      "pts": "10"
     },
     {
       "team": "Mississauga Beast",
-      "gp": "8",
+      "gp": "9",
       "w": "3",
-      "l": "4",
+      "l": "5",
       "t": "1",
-      "gf": "20",
-      "ga": "27",
+      "gf": "22",
+      "ga": "31",
       "pts": "7"
     },
     {
@@ -242,22 +242,22 @@
     },
     {
       "team": "Toronto Wolverines",
-      "gp": "10",
+      "gp": "11",
       "w": "1",
-      "l": "9",
+      "l": "10",
       "t": "0",
       "gf": "6",
-      "ga": "51",
+      "ga": "53",
       "pts": "2"
     },
     {
       "team": "Humber Valley Sharks",
-      "gp": "9",
+      "gp": "10",
       "w": "0",
-      "l": "9",
+      "l": "10",
       "t": "0",
-      "gf": "11",
-      "ga": "34",
+      "gf": "13",
+      "ga": "40",
       "pts": "0"
     }
   ],
@@ -864,10 +864,46 @@
       "home_score": "8",
       "arena": "Erin Mills 2",
       "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-17",
+      "away": "Duffield Devils",
+      "away_score": "1",
+      "home": "Mississauga Terriers",
+      "home_score": "4",
+      "arena": "Mississauga Sports and Entertainment Centre 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-17",
+      "away": "Humber Valley Sharks",
+      "away_score": "2",
+      "home": "Mississauga North Stars",
+      "home_score": "6",
+      "arena": "Tomken 2",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-17",
+      "away": "Vaughan Panthers",
+      "away_score": "2",
+      "home": "Toronto Wolverines",
+      "home_score": "0",
+      "arena": "Scotiabank Pond 4",
+      "source": "gthl_schedule"
+    },
+    {
+      "date": "2026-11-17",
+      "away": "Vaughan Rangers",
+      "away_score": "4",
+      "home": "Mississauga Beast",
+      "home_score": "2",
+      "arena": "Mississauga Sports and Entertainment Centre 2",
+      "source": "gthl_schedule"
     }
   ],
   "changes": {
-    "added": 0,
+    "added": 4,
     "changed": 0,
     "removed": 0
   },
